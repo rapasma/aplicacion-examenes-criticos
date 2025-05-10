@@ -1,0 +1,282 @@
+{
+  "idExamen": "tema14_examen_2_dificil",
+  "nombreExamen": "Tema 14 - Examen 2 Difícil (Paciente Gran Quemado)",
+  "idTema": "tema14",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Las quemaduras de tercer grado se describen como 'no dolorosas'. ¿Cuál es la razón fisiopatológica principal de esta ausencia de dolor inicial en la zona de la quemadura profunda?",
+      "opciones": [
+        {"id": "b", "texto": "La liberación masiva de endorfinas endógenas que bloquean la percepción del dolor."},
+        {"id": "a", "texto": "La destrucción completa de las terminaciones nerviosas sensitivas en la dermis y epidermis afectadas."},
+        {"id": "c", "texto": "La formación de una escara gruesa que aísla térmicamente los receptores del dolor."},
+        {"id": "d", "texto": "El shock neurogénico asociado que suprime la transmisión del dolor."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La Regla de los 9 de Wallace, aunque útil, ¿en qué tipo de paciente adulto presentaría mayores imprecisiones debido a variaciones en la proporción de las superficies corporales?",
+      "opciones": [
+        {"id": "a", "texto": "Pacientes con complexión atlética."},
+        {"id": "b", "texto": "Pacientes con obesidad mórbida o caquexia extrema."},
+        {"id": "c", "texto": "Pacientes de edad muy avanzada (>85 años)."},
+        {"id": "d", "texto": "Pacientes con quemaduras eléctricas únicamente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "La alta probabilidad de IOT en quemaduras que afectan cabeza y cuello se debe principalmente al riesgo de:",
+      "opciones": [
+        {"id": "a", "texto": "Desarrollo rápido de edema de la vía aérea superior que puede obstruirla completamente."},
+        {"id": "b", "texto": "Dolor severo que impide una ventilación espontánea adecuada."},
+        {"id": "c", "texto": "Infección pulmonar por inhalación de partículas."},
+        {"id": "d", "texto": "Lesión directa de las cuerdas vocales por el calor."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "¿Por qué se prefiere el Ringer Lactato sobre el Suero Salino Fisiológico (0.9%) para la reposición inicial de grandes volúmenes en quemados?",
+      "opciones": [
+        {"id": "a", "texto": "Porque el Ringer Lactato tiene un pH más ácido, favorable en el shock."},
+        {"id": "b", "texto": "Para evitar la acidosis hiperclorémica que puede inducir el Suero Salino Fisiológico en grandes cantidades, ya que el lactato se metaboliza a bicarbonato."},
+        {"id": "c", "texto": "Porque el Suero Salino Fisiológico contiene potasio, contraindicado en quemados."},
+        {"id": "d", "texto": "Debido a que el Ringer Lactato es significativamente más barato."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "La reposición con Albúmina al 5% se inicia a las 8-12h postquemadura. ¿Cuál es la justificación fisiopatológica principal para este momento y tipo de fluido?",
+      "opciones": [
+        {"id": "a", "texto": "Para corregir la hipoproteinemia desde el inicio y reducir el edema."},
+        {"id": "b", "texto": "Porque antes de las 8-12h, la permeabilidad capilar es tan alta que la albúmina extravasaría, pudiendo empeorar el edema intersticial; después, ayuda a restaurar la presión oncótica intravascular."},
+        {"id": "c", "texto": "Para proporcionar un aporte calórico temprano."},
+        {"id": "d", "texto": "Como un sustituto más seguro de los cristaloides en todas las fases."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "El desbridamiento enzimático utiliza pomadas con enzimas proteolíticas. ¿Cuál es una ventaja potencial de este método sobre el desbridamiento quirúrgico en ciertas quemaduras?",
+      "opciones": [
+        {"id": "a", "texto": "Es mucho más rápido y siempre completo en una sola aplicación."},
+        {"id": "b", "texto": "No requiere ningún tipo de analgesia."},
+        {"id": "c", "texto": "Puede ser más selectivo para el tejido necrótico, preservando mejor el tejido viable subyacente en quemaduras de espesor dérmico o mixto."},
+        {"id": "d", "texto": "Elimina la necesidad de injertos de piel posteriores."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La monitorización horaria de la diuresis en un paciente gran quemado es un indicador crucial de:",
+      "opciones": [
+        {"id": "a", "texto": "El estado nutricional del paciente."},
+        {"id": "b", "texto": "La eficacia de la antibioterapia."},
+        {"id": "c", "texto": "La adecuada perfusión renal y, por ende, la efectividad de la resucitación con fluidos."},
+        {"id": "d", "texto": "El riesgo de desarrollar úlceras por presión."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "La posición de Fowler a 45° se recomienda para el paciente gran quemado. Además de mejorar la mecánica ventilatoria, ¿qué otro beneficio importante aporta esta posición, especialmente si hay quemaduras en cara y cuello?",
+      "opciones": [
+        {"id": "a", "texto": "Aumenta el retorno venoso de las extremidades inferiores."},
+        {"id": "b", "texto": "Reduce el riesgo de aspiración en caso de vómito."},
+        {"id": "d", "texto": "Disminuye el edema facial y de la vía aérea al favorecer el drenaje venoso y linfático."},
+        {"id": "c", "texto": "Facilita la exploración de la espalda del paciente."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Los requerimientos energéticos en el paciente gran quemado son 'notablemente superiores'. ¿Cuál es la principal causa de este hipermetabolismo?",
+      "opciones": [
+        {"id": "a", "texto": "La actividad física del paciente durante los cuidados."},
+        {"id": "b", "texto": "La respuesta inflamatoria sistémica masiva, la pérdida de calor, y el esfuerzo del cuerpo por reparar los tejidos dañados."},
+        {"id": "c", "texto": "La administración de grandes volúmenes de fluidos fríos."},
+        {"id": "d", "texto": "El efecto secundario de los fármacos opiáceos administrados."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "El tanque de Hubbard se utiliza en el tratamiento de las quemaduras. ¿Cuál de las siguientes opciones describe mejor su función principal en este contexto?",
+      "opciones": [
+        {"id": "a", "texto": "Proporcionar un entorno estéril para la aplicación de injertos."},
+        {"id": "b", "texto": "Facilitar la hidroterapia para la limpieza de las heridas, el desbridamiento suave y la realización de ejercicios pasivos en un medio que reduce el dolor."},
+        {"id": "c", "texto": "Administrar oxígeno hiperbárico para mejorar la cicatrización."},
+        {"id": "d", "texto": "Mantener al paciente en aislamiento protector estricto."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "¿Cuál es la diferencia fundamental en la afectación tisular entre una quemadura de segundo grado superficial y una de segundo grado profunda?",
+      "opciones": [
+        {"id": "a", "texto": "La superficial afecta la epidermis y la profunda la hipodermis."},
+        {"id": "b", "texto": "La superficial es indolora, mientras que la profunda es extremadamente dolorosa."},
+        {"id": "c", "texto": "La superficial afecta la dermis papilar (más superficial) conservando apéndices dérmicos, mientras que la profunda alcanza la dermis reticular con mayor destrucción de dichos apéndices, afectando la capacidad de regeneración."},
+        {"id": "d", "texto": "La superficial siempre presenta flictenas, la profunda nunca."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Al aplicar la Regla de los 9 de Wallace en un adulto con quemaduras en toda la espalda y la cara posterior de ambas piernas, ¿qué porcentaje de SCQ se estimaría?",
+      "opciones": [
+        {"id": "a", "texto": "27% (Espalda 18% + Cara posterior pierna izq. 4.5% + Cara posterior pierna der. 4.5%)"},
+        {"id": "b", "texto": "36% (Espalda 18% + Cada pierna completa 9%)"},
+        {"id": "c", "texto": "45% (Espalda 18% + Cada pierna completa 18% / 2 = 9% x 2 = 18%) NO, cada pierna es 18%, la mitad posterior es 9%. Espalda 18% + Post Pierna Izq 9% + Post Pierna Der 9% = 36%"},
+        {"id": "d", "texto": "36% (Espalda 18% + Cara posterior de una pierna 9% + Cara posterior de la otra pierna 9%)."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "La intoxicación por monóxido de carbono (CO) es un riesgo en quemaduras por llama en espacios cerrados. ¿Por qué la IOT puede ser necesaria incluso con buena SpO2 inicial?",
+      "opciones": [
+        {"id": "a", "texto": "Porque el CO produce una quemadura química directa en los alvéolos."},
+        {"id": "b", "texto": "Porque la pulsioximetría estándar (SpO2) no distingue eficazmente entre oxihemoglobina y carboxihemoglobina, pudiendo dar lecturas falsamente altas de saturación de oxígeno."},
+        {"id": "c", "texto": "Porque el CO causa parálisis de los músculos respiratorios."},
+        {"id": "d", "texto": "Porque la IOT permite administrar antídotos específicos para el CO directamente en el pulmón."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "Si se utiliza la Fórmula de Brooke modificada (2 ml RL x Kg X % SCQ) para un paciente de 70 Kg con 60% SCQ, ¿cuántos ml de Ringer Lactato se administrarían en las primeras 8 horas?",
+      "opciones": [
+        {"id": "a", "texto": "8400 ml en total, 4200 ml en las primeras 8 horas."},
+        {"id": "b", "texto": "4200 ml en total, 2100 ml en las primeras 8 horas."},
+        {"id": "c", "texto": "16800 ml en total, 8400 ml en las primeras 8 horas."},
+        {"id": "d", "texto": "La mitad del volumen total calculado para 24 horas se administra en las primeras 8 horas: (2x70x60)/2 = 4200 ml."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "El uso de opiáceos para el dolor en el gran quemado es de elección. ¿Qué ventaja principal ofrecen los opiáceos en este contexto agudo sobre otros analgésicos?",
+      "opciones": [
+        {"id": "b", "texto": "Ausencia total de efectos secundarios respiratorios."},
+        {"id": "a", "texto": "Potente analgesia, posibilidad de titulación y diversas vías de administración (IV, epidural), adaptándose al dolor severo y fluctuante."},
+        {"id": "c", "texto": "Efecto antiinflamatorio superior a los AINEs."},
+        {"id": "d", "texto": "Mínimo riesgo de dependencia incluso con uso prolongado."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La 'eliminación de flictenas' es parte del tratamiento de las quemaduras. ¿Cuál es la controversia o el principal argumento para debridar flictenas grandes o rotas?",
+      "opciones": [
+        {"id": "a", "texto": "Para utilizar el líquido de la flictena como expansor de volumen."},
+        {"id": "b", "texto": "Las flictenas intactas siempre protegen de la infección, por lo que nunca deben romperse."},
+        {"id": "c", "texto": "El líquido de la flictena puede contener mediadores inflamatorios que retrasan la cicatrización, y las flictenas grandes o rotas pueden ser un medio de cultivo e impedir la valoración de la herida subyacente."},
+        {"id": "d", "texto": "Para permitir una mejor absorción de los antibióticos tópicos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Mantener las 'extremidades afectadas elevadas sobre almohadas' en un paciente quemado busca principalmente:",
+      "opciones": [
+        {"id": "a", "texto": "Favorecer el drenaje de secreciones purulentas."},
+        {"id": "b", "texto": "Reducir el edema y mejorar el retorno venoso y linfático, disminuyendo la presión tisular."},
+        {"id": "c", "texto": "Inmovilizar la extremidad para facilitar la cicatrización de injertos."},
+        {"id": "d", "texto": "Aumentar el flujo arterial hacia la zona quemada."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La 'rehabilitación para preservar la movilidad' en el paciente gran quemado debe iniciarse:",
+      "opciones": [
+        {"id": "a", "texto": "Solo después de que todas las heridas hayan cicatrizado completamente."},
+        {"id": "b", "texto": "De forma precoz, incluso en la fase aguda, con movilizaciones pasivas y activas según tolerancia, para prevenir contracturas y pérdida de función."},
+        {"id": "c", "texto": "Únicamente si el paciente es joven y con buen estado físico previo."},
+        {"id": "d", "texto": "Principalmente mediante ejercicios isométricos para no dañar los injertos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "El estrés postraumático es una secuela psicológica frecuente en grandes quemados. ¿Qué factor NO contribuye directamente a este estrés en la fase aguda?",
+      "opciones": [
+        {"id": "a", "texto": "La memoria del evento traumático."},
+        {"id": "b", "texto": "El dolor intenso y prolongado."},
+        {"id": "c", "texto": "Los procedimientos médicos invasivos y frecuentes."},
+        {"id": "d", "texto": "La administración profiláctica de Ringer Lactato."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "Considerando la regla de los 9 de Wallace para un adulto, una quemadura que afecta la totalidad de ambas piernas y los genitales correspondería a un porcentaje de SCQ de:",
+      "opciones": [
+        {"id": "a", "texto": "19% (Pierna 9% + Pierna 9% + Genitales 1%)"},
+        {"id": "b", "texto": "37% (Pierna 18% + Pierna 18% + Genitales 1%)"},
+        {"id": "c", "texto": "36% (Ambas piernas 18% cada una)"},
+        {"id": "d", "texto": "28% (Pierna 13.5% + Pierna 13.5% + Genitales 1%)"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "En el contexto de las quemaduras de cuarto grado, ¿qué estructuras profundas se ven afectadas además de la piel?",
+      "opciones": [
+        {"id": "a", "texto": "Músculos, tendones e incluso huesos."},
+        {"id": "b", "texto": "Solo la dermis reticular y papilar."},
+        {"id": "c", "texto": "La epidermis y la capa superficial de la dermis."},
+        {"id": "d", "texto": "El tejido celular subcutáneo exclusivamente."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "La 'vía central' se menciona como parte de la estabilización (C - Circulación) del gran quemado. ¿Cuál es la razón principal para preferir una vía central sobre múltiples vías periféricas en estos pacientes?",
+      "opciones": [
+        {"id": "a", "texto": "Es menos dolorosa de insertar que las vías periféricas."},
+        {"id": "b", "texto": "Permite la administración segura de grandes volúmenes de fluidos, fármacos vasoactivos o irritantes, y la monitorización de la presión venosa central."},
+        {"id": "c", "texto": "Tiene un menor riesgo de infección que las vías periféricas."},
+        {"id": "d", "texto": "Solo se utiliza si no se pueden canalizar vías periféricas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "El control horario de las Constantes Vitales (CV) en el paciente gran quemado es fundamental para detectar precozmente:",
+      "opciones": [
+        {"id": "a", "texto": "El desarrollo de estrés postraumático."},
+        {"id": "b", "texto": "La necesidad de apoyo psicológico."},
+        {"id": "c", "texto": "Signos de shock hipovolémico, distributivo o séptico, y la respuesta a la resucitación."},
+        {"id": "d", "texto": "El momento óptimo para el desbridamiento quirúrgico."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "La necesidad de 'nutrición enteral precoz' en el gran quemado se debe al hipermetabolismo. ¿Qué consecuencia negativa se asocia con un soporte nutricional tardío o inadecuado?",
+      "opciones": [
+        {"id": "a", "texto": "Rápida ganancia de peso y sobrecarga de fluidos."},
+        {"id": "b", "texto": "Mejora de la función inmune y cicatrización acelerada."},
+        {"id": "c", "texto": "Aumento del catabolismo proteico, pérdida de masa muscular, disfunción inmune, retraso en la cicatrización y mayor riesgo de infección."},
+        {"id": "d", "texto": "Desarrollo de hipoglucemia persistente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "Las 'flictenas' son características de las quemaduras de segundo grado. ¿Qué contienen principalmente estas ampollas?",
+      "opciones": [
+        {"id": "a", "texto": "Pus, indicando una infección temprana."},
+        {"id": "b", "texto": "Sangre, debido a la rotura de capilares profundos."},
+        {"id": "c", "texto": "Un exudado plasmático rico en proteínas y factores inflamatorios."},
+        {"id": "d", "texto": "Aire, como resultado de la separación de las capas de la piel."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}

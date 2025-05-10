@@ -1,0 +1,282 @@
+{
+  "idExamen": "tema10_examen_dificil_1",
+  "nombreExamen": "Tema 10 - Examen Muy Difícil (SVA y Postreanimación)",
+  "idTema": "tema10",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Aunque los criterios de participación en ILCOR no se definieron con precisión, ¿qué se esperaba implícitamente de las organizaciones miembros respecto a la creación de pautas de reanimación?",
+      "opciones": [
+        {"id": "a", "texto": "Que tuvieran un mandato aceptado para crear pautas de reanimación, preferiblemente para más de un país."},
+        {"id": "b", "texto": "Que fueran exclusivamente de ámbito europeo."},
+        {"id": "c", "texto": "Que sus pautas fueran exclusivamente para un solo país para asegurar la especificidad."},
+        {"id": "d", "texto": "Que fueran capaces de financiar sus propias investigaciones sin ayuda externa."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "El Soporte Vital Básico (SVB) se describe como el conjunto de actuaciones que se realizan 'sin más equipamiento que ciertos dispositivos de protección'. ¿Cuál es la implicación principal de esta afirmación en cuanto a la accesibilidad del SVB?",
+      "opciones": [
+        {"id": "a", "texto": "Solo puede ser realizado por personal sanitario en un hospital."},
+        {"id": "b", "texto": "Requiere un maletín de emergencias completo para su ejecución."},
+        {"id": "c", "texto": "Es obsoleto y ha sido reemplazado completamente por el SVA."},
+        {"id": "d", "texto": "Puede ser iniciado por cualquier persona entrenada, incluso fuera del ámbito hospitalario, con mínimos recursos."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "En la cadena de supervivencia, el eslabón 'Desfibrilación precoz' tiene como objetivo 'Para reiniciar el corazón'. ¿Qué condición subyacente hace que este reinicio sea posible y necesario?",
+      "opciones": [
+        {"id": "a", "texto": "Una asistolia prolongada, donde el corazón necesita un impulso externo."},
+        {"id": "b", "texto": "Una actividad eléctrica sin pulso (AESP) que requiere sincronización."},
+        {"id": "c", "texto": "Una bradicardia extrema que no responde a fármacos."},
+        {"id": "d", "texto": "Ritmos caóticos como la Fibrilación Ventricular (FV) o Taquicardia Ventricular sin pulso (TVSP) que son susceptibles a la descarga eléctrica."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "El algoritmo de SVA de la ERC 2021 enfatiza minimizar las interrupciones de las compresiones torácicas. ¿Cuál es la consecuencia fisiopatológica directa de interrupciones prolongadas?",
+      "opciones": [
+        {"id": "a", "texto": "Pérdida crítica de la presión de perfusión coronaria y cerebral."},
+        {"id": "b", "texto": "Aumento del riesgo de neumotórax por barotrauma."},
+        {"id": "c", "texto": "Fatiga excesiva del reanimador, disminuyendo la calidad de las ventilaciones."},
+        {"id": "d", "texto": "Incremento de la acidosis metabólica por acumulación de lactato."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "La administración de Amiodarona tras la tercera descarga en el algoritmo de SVA para ritmos desfibrilables sugiere que su rol es:",
+      "opciones": [
+        {"id": "a", "texto": "Ser el agente de primera línea para convertir la FV/TVSP."},
+        {"id": "b", "texto": "Un coadyuvante para estabilizar el ritmo si las descargas iniciales no son efectivas o hay recurrencia."},
+        {"id": "c", "texto": "Prevenir la aparición de asistolia tras una desfibrilación exitosa."},
+        {"id": "d", "texto": "Mejorar la contractilidad miocárdica inmediatamente después de la descarga."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "Respecto a las causas reversibles de PCR, ¿cuál de estas 'T's puede ser rápidamente diagnosticada y tratada con una intervención invasiva simple en el lugar de la emergencia?",
+      "opciones": [
+        {"id": "a", "texto": "Trombosis coronaria o pulmonar."},
+        {"id": "b", "texto": "Tóxicos."},
+        {"id": "c", "texto": "Taponamiento cardíaco (si requiere pericardiocentesis guiada)."},
+        {"id": "d", "texto": "Neumotórax a tensión."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "El uso de ecografía en el contexto del SVA para identificar causas reversibles es particularmente útil porque:",
+      "opciones": [
+        {"id": "a", "texto": "Permite la visualización directa y rápida de condiciones como taponamiento cardíaco o neumotórax masivo sin interrumpir significativamente la RCP."},
+        {"id": "b", "texto": "Puede reemplazar completamente la necesidad de un ECG de 12 derivaciones."},
+        {"id": "c", "texto": "Guía la administración de fármacos como la adrenalina."},
+        {"id": "d", "texto": "Es el único método para diagnosticar una trombosis pulmonar."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "En los cuidados post-RCE, se busca una PCO2 normal. ¿Qué efecto adverso tendría una hipercapnia permisiva en un paciente con posible edema cerebral?",
+      "opciones": [
+        {"id": "a", "texto": "Vasoconstricción cerebral, disminuyendo la PIC."},
+        {"id": "b", "texto": "Vasodilatación cerebral, pudiendo aumentar la Presión Intracraneal (PIC)."},
+        {"id": "c", "texto": "Mejora del flujo sanguíneo colateral cerebral."},
+        {"id": "d", "texto": "Reducción del metabolismo cerebral y neuroprotección."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "El control específico de la temperatura entre 32°C-36°C post-RCE tiene una duración inicial de 24 horas. ¿Por qué se enfatiza además prevenir la fiebre durante al menos 72 horas?",
+      "opciones": [
+        {"id": "a", "texto": "Para asegurar la erradicación de posibles focos infecciosos."},
+        {"id": "b", "texto": "Para facilitar la administración de sedantes y relajantes musculares."},
+        {"id": "c", "texto": "Porque la fiebre tardía puede exacerbar el daño neurológico secundario."},
+        {"id": "d", "texto": "Porque es un requisito para considerar la angiografía coronaria."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "La demora de las valoraciones pronósticas hasta pasadas 72 horas en pacientes post-PCR se debe a que:",
+      "opciones": [
+        {"id": "a", "texto": "Los protocolos hospitalarios requieren este tiempo para trámites administrativos."},
+        {"id": "b", "texto": "Es el tiempo necesario para que todos los fármacos de la reanimación se eliminen del organismo."},
+        {"id": "c", "texto": "El aturdimiento miocárdico y el edema cerebral pueden enmascarar la verdadera extensión del daño neurológico en fases tempranas."},
+        {"id": "d", "texto": "Se espera la resolución completa de las alteraciones metabólicas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En el paso 'A' del ABCDE, la mención 'Si inconsciente: Cánula de Guedel' implica que:",
+      "opciones": [
+        {"id": "a", "texto": "Todo paciente con vía aérea comprometida requiere una cánula de Guedel."},
+        {"id": "b", "texto": "La cánula de Guedel solo es útil si el paciente conserva el reflejo tusígeno."},
+        {"id": "c", "texto": "La cánula de Guedel es un sustituto de la intubación en todos los casos."},
+        {"id": "d", "texto": "En pacientes conscientes con dificultad respiratoria, la Guedel está contraindicada por riesgo de vómito."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Durante el paso 'C' (Circulación) del ABCDE, se indica 'Buscar hemorragias y cohibir hemorragias no importantes'. ¿Qué sugiere la especificación 'no importantes' en un contexto de emergencia inicial?",
+      "opciones": [
+        {"id": "a", "texto": "Que solo se deben atender las hemorragias masivas exanguinantes."},
+        {"id": "b", "texto": "Que las hemorragias menores pueden ser ignoradas si el paciente está en PCR."},
+        {"id": "c", "texto": "Que el control de hemorragias externas visibles, aunque no sean masivas, forma parte de la estabilización hemodinámica inicial, mientras se identifican las potencialmente letales."},
+        {"id": "d", "texto": "Que se refiere a hemorragias internas que no pueden ser controladas extrahospitalariamente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El algoritmo de SVA menciona 'Compresiones continuadas si vía aérea asegurada'. ¿Cuál es la principal ventaja de esta recomendación?",
+      "opciones": [
+        {"id": "a", "texto": "Reduce la necesidad de personal para la reanimación."},
+        {"id": "b", "texto": "Permite una mayor frecuencia de ventilación."},
+        {"id": "c", "texto": "Disminuye el riesgo de barotrauma pulmonar."},
+        {"id": "d", "texto": "Evita las pausas en las compresiones para ventilar, mejorando la perfusión continua."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "La monitorización intraarterial de la presión arterial en los cuidados postreanimación ofrece una ventaja sobre la medición no invasiva, que es:",
+      "opciones": [
+        {"id": "a", "texto": "Proporcionar una lectura continua y más precisa de la PA, especialmente en pacientes inestables o con vasopresores."},
+        {"id": "b", "texto": "Ser menos dolorosa para el paciente."},
+        {"id": "c", "texto": "No requerir calibración del equipo."},
+        {"id": "d", "texto": "Permitir la administración de fármacos directamente en la arteria."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Si un paciente post-RCE no presenta elevación del segmento ST pero se sospecha causa cardíaca, ¿qué exploraciones adicionales se consideran según el diagrama de 'Optimizando la Recuperación'?",
+      "opciones": [
+        {"id": "a", "texto": "Repetir el ECG cada hora hasta que haya elevación del ST."},
+        {"id": "b", "texto": "Considerar TC craneal y/o AngioTC pulmonar, y luego considerar Angiografía coronaria/ICP."},
+        {"id": "c", "texto": "Iniciar tratamiento fibrinolítico empírico."},
+        {"id": "d", "texto": "Realizar una prueba de esfuerzo precoz."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "El 'seguimiento evolutivo estructurado tras el alta' en un superviviente de PCR es crucial para:",
+      "opciones": [
+        {"id": "a", "texto": "Asegurar el cumplimiento de la medicación exclusivamente."},
+        {"id": "b", "texto": "Identificar y manejar secuelas a largo plazo, facilitar la rehabilitación y prevenir nuevos eventos."},
+        {"id": "c", "texto": "Recopilar datos para estudios epidemiológicos únicamente."},
+        {"id": "d", "texto": "Reducir los costes de rehospitalización mediante telemedicina."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "La fluidoterapia para restaurar la normovolemia en el paciente post-RCE debe ser:",
+      "opciones": [
+        {"id": "a", "texto": "Guiada por objetivos hemodinámicos, evitando tanto la hipovolemia como la sobrecarga excesiva."},
+        {"id": "b", "texto": "Agresiva, con grandes volúmenes de cristaloides en todos los pacientes."},
+        {"id": "c", "texto": "Restringida para evitar la sobrecarga hídrica, incluso si hay signos de hipoperfusión."},
+        {"id": "d", "texto": "Basada exclusivamente en la administración de coloides."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "En el algoritmo de SVA, si tras una descarga el ritmo cambia a uno organizado pero no hay pulso, ¿cómo se clasificaría este ritmo y cuál sería el manejo?",
+      "opciones": [
+        {"id": "a", "texto": "Asistolia; continuar RCP y administrar adrenalina."},
+        {"id": "b", "texto": "Fibrilación Ventricular de bajo voltaje; administrar otra descarga inmediata."},
+        {"id": "c", "texto": "Actividad Eléctrica Sin Pulso (AESP); continuar RCP, administrar adrenalina y buscar causas reversibles."},
+        {"id": "d", "texto": "Retorno a la Circulación Espontánea; iniciar cuidados post-RCE."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "La 'ventilación para normocapnia' en el tratamiento inmediato post-RCE implica ajustar la ventilación para mantener niveles de PCO2 arterial:",
+      "opciones": [
+        {"id": "a", "texto": "Ligeramente elevados (45-50 mmHg) para promover vasodilatación cerebral."},
+        {"id": "b", "texto": "Bajos (30-35 mmHg) para reducir el edema cerebral."},
+        {"id": "c", "texto": "Dentro del rango fisiológico normal (usualmente 35-45 mmHg)."},
+        {"id": "d", "texto": "Variables según la SpO2 del paciente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "El documento menciona que las guías de la ERC son seguidas. Esto implica una adaptación de las recomendaciones de ILCOR con un enfoque en:",
+      "opciones": [
+        {"id": "a", "texto": "La evidencia científica global adaptada y contextualizada para Europa."},
+        {"id": "b", "texto": "Las particularidades del sistema sanitario y la epidemiología de Estados Unidos."},
+        {"id": "c", "texto": "Protocolos simplificados para personal no médico exclusivamente."},
+        {"id": "d", "texto": "El uso prioritario de tecnología de reanimación de fabricación europea."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "¿Cuál de las siguientes acciones NO forma parte del manejo específico de la 'Vía aérea y ventilación' en los cuidados postreanimación inmediatos (Figura 5)?",
+      "opciones": [
+        {"id": "a", "texto": "Mantener SpO2 94-98%."},
+        {"id": "b", "texto": "Dispositivo avanzado de vía aérea."},
+        {"id": "c", "texto": "Iniciar fluidoterapia para restaurar normovolemia."},
+        {"id": "d", "texto": "Ventilar para normocapnia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "La ecocardiografía en el manejo UCI post-PCR es importante para evaluar:",
+      "opciones": [
+        {"id": "a", "texto": "Exclusivamente la presencia de derrame pericárdico."},
+        {"id": "b", "texto": "La función ventricular, valvulopatías, o complicaciones mecánicas post-isquemia."},
+        {"id": "c", "texto": "La correcta colocación del tubo endotraqueal."},
+        {"id": "d", "texto": "El flujo sanguíneo cerebral."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "En el algoritmo ABCDE, la evaluación de 'Heridas' y la acción de 'Tapar' se enmarcan dentro del paso:",
+      "opciones": [
+        {"id": "a", "texto": "A (Airway)"},
+        {"id": "b", "texto": "B (Breathing)"},
+        {"id": "c", "texto": "C (Circulation)"},
+        {"id": "d", "texto": "E (Exposure)"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "La indicación de 'Administre adrenalina cada 3-5 minutos' en el SVA se aplica:",
+      "opciones": [
+        {"id": "b", "texto": "Solo en ritmos desfibrilables antes de la primera descarga."},
+        {"id": "a", "texto": "Tanto en ritmos desfibrilables (después de la segunda descarga si persiste) como en no desfibrilables, durante los ciclos de RCP."},
+        {"id": "c", "texto": "Únicamente en ritmos no desfibrilables."},
+        {"id": "d", "texto": "Solo después de haber administrado amiodarona."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "Si, tras la evaluación inicial del ritmo en SVA, este es 'No desfibrilable', ¿cuál es la justificación para reiniciar inmediatamente la RCP en lugar de buscar otras intervenciones primero?",
+      "opciones": [
+        {"id": "a", "texto": "Para permitir que el desfibrilador se cargue para una segunda evaluación."},
+        {"id": "b", "texto": "Porque la RCP de alta calidad es la intervención más crucial para mejorar la perfusión en ritmos no desfibrilables mientras se administran fármacos o se consideran causas reversibles."},
+        {"id": "c", "texto": "Para ganar tiempo hasta que se pueda administrar amiodarona."},
+        {"id": "d", "texto": "Porque la mayoría de los ritmos no desfibrilables se convierten espontáneamente a desfibrilables con compresiones."}
+      ],
+      "respuestaCorrecta": "b"
+    }
+  ]
+}

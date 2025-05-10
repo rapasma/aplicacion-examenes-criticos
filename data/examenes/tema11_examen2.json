@@ -1,0 +1,282 @@
+{
+  "idExamen": "tema11_examen_2",
+  "nombreExamen": "Tema 11 - Examen 2 (Paciente Quirúrgico en UCI)",
+  "idTema": "tema11",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "¿Cuál es el objetivo principal de la monitorización hemodinámica invasiva en el paciente quirúrgico en la UCI?",
+      "opciones": [
+        {"id": "a", "texto": "Medir la presión intracraneal."},
+        {"id": "b", "texto": "Evaluar la función pulmonar."},
+        {"id": "c", "texto": "Obtener datos precisos y continuos sobre la función cardiovascular."},
+        {"id": "d", "texto": "Valorar el nivel de sedación."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "En la valoración del dolor postoperatorio, ¿qué escala es más adecuada para pacientes no comunicativos o intubados?",
+      "opciones": [
+        {"id": "a", "texto": "Escala Visual Analógica (EVA)."},
+        {"id": "b", "texto": "Escala de Braden."},
+        {"id": "c", "texto": "Escala de Sedación de Richmond (RASS)."},
+        {"id": "d", "texto": "Escala Conductual del Dolor (BPS)."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Después de una cirugía abdominal mayor, ¿qué complicación pulmonar es más común en las primeras 24-48 horas?",
+      "opciones": [
+        {"id": "a", "texto": "Neumotórax."},
+        {"id": "b", "texto": "Atelectasia."},
+        {"id": "c", "texto": "Embolia pulmonar."},
+        {"id": "d", "texto": "Derrame pleural."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "En pacientes con drenaje de LCR, ¿cuál es la posición correcta de la bolsa de drenaje en relación con la cabeza del paciente?",
+      "opciones": [
+        {"id": "a", "texto": "A la altura del corazón."},
+        {"id": "b", "texto": "Por encima del nivel de la cabeza."},
+        {"id": "c", "texto": "A la altura del punto de inserción del drenaje."},
+        {"id": "d", "texto": "Por debajo del nivel de la cabeza."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "En cirugía torácica, ¿qué tipo de drenaje se utiliza para reexpandir el pulmón y eliminar líquidos o aire del espacio pleural?",
+      "opciones": [
+        {"id": "a", "texto": "Drenaje de Penrose."},
+        {"id": "b", "texto": "Drenaje de Kehr."},
+        {"id": "c", "texto": "Drenaje torácico."},
+        {"id": "d", "texto": "Drenaje de Redon."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "¿Cuál es el rango objetivo de Presión Intraabdominal (PIA) para prevenir el Síndrome Compartimental Abdominal (SCA) en pacientes quirúrgicos?",
+      "opciones": [
+        {"id": "a", "texto": "Menor de 5 cmH2O."},
+        {"id": "b", "texto": "Menor de 15 cmH2O."},
+        {"id": "c", "texto": "Menor de 25 cmH2O."},
+        {"id": "d", "texto": "Menor de 30 cmH2O."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "En pacientes postquirúrgicos, ¿qué complicación puede causar la administración excesiva de líquidos intravenosos?",
+      "opciones": [
+        {"id": "a", "texto": "Deshidratación."},
+        {"id": "b", "texto": "Hipernatremia."},
+        {"id": "c", "texto": "Edema pulmonar."},
+        {"id": "d", "texto": "Hipopotasemia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Tras una cirugía de la vía biliar, ¿qué tipo de drenaje se suele colocar para drenar la bilis?",
+      "opciones": [
+        {"id": "a", "texto": "Drenaje de Penrose."},
+        {"id": "b", "texto": "Drenaje de Kehr."},
+        {"id": "c", "texto": "Drenaje de Redon."},
+        {"id": "d", "texto": "Drenaje torácico."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "¿Qué signo clínico puede indicar una pancreatitis aguda en el postoperatorio?",
+      "opciones": [
+        {"id": "a", "texto": "Ictericia."},
+        {"id": "b", "texto": "Signo de Cullen."},
+        {"id": "c", "texto": "Bradicardia."},
+        {"id": "d", "texto": "Hipotensión."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "¿Cuál es el principio de funcionamiento de la hemodiálisis convencional?",
+      "opciones": [
+        {"id": "a", "texto": "Convección."},
+        {"id": "b", "texto": "Osmosis."},
+        {"id": "c", "texto": "Difusión."},
+        {"id": "d", "texto": "Ultrafiltración."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En pacientes neuroquirúrgicos, ¿qué alteración electrolítica es común y puede causar complicaciones?",
+      "opciones": [
+        {"id": "a", "texto": "Hiperpotasemia."},
+        {"id": "b", "texto": "Hiponatremia."},
+        {"id": "c", "texto": "Hipercalcemia."},
+        {"id": "d", "texto": "Hipomagnesemia."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "¿Qué escala se utiliza para evaluar el riesgo de desarrollar úlceras por presión en pacientes quirúrgicos?",
+      "opciones": [
+        {"id": "a", "texto": "Escala de Glasgow."},
+        {"id": "b", "texto": "Escala de RASS."},
+        {"id": "c", "texto": "Escala de Braden."},
+        {"id": "d", "texto": "Escala de EVA."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "En pacientes con cirugía torácica, ¿qué complicación puede ocurrir si no se manejan adecuadamente las secreciones?",
+      "opciones": [
+        {"id": "a", "texto": "Neumotórax."},
+        {"id": "b", "texto": "Atelectasias."},
+        {"id": "c", "texto": "Embolia pulmonar."},
+        {"id": "d", "texto": "Derrame pleural."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "¿Cuál es el objetivo principal de la profilaxis tromboembólica en pacientes quirúrgicos en la UCI?",
+      "opciones": [
+        {"id": "a", "texto": "Prevenir hemorragias."},
+        {"id": "b", "texto": "Prevenir la formación de trombos."},
+        {"id": "c", "texto": "Mejorar la función renal."},
+        {"id": "d", "texto": "Disminuir el dolor."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "En pacientes con cirugía abdominal, ¿qué complicación puede ocurrir debido a la falta de unión de los extremos suturados?",
+      "opciones": [
+        {"id": "a", "texto": "Íleo paralítico."},
+        {"id": "b", "texto": "Absceso intraabdominal."},
+        {"id": "c", "texto": "Dehiscencia anastomótica."},
+        {"id": "d", "texto": "Oclusión intestinal."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "¿Qué tipo de drenaje utiliza un sistema de cierre por vacío para favorecer la cicatrización?",
+      "opciones": [
+        {"id": "a", "texto": "Drenaje de Penrose."},
+        {"id": "b", "texto": "Drenaje de Kehr."},
+        {"id": "c", "texto": "VAC (Terapia de Cierre por Vacío)."},
+         {"id": "d", "texto": "Drenaje de Redon."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "En la escala de coma de Glasgow, ¿qué puntuación corresponde a la respuesta verbal 'confusa'?",
+      "opciones": [
+        {"id": "a", "texto": "5"},
+        {"id": "b", "texto": "4"},
+        {"id": "c", "texto": "3"},
+        {"id": "d", "texto": "2"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "¿Cuál es el objetivo principal de la ventilación mecánica en pacientes postquirúrgicos?",
+      "opciones": [
+        {"id": "a", "texto": "Disminuir el trabajo respiratorio."},
+        {"id": "b", "texto": "Aumentar la presión arterial."},
+        {"id": "c", "texto": "Mejorar la función renal."},
+        {"id": "d", "texto": "Disminuir el dolor."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "¿Qué tipo de monitorización es esencial para detectar complicaciones neurológicas en pacientes postquirúrgicos?",
+      "opciones": [
+       {"id": "a", "texto": "Electrocardiograma (ECG)."},
+        {"id": "b", "texto": "Electroencefalograma (EEG)."},
+        {"id": "c", "texto": "Presión arterial invasiva."},
+        {"id": "d", "texto": "Gasto cardíaco."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "En pacientes con cirugía abdominal, ¿qué complicación puede causar la acumulación de líquido en la cavidad peritoneal?",
+      "opciones": [
+        {"id": "a", "texto": "Íleo paralítico."},
+        {"id": "b", "texto": "Absceso intraabdominal."},
+        {"id": "c", "texto": "Peritonitis."},
+        {"id": "d", "texto": "Ascitis."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "¿Qué tipo de soporte nutricional es preferible en pacientes postquirúrgicos con función gastrointestinal comprometida?",
+      "opciones": [
+        {"id": "a", "texto": "Nutrición oral."},
+        {"id": "b", "texto": "Nutrición enteral."},
+        {"id": "c", "texto": "Nutrición parenteral."},
+        {"id": "d", "texto": "Dieta líquida."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "En pacientes con cirugía cardíaca, ¿qué complicación puede causar la disfunción del ventrículo derecho?",
+      "opciones": [
+        {"id": "a", "texto": "Hipertensión pulmonar."},
+        {"id": "b", "texto": "Shock cardiogénico."},
+        {"id": "c", "texto": "Fibrilación auricular."},
+        {"id": "d", "texto": "Taponamiento cardíaco."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "¿Qué tipo de drenaje se utiliza para eliminar líquido cefalorraquídeo (LCR) en pacientes neuroquirúrgicos?",
+      "opciones": [
+        {"id": "a", "texto": "Drenaje de Penrose."},
+        {"id": "b", "texto": "Drenaje de Kehr."},
+        {"id": "c", "texto": "Drenaje de LCR."},
+        {"id": "d", "texto": "Drenaje torácico."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "En pacientes postquirúrgicos, ¿qué complicación puede causar la retención urinaria?",
+      "opciones": [
+        {"id": "a", "texto": "Insuficiencia renal aguda."},
+        {"id": "b", "texto": "Infección del tracto urinario."},
+        {"id": "c", "texto": "Globo vesical."},
+        {"id": "d", "texto": "Pielonefritis."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "¿Cuál es el objetivo principal de la movilización temprana en pacientes postquirúrgicos?",
+      "opciones": [
+        {"id": "a", "texto": "Prevenir la formación de trombos."},
+        {"id": "b", "texto": "Disminuir el dolor."},
+        {"id": "c", "texto": "Mejorar la función pulmonar."},
+        {"id": "d", "texto": "Todas las anteriores."}
+      ],
+      "respuestaCorrecta": "d"
+    }
+  ]
+}

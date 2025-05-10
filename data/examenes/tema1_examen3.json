@@ -1,0 +1,283 @@
+{
+  "idExamen": "tema1_examen_L3_01_corregido_final",
+  "idTema": "tema1",
+  "nombreExamen": "Test Tema 1 - Nivel Difícil (Corregido y Verificado)",
+  "descripcionCaso": "Test de nivel difícil sobre el Tema 1: Aspectos generales del servicio de cuidados intensivos. El paciente crítico.",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Considerando la descripción de las UCI móviles como \"Unidades Tipo C\" y su gestión por el 061 en Murcia, ¿qué se puede inferir sobre su operatividad en relación con las UCI hospitalarias?",
+      "opciones": [
+        { "id": "a", "texto": "Actúan como una extensión de los cuidados intensivos hospitalarios, iniciando la atención especializada antes de la llegada al hospital." },
+        { "id": "b", "texto": "Son completamente autónomas y no requieren coordinación con los hospitales." },
+        { "id": "c", "texto": "Su función principal es el traslado de pacientes ya estabilizados en una UCI hospitalaria." },
+        { "id": "d", "texto": "Están destinadas únicamente a catástrofes y no a la atención individualizada." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La distinción entre el médico responsable de la UCI (Intensivista) y de la REA (Anestesista y Reanimador) implica que, aunque ambas atienden pacientes graves:",
+      "opciones": [
+        { "id": "a", "texto": "Los pacientes de REA siempre tienen un pronóstico más favorable que los de UCI." },
+        { "id": "b", "texto": "El enfoque y el tipo de patología predominante o la fase del proceso asistencial pueden requerir una dirección médica especializada diferente." },
+        { "id": "c", "texto": "No existe solapamiento en las competencias de ambos especialistas." },
+        { "id": "d", "texto": "La formación de un intensivista no incluye el manejo del paciente postquirúrgico." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Si la ratio de enfermería en UCI es de 1 enfermera por 2-3 camas, una situación con 1 enfermera por 4 o más camas en una UCI se consideraría, según el texto:",
+      "opciones": [
+        { "id": "a", "texto": "Óptima, ya que permite mayor autonomía a la enfermera." },
+        { "id": "b", "texto": "Adecuada si los pacientes no son excesivamente críticos." },
+        { "id": "c", "texto": "Una desviación de la práctica habitual que podría comprometer la calidad y seguridad de los cuidados intensivos." },
+        { "id": "d", "texto": "Una nueva tendencia para reducir costes sin afectar la atención." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "La supervisora de enfermería de la UCI, al depender jerárquicamente de la dirección de enfermería, es principalmente responsable de:",
+      "opciones": [
+        { "id": "a", "texto": "La prescripción del tratamiento médico en ausencia del intensivista." },
+        { "id": "b", "texto": "La gestión económica y presupuestaria total del servicio de medicina intensiva." },
+        { "id": "c", "texto": "Decidir sobre el ingreso y alta de los pacientes de la UCI." },
+        { "id": "d", "texto": "Asegurar la implementación de los estándares de cuidados de enfermería y la gestión del personal de enfermería de la unidad, en línea con las directrices institucionales." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "De las unidades extrahospitalarias mencionadas (UME, SUAP, SVAE), ¿cuál implicaría por su denominación un mayor grado de autonomía y especialización en intervenciones avanzadas por parte de enfermería?",
+      "opciones": [
+        { "id": "a", "texto": "SVAE (Soporte Vital Avanzado de Enfermería)." },
+        { "id": "b", "texto": "UME, por ser la unidad móvil de emergencia estándar." },
+        { "id": "c", "texto": "SUAP, por su ubicación en atención primaria." },
+        { "id": "d", "texto": "Todas tienen exactamente el mismo nivel de actuación y autonomía para enfermería." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La atención a pacientes críticos por enfermeras en Puntos de Atención Continuada (PAC) o Puntos de Especial Aislamiento (PEA) sugiere que estos puntos, aunque no sean UCI, deben:",
+      "opciones": [
+        { "id": "a", "texto": "Estar siempre ubicados dentro de un complejo hospitalario." },
+        { "id": "b", "texto": "Tener la capacidad de estabilizar y manejar situaciones críticas iniciales, o derivar eficientemente." },
+        { "id": "c", "texto": "Limitar su atención a pacientes críticos solo durante el día." },
+        { "id": "d", "texto": "Ser atendidos exclusivamente por personal médico." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "El criterio de que los pacientes en medicina intensiva sean \"susceptibles de recuperarse\" es crucial para:",
+      "opciones": [
+        { "id": "a", "texto": "Evitar el ingreso de pacientes ancianos, ya que su recuperación es más lenta." },
+        { "id": "b", "texto": "Garantizar que todos los pacientes ingresados saldrán sin secuelas." },
+        { "id": "c", "texto": "Justificar el uso de recursos de alta complejidad y coste en situaciones con potencial de reversibilidad." },
+        { "id": "d", "texto": "Limitar la estancia media en UCI a un máximo de 7 días." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "La mención de que \"se tiende a iniciar los cuidados intensivos donde surge el problema patológico\" refleja una filosofía de actuación que busca principalmente:",
+      "opciones": [
+        { "id": "a", "texto": "Reducir el número de UCI hospitalarias." },
+        { "id": "b", "texto": "Aumentar la comodidad del paciente al ser atendido en su entorno." },
+        { "id": "c", "texto": "Trasladar la responsabilidad de los cuidados críticos a la atención primaria." },
+        { "id": "d", "texto": "Minimizar el tiempo de isquemia o daño orgánico crítico interviniendo lo antes posible." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Si un paciente crítico es atendido inicialmente por una enfermera en la puerta de urgencias hospitalaria, y posteriormente requiere ingreso en UCI, ¿cuál sería la secuencia más lógica de médicos responsables según el Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Médico de urgencias -> Intensivista en UCI." },
+        { "id": "b", "texto": "Médico de urgencias -> Anestesista en REA -> Intensivista en UCI." },
+        { "id": "c", "texto": "Anestesista en puerta de urgencias -> Intensivista en UCI." },
+        { "id": "d", "texto": "Intensivista en puerta de urgencias -> Intensivista en UCI." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "La necesidad de una \"plantilla sanitaria\" específica en los servicios de medicina intensiva, incluyendo una ratio definida de enfermeras, indica que:",
+      "opciones": [
+        { "id": "a", "texto": "La atención al paciente crítico puede ser proporcionada por cualquier profesional sanitario sin especialización." },
+        { "id": "b", "texto": "La complejidad y la intensidad de los cuidados requieren un equipo dimensionado y con competencias específicas." },
+        { "id": "c", "texto": "Los cuidados intensivos son altamente dependientes de la tecnología, minimizando el rol del personal." },
+        { "id": "d", "texto": "El personal médico es el único componente esencial de la plantilla." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "La existencia de diferentes tipos de unidades donde enfermería atiende a pacientes críticos (UCI, REA, UME, SUAP, SVAE, puerta urgencias, PAC, PEA) sugiere que el concepto de \"paciente crítico\":",
+      "opciones": [
+        { "id": "a", "texto": "Se limita exclusivamente a aquellos ingresados en una UCI hospitalaria." },
+        { "id": "b", "texto": "Es sinónimo de paciente quirúrgico exclusivamente." },
+        { "id": "c", "texto": "Puede presentarse en múltiples escenarios y requiere diferentes niveles de respuesta y recursos." },
+        { "id": "d", "texto": "Implica siempre un traslado inmediato a una UCI móvil \"Tipo C\"." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Considerando que la supervisora de UCI depende de la dirección de enfermería, ¿cuál sería una función IMPLAUSIBLE para esta supervisora, según el contexto del Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Coordinar los turnos y la asignación de pacientes al personal de enfermería de la UCI." },
+        { "id": "b", "texto": "Participar en la elaboración de protocolos de cuidados de enfermería para la UCI." },
+        { "id": "c", "texto": "Realizar la evaluación del desempeño del personal de enfermería a su cargo." },
+        { "id": "d", "texto": "Establecer de forma autónoma el presupuesto global de todo el hospital." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El texto afirma que la medicina intensiva atiende a pacientes \"cuya enfermedad pone en peligro su vida\". Esto implica que el foco principal es:",
+      "opciones": [
+        { "id": "a", "texto": "El manejo de condiciones críticas agudas o agudizadas con riesgo vital." },
+        { "id": "b", "texto": "La prevención primaria de enfermedades." },
+        { "id": "c", "texto": "La cronicidad de patologías sin riesgo vital inminente." },
+        { "id": "d", "texto": "La atención domiciliaria a pacientes terminales." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "La denominación \"Tipo C\" para las UCI móviles, según \"la legislación vigente\", sugiere que:",
+      "opciones": [
+        { "id": "a", "texto": "Es una clasificación informal utilizada solo en la Región de Murcia." },
+        { "id": "b", "texto": "Solo pueden transportar un máximo de tres pacientes (C=3 en números romanos)." },
+        { "id": "c", "texto": "Existen otros tipos de unidades móviles (presumiblemente A, B) con diferentes capacidades o funciones." },
+        { "id": "d", "texto": "Indica que son las unidades de menor complejidad dentro del sistema de emergencias." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Si un paciente en una REA se descompensa gravemente y requiere un nivel de soporte multiorgánico prolongado más allá del postoperatorio inmediato, ¿cuál sería el paso más probable según la lógica del sistema de atención descrito?",
+      "opciones": [
+        { "id": "a", "texto": "Sería dado de alta a domicilio con seguimiento por SUAP." },
+        { "id": "b", "texto": "Permanecería indefinidamente en la REA bajo el cuidado del anestesista." },
+        { "id": "c", "texto": "Sería atendido por una UME dentro del mismo hospital." },
+        { "id": "d", "texto": "Sería trasladado a una Unidad de Cuidados Intensivos (UCI) bajo la responsabilidad de un médico intensivista." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La función de una enfermera en un SVAE, comparada con una enfermera en un SUAP, probablemente implicará:",
+      "opciones": [
+        { "id": "a", "texto": "Una mayor capacitación y responsabilidad en la aplicación de algoritmos de soporte vital avanzado y manejo de situaciones críticas de forma más autónoma." },
+        { "id": "b", "texto": "Menor capacidad de decisión y mayor dependencia del médico." },
+        { "id": "c", "texto": "Un enfoque más centrado en patologías crónicas y menos en emergencias." },
+        { "id": "d", "texto": "La atención exclusiva a pacientes pediátricos." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "La afirmación \"el personal de enfermería es una parte muy importante de la plantilla sanitaria de los servicios de medicina intensiva\" se ve reforzada en el texto por:",
+      "opciones": [
+        { "id": "a", "texto": "La descripción de su dependencia jerárquica directa del gerente del hospital." },
+        { "id": "b", "texto": "La indicación de que solo el personal de enfermería puede operar las UCI móviles." },
+        { "id": "c", "texto": "La mención de la ratio específica enfermera/paciente y la estructura de turnos y supervisión." },
+        { "id": "d", "texto": "La ausencia de mención a otros profesionales sanitarios en la UCI." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "¿Cuál de las siguientes situaciones NO encajaría directamente con la definición de paciente atendido en medicina intensiva según el Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Un paciente con un infarto agudo de miocardio complicado con shock cardiogénico." },
+        { "id": "b", "texto": "Un paciente con sepsis grave y fallo multiorgánico." },
+        { "id": "c", "texto": "Un paciente politraumatizado con riesgo vital inmediato." },
+        { "id": "d", "texto": "Un paciente con una fractura de tobillo estable que espera cirugía programada." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "La existencia de \"Puntos de Especial Aislamiento (PEA)\" donde se puede atender a pacientes críticos sugiere que:",
+      "opciones": [
+        { "id": "a", "texto": "Se refieren a UCI ubicadas en zonas geográficamente remotas." },
+        { "id": "b", "texto": "Son unidades destinadas a pacientes críticos con enfermedades altamente contagiosas que requieren medidas de aislamiento específicas." },
+        { "id": "c", "texto": "Son centros de rehabilitación para pacientes que han superado una enfermedad crítica." },
+        { "id": "d", "texto": "Es un término antiguo para referirse a las salas de espera de urgencias." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La principal diferencia en el ámbito de responsabilidad médica entre una UCI general y una REA radica en:",
+      "opciones": [
+        { "id": "a", "texto": "La REA siempre tiene un mayor ratio de médicos por paciente que la UCI." },
+        { "id": "b", "texto": "Los pacientes en REA no requieren ventilación mecánica, a diferencia de la UCI." },
+        { "id": "c", "texto": "La UCI general maneja un espectro más amplio de patologías médicas y quirúrgicas críticas complejas, mientras la REA se enfoca en el postoperatorio inmediato y complicaciones anestésico-quirúrgicas." },
+        { "id": "d", "texto": "En la UCI el médico intensivista tiene menos autonomía que el anestesista en la REA." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "La gestión de los turnos de enfermería en UCI (tres turnos al día o turnos de 12h) busca un equilibrio entre:",
+      "opciones": [
+        { "id": "a", "texto": "Minimizar los costes salariales y maximizar las horas de descanso del personal." },
+        { "id": "b", "texto": "Facilitar que todas las enfermeras trabajen solo en el turno de su preferencia." },
+        { "id": "c", "texto": "Reducir al mínimo el número de enfermeras necesarias por día." },
+        { "id": "d", "texto": "Asegurar la continuidad de los cuidados al paciente crítico las 24 horas y las necesidades/preferencias del personal, dentro de la normativa laboral." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "Que la enfermería de urgencias extrahospitalarias trabaje en UME, SUAP y SVAE implica una diversidad de roles y competencias. ¿Cuál sería una competencia MENOS probable o central para una enfermera en una UME atendiendo una emergencia vital?",
+      "opciones": [
+        { "id": "a", "texto": "Realización de triaje avanzado en el lugar del incidente." },
+        { "id": "b", "texto": "Gestión de citas para seguimiento en atención primaria del paciente." },
+        { "id": "c", "texto": "Administración de medicación de emergencia bajo protocolo o indicación médica." },
+        { "id": "d", "texto": "Manejo avanzado de la vía aérea y soporte ventilatorio." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "La afirmación \"constituyen el escalón más avanzado de un esquema gradual de atención al paciente\" para las UCI implica que:",
+      "opciones": [
+        { "id": "a", "texto": "Antes de llegar a UCI, el paciente ha debido pasar obligatoriamente por todos los escalones previos (SUAP, UME, etc.)." },
+        { "id": "b", "texto": "Son el último recurso cuando ya no hay opciones terapéuticas." },
+        { "id": "c", "texto": "Las UCI poseen los recursos tecnológicos y humanos para manejar los casos de mayor complejidad y gravedad que otros niveles no pueden asumir." },
+        { "id": "d", "texto": "Su acceso está restringido solo a pacientes con seguro médico privado de alta cobertura." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "La labor de una enfermera en un Punto de Atención Continuada (PAC) atendiendo a un paciente que se presenta con una crisis hipertensiva y dolor torácico (potencialmente crítico) se centraría inicialmente en:",
+      "opciones": [
+        { "id": "a", "texto": "Darle una cita para el especialista y enviarlo a casa." },
+        { "id": "b", "texto": "Limitarse a tomar la tensión arterial y recomendar reposo." },
+        { "id": "c", "texto": "Ingresarlo directamente en el PAC para observación prolongada." },
+        { "id": "d", "texto": "Realizar una valoración inicial rápida (constantes, síntomas), administrar tratamiento de urgencia si está protocolizado/indicado, y coordinar su traslado a un nivel de mayor complejidad si es necesario." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "El texto no lo detalla, pero ¿qué implicación tiene para la seguridad del paciente crítico la existencia de una supervisora de enfermería en UCI que coordine al equipo?",
+      "opciones": [
+        { "id": "a", "texto": "Puede asegurar una asignación adecuada de pacientes según la carga de trabajo y experiencia, la correcta aplicación de protocolos y la rápida respuesta ante problemas en los cuidados." },
+        { "id": "b", "texto": "Ninguna, la seguridad depende exclusivamente de los médicos." },
+        { "id": "c", "texto": "Incrementa el riesgo de errores al añadir un nivel jerárquico." },
+        { "id": "d", "texto": "Se centra solo en que el personal cumpla sus horarios." }
+      ],
+      "respuestaCorrecta": "a"
+    }
+  ]
+}

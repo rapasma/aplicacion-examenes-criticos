@@ -1,0 +1,336 @@
+{
+  "idExamen": "t11_examen_1",
+  "nombreExamen": "Tema 11 - Paciente Quirúrgico UCI - Test 1",
+  "idTema": "tema11",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Según el Tema 11, ¿en qué momento comienza el periodo postoperatorio?",
+      "opciones": [
+        {"id": "a", "texto": "Cuando el paciente es trasladado a la REA o UCI."},
+        {"id": "b", "texto": "En el momento que finaliza la intervención quirúrgica."},
+        {"id": "c", "texto": "Una hora después de finalizar la intervención."},
+        {"id": "d", "texto": "Cuando el paciente recupera la consciencia."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "Antes de recibir a un paciente quirúrgico en la UCI, ¿qué se debe asegurar respecto al respirador?",
+      "opciones": [
+        {"id": "a", "texto": "Que esté apagado para ahorrar energía."},
+        {"id": "b", "texto": "Que esté calibrado y chequeado, en modo espera."},
+        {"id": "c", "texto": "Que tenga los parámetros del paciente anterior."},
+        {"id": "d", "texto": "Que solo lo manipule el anestesista."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "A la llegada del paciente quirúrgico al box de la UCI, ¿qué acción se debe priorizar respecto al dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar un sedante fuerte inmediatamente."},
+        {"id": "b", "texto": "Esperar a que el paciente se queje de dolor."},
+        {"id": "c", "texto": "Valorar escala del dolor (EVA o BPS) y priorizar la administración de analgesia."},
+        {"id": "d", "texto": "Aplicar medidas físicas como frío local únicamente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "En los cuidados de enfermería al paciente quirúrgico, ¿a qué angulación mínima se debe mantener la cabecera de la cama, salvo otras indicaciones médicas?",
+      "opciones": [
+        {"id": "c", "texto": "0° (plano)"},
+        {"id": "b", "texto": "15°"},
+        {"id": "a", "texto": "30°"},
+        {"id": "d", "texto": "45°"}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "¿Qué escala se utiliza para valorar el nivel de sedación en el paciente crítico según el Tema 11?",
+      "opciones": [
+        {"id": "a", "texto": "Escala de Glasgow."},
+        {"id": "b", "texto": "Escala EVA."},
+        {"id": "c", "texto": "Escala RASS."},
+        {"id": "d", "texto": "Escala de Braden."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "En pacientes de neurocirugía, ¿cuál es el trastorno hidroelectrolítico más frecuente mencionado en el documento?",
+      "opciones": [
+        {"id": "a", "texto": "Hipopotasemia."},
+        {"id": "b", "texto": "Hipercalcemia."},
+        {"id": "c", "texto": "Hiponatremia."},
+        {"id": "d", "texto": "Hipermagnesemia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La hipernatremia por diabetes insípida en pacientes neuroquirúrgicos se asocia a un mayor riesgo en cirugías de tipo:",
+      "opciones": [
+        {"id": "a", "texto": "Cerebelosa."},
+        {"id": "b", "texto": "De fosa posterior."},
+        {"id": "c", "texto": "Hipotálamo-hipofisiarias."},
+        {"id": "d", "texto": "De la médula espinal."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "En cirugía torácica, ¿cuándo se suelen pinzar habitualmente los drenajes de neumonectomías?",
+      "opciones": [
+        {"id": "a", "texto": "Inmediatamente tras la cirugía."},
+        {"id": "b", "texto": "A las 6 horas."},
+        {"id": "c", "texto": "A las 24 horas."},
+        {"id": "d", "texto": "No se deben pinzar nunca."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Una complicación frecuente en cirugía torácica, favorecida por la hipoventilación y secreciones, es:",
+      "opciones": [
+        {"id": "c", "texto": "La hidrocefalia."},
+        {"id": "b", "texto": "La diabetes insípida."},
+        {"id": "a", "texto": "Las atelectasias."},
+        {"id": "d", "texto": "El íleo paralítico."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "En cirugía general, ¿cuál es el valor máximo deseable para la Presión Intraabdominal (PIA) en cmH2O?",
+      "opciones": [
+        {"id": "a", "texto": "Menor de 5 cmH2O."},
+        {"id": "b", "texto": "Menor de 15 cmH2O."},
+        {"id": "c", "texto": "Menor de 25 cmH2O."},
+        {"id": "d", "texto": "Menor de 30 cmH2O."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "¿Qué tipo de drenaje pasivo en forma de T se inserta en el conducto biliar?",
+      "opciones": [
+        {"id": "a", "texto": "Penrose."},
+        {"id": "b", "texto": "Kehr."},
+        {"id": "c", "texto": "Redon."},
+        {"id": "d", "texto": "Jackson-Pratt."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Para un drenaje de LCR intermitente, ¿a qué altura debe estar colocada la bolsa de drenaje?",
+      "opciones": [
+        {"id": "a", "texto": "A la altura del punto de inserción del drenaje."},
+        {"id": "b", "texto": "A la altura de la apófisis mastoides."},
+        {"id": "c", "texto": "10 cm por debajo del nivel de la cabeza."},
+        {"id": "d", "texto": "A la altura del corazón."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "¿Cuándo se abre un drenaje de LCR intermitente según la PIC?",
+      "opciones": [
+        {"id": "a", "texto": "Cuando la PIC es mayor a 10 mmHg."},
+        {"id": "b", "texto": "Cuando la PIC es mayor a 15 mmHg."},
+        {"id": "c", "texto": "Cuando la PIC es mayor a 22 mmHg."},
+        {"id": "d", "texto": "Debe estar abierto continuamente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "¿Qué tipo de drenaje activo utiliza un sistema de cierre por vacío para ayudar a la cicatrización?",
+      "opciones": [
+        {"id": "c", "texto": "Redon."},
+        {"id": "b", "texto": "Pleur-evac."},
+        {"id": "a", "texto": "VAC (Terapia de Cierre por Vacío)."},
+        {"id": "d", "texto": "Bellovac."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "El sistema de drenaje torácico balanceado se utiliza en neumonectomías y, a diferencia de otros drenajes torácicos, característicamente:",
+      "opciones": [
+        {"id": "a", "texto": "Requiere aspiración continua de alta presión."},
+        {"id": "b", "texto": "Funciona sin aspiración."},
+        {"id": "c", "texto": "Se conecta a un sistema de vacío intermitente."},
+        {"id": "d", "texto": "Se retira siempre a las 12 horas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La escala BPS (Behavioral Pain Scale) se utiliza en pacientes críticos. ¿Cuál de los siguientes NO es un ítem evaluado en esta escala?",
+      "opciones": [
+        {"id": "a", "texto": "Expresión facial."},
+        {"id": "b", "texto": "Movimiento de los miembros superiores."},
+        {"id": "c", "texto": "Respuesta verbal."},
+        {"id": "d", "texto": "Ventilación mecánica (adaptación al ventilador)."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "En la escala de Glasgow, una respuesta de 'Palabras Inapropiadas' en la evaluación verbal corresponde a una puntuación de:",
+      "opciones": [
+        {"id": "a", "texto": "5 puntos."},
+        {"id": "b", "texto": "4 puntos."},
+        {"id": "c", "texto": "3 puntos."},
+        {"id": "d", "texto": "2 puntos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "Según la escala RASS (Richmond Agitation-Sedation Scale), un paciente que está 'Alerta y Tranquilo' tiene una puntuación de:",
+      "opciones": [
+        {"id": "a", "texto": "+1 (Ansioso)"},
+        {"id": "b", "texto": "0 (Alerta y Tranquilo)"},
+        {"id": "c", "texto": "-1 (Adormilado)"},
+        {"id": "d", "texto": "+2 (Agitado)"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "En la pancreatitis, las células exocrinas (acinares) producen enzimas como amilasa, proteasa y lipasa. ¿Dónde se activan normalmente estas enzimas?",
+      "opciones": [
+        {"id": "c", "texto": "Dentro del páncreas."},
+        {"id": "b", "texto": "En el estómago."},
+        {"id": "a", "texto": "En el duodeno."},
+        {"id": "d", "texto": "En el torrente sanguíneo."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "El signo de Cullen o de Grey-Turner, que puede aparecer en la pancreatitis aguda, se caracteriza por:",
+      "opciones": [
+        {"id": "a", "texto": "Dolor en cinturón irradiado a la espalda."},
+        {"id": "b", "texto": "Equimosis periumbilical o en flancos."},
+        {"id": "c", "texto": "Ictericia y coluria."},
+        {"id": "d", "texto": "Esteatorrea y pérdida de peso."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "¿Cuál es el principio fundamental en el que se basa la hemodiálisis convencional para la sustitución renal?",
+      "opciones": [
+        {"id": "a", "texto": "Convección."},
+        {"id": "b", "texto": "Osmosis."},
+        {"id": "c", "texto": "Difusión."},
+        {"id": "d", "texto": "Ultrafiltración activa."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "La hemofiltración, a diferencia de la hemodiálisis, permite la eliminación de moléculas de mayor tamaño. ¿Cuál es el principio físico principal que utiliza?",
+      "opciones": [
+        {"id": "a", "texto": "Gradiente de concentración."},
+        {"id": "b", "texto": "Convección (transporte por arrastre de solvente)."},
+        {"id": "c", "texto": "Adsorción selectiva."},
+        {"id": "d", "texto": "Intercambio iónico."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "¿Qué tipo de profilaxis tromboembólica se menciona para pacientes quirúrgicos en UCI, además de las heparinas de bajo peso molecular?",
+      "opciones": [
+        {"id": "a", "texto": "Administración de aspirina a altas dosis."},
+        {"id": "b", "texto": "Movilización pasiva continua."},
+        {"id": "c", "texto": "Medias neumáticas y medias de compresión continua."},
+        {"id": "d", "texto": "Dieta rica en vitamina K."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "Al valorar el nivel de consciencia en un paciente quirúrgico, además de la escala de Glasgow y la movilidad de extremidades, ¿qué otro aspecto se debe examinar?",
+      "opciones": [
+        {"id": "b", "texto": "El relleno capilar."},
+        {"id": "a", "texto": "Las pupilas (simetría, tamaño y reactividad)."},
+        {"id": "c", "texto": "El débito de los drenajes."},
+        {"id": "d", "texto": "La presencia de ruidos intestinales."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "Para la prevención de úlceras por presión (UPP) en el paciente quirúrgico en UCI, ¿qué escala se menciona en el Tema 11 para la valoración del riesgo?",
+      "opciones": [
+        {"id": "a", "texto": "Escala de RASS."},
+        {"id": "b", "texto": "Escala de Glasgow."},
+        {"id": "c", "texto": "Escala de Braden."},
+        {"id": "d", "texto": "Escala BPS."}
+      ],
+      "respuestaCorrecta": "c"
+    },{
+    "idPregunta": 26,
+    "texto": "Además del respirador y las bombas de infusión, ¿qué otro material debe estar revisado y disponible en el box de la UCI antes de recibir a un paciente quirúrgico?",
+    "opciones": [
+      {"id": "a", "texto": "Un ecógrafo portátil."},
+      {"id": "b", "texto": "Balón de resucitación y tomas de vacío funcionales."},
+      {"id": "c", "texto": "Un kit de sutura para heridas menores."},
+      {"id": "d", "texto": "Un desfibrilador externo automático (DEA)."}
+    ],
+    "respuestaCorrecta": "b"
+  },
+  {
+    "idPregunta": 27,
+    "texto": "¿Cuál es una complicación específica mencionada para la neurocirugía relacionada con el acúmulo de Líquido Cefalorraquídeo (LCR)?",
+    "opciones": [
+      {"id": "c", "texto": "Isquemia cerebral difusa."},
+      {"id": "b", "texto": "Hematoma subdural agudo."},
+      {"id": "a", "texto": "Hidrocefalia."},
+      {"id": "d", "texto": "Diabetes insípida central."}
+    ],
+    "respuestaCorrecta": "a"
+  },
+  {
+    "idPregunta": 28,
+    "texto": "El fallo del ventrículo derecho es una complicación de la cirugía torácica que puede manifestarse con:",
+    "opciones": [
+      {"id": "a", "texto": "Hipertensión pulmonar y tos seca."},
+      {"id": "b", "texto": "Shock cardiogénico, ingurgitación yugular y edemas periféricos."},
+      {"id": "c", "texto": "Fibrilación auricular y disnea de esfuerzo."},
+      {"id": "d", "texto": "Neumotórax a tensión y enfisema subcutáneo."}
+    ],
+    "respuestaCorrecta": "b"
+  },
+  {
+    "idPregunta": 29,
+    "texto": "En la cirugía general, especialmente tras resecciones intestinales, ¿qué complicación se relaciona con la falta de unión de los extremos suturados?",
+    "opciones": [
+      {"id": "a", "texto": "Íleo paralítico."},
+      {"id": "b", "texto": "Absceso intraabdominal."},
+      {"id": "c", "texto": "Dehiscencias anastomóticas."},
+      {"id": "d", "texto": "Oclusión intestinal por bridas."}
+    ],
+    "respuestaCorrecta": "c"
+  },
+  {
+    "idPregunta": 30,
+    "texto": "El drenaje de Penrose es un tipo de drenaje pasivo que, según el texto:",
+    "opciones": [
+      {"id": "a", "texto": "Requiere conexión a un sistema de vacío."},
+      {"id": "b", "texto": "Se utiliza exclusivamente para drenaje pleural."},
+      {"id": "c", "texto": "Se sujeta a la piel con un punto y permite el lavado a través del mismo."},
+      {"id": "d", "texto": "Es un tubo en forma de T para el conducto biliar."}
+    ],
+    "respuestaCorrecta": "c"
+  }
+  ]
+}

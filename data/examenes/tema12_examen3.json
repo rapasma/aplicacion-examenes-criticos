@@ -1,0 +1,282 @@
+{
+  "idExamen": "tema12_examen_2_dificil",
+  "nombreExamen": "Tema 12 - Examen 2 Difícil (Donación de Órganos - Corregido)",
+  "idTema": "tema12",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "La Ley 41/2002 trata la voluntariedad de la donación y la toma de decisiones al final de la vida. ¿Qué implicación tiene esto sobre el personal sanitario al abordar la donación con la familia?",
+      "opciones": [
+        {"id": "a", "texto": "Priorizar la necesidad de órganos sobre las dudas de la familia si el paciente no dejó constancia."},
+        {"id": "b", "texto": "Están obligados a iniciar el proceso de donación en todos los pacientes con muerte encefálica."},
+        {"id": "c", "texto": "Deben respetar y facilitar la expresión de la voluntad del paciente, transmitida o inferida, y apoyar a la familia en una decisión autónoma."},
+        {"id": "d", "texto": "Deben asumir el consentimiento a menos que haya una negativa expresa previa del paciente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "El Real Decreto 1723/2012, que regula la obtención y utilización clínica de órganos, enfatiza principios éticos. ¿Cómo se manifiesta el principio de 'no maleficencia' hacia el potencial donante en muerte encefálica?",
+      "opciones": [
+        {"id": "a", "texto": "Mediante el mantenimiento fisiológico óptimo hasta la extracción, tratando al donante con el mismo respeto y cuidado que a cualquier paciente crítico."},
+        {"id": "b", "texto": "Asegurando la máxima extracción de órganos posible para beneficiar a más receptores."},
+        {"id": "c", "texto": "Acelerando el proceso de diagnóstico de muerte para no prolongar la situación."},
+        {"id": "d", "texto": "Limitando la información a la familia para evitarles sufrimiento adicional."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "La definición de muerte encefálica como 'cese completo e irreversible de las funciones neurológicas INTRACRANEALES' es crucial porque:",
+      "opciones": [
+        {"id": "a", "texto": "Implica que la actividad medular refleja puede persistir y no invalida el diagnóstico."},
+        {"id": "b", "texto": "Permite diferenciarla de estados de coma profundo donde aún existe actividad del tronco encefálico."},
+        {"id": "c", "texto": "Asegura que todas las funciones corporales han cesado por completo."},
+        {"id": "d", "texto": "Facilita la donación en asistolia controlada."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Entre los criterios de exclusión para la donación se menciona 'Sepsis y neoplasias'. Si un paciente tuvo una neoplasia localizada hace 10 años y está considerado curado, ¿cómo se abordaría este criterio?",
+      "opciones": [
+        {"id": "a", "texto": "Se excluye automáticamente como donante por el antecedente."},
+        {"id": "b", "texto": "Solo se permite la donación de tejidos, no de órganos sólidos."},
+        {"id": "c", "texto": "Se considera caso por caso, evaluando el tipo de neoplasia, tiempo libre de enfermedad y riesgo de transmisión, no siendo una exclusión absoluta si la enfermedad no está activa."},
+        {"id": "d", "texto": "Requiere consentimiento informado específico del receptor sobre este antecedente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "El cuidado de 'Proporcionar medidas de comodidad' al potencial donante, incluso en muerte encefálica, se justifica principalmente por:",
+      "opciones": [
+        {"id": "a", "texto": "Respeto a la dignidad de la persona y consideración hacia la familia que lo percibe como un ser querido."},
+        {"id": "b", "texto": "Un intento de mantener alguna función neurológica residual."},
+        {"id": "c", "texto": "La posibilidad remota de error en el diagnóstico de muerte encefálica."},
+        {"id": "d", "texto": "Mejorar la calidad de los órganos para el trasplante."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La 'correcta higiene e hidratación corporal' en el potencial donante, ¿qué impacto directo tiene en la viabilidad de los órganos para trasplante?",
+      "opciones": [
+        {"id": "a", "texto": "Mantiene la piel en condiciones óptimas para una posible donación de piel."},
+        {"id": "b", "texto": "Previene la deshidratación de las córneas si van a ser donadas."},
+        {"id": "c", "texto": "No tiene un impacto directo significativo, es más una cuestión de respeto."},
+        {"id": "d", "texto": "Reduce el riesgo de contaminación bacteriana de los órganos internos y ayuda a mantener la homeostasis general."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Si un potencial donante presenta hipotermia, ¿cuál es la principal alteración fisiológica inducida por esta que podría comprometer la viabilidad de los órganos?",
+      "opciones": [
+        {"id": "a", "texto": "Vasodilatación periférica con secuestro de fluidos."},
+        {"id": "b", "texto": "Aumento del metabolismo basal y consumo de oxígeno de los órganos."},
+        {"id": "c", "texto": "Supresión de la respuesta inflamatoria, enmascarando infecciones."},
+        {"id": "d", "texto": "Coagulopatía, arritmias cardíacas y disminución de la perfusión tisular."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Al 'ayudar en la toma de decisiones' a la familia, 'sin emitir juicios de valor' es fundamental. Una forma sutil en que un profesional podría emitir un juicio de valor inadvertidamente es:",
+      "opciones": [
+        {"id": "a", "texto": "Utilizar un tono de voz o lenguaje corporal que sugiera aprobación o desaprobación ante las dudas de la familia."},
+        {"id": "b", "texto": "Proporcionar información completa y objetiva sobre el proceso de donación."},
+        {"id": "c", "texto": "Ofrecer tiempo suficiente para que la familia delibere."},
+        {"id": "d", "texto": "Preguntar si el paciente había expresado alguna vez su voluntad sobre la donación."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "'Atender a la familia para facilitar el proceso de duelo' en el contexto de la donación implica, entre otras cosas:",
+      "opciones": [
+        {"id": "a", "texto": "Acelerar los trámites para que puedan abandonar el hospital cuanto antes."},
+        {"id": "b", "texto": "Permitir un espacio de despedida íntimo, ofrecer apoyo psicológico si se dispone, y validar sus emociones."},
+        {"id": "c", "texto": "Explicar detalladamente los beneficios del trasplante para otros pacientes."},
+        {"id": "d", "texto": "Limitar la expresión de dolor para no afectar a otros pacientes o al personal."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "La Ley 30/1979 se centra en la 'extracción y trasplante de órganos'. ¿Qué aspecto NO cubre directamente esta ley, siendo abordado por legislaciones posteriores?",
+      "opciones": [
+        {"id": "a", "texto": "Los derechos del paciente en cuanto a la autonomía y el consentimiento informado para la donación (cubierto más a fondo por Ley 41/2002)."},
+        {"id": "b", "texto": "El anonimato entre donante y receptor."},
+        {"id": "c", "texto": "Los requisitos para la realización de un trasplante."},
+        {"id": "d", "texto": "La definición de los centros autorizados para realizar extracciones."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En el contexto de un donante vivo, ¿cuál de estas afirmaciones describe mejor la compatibilidad con la vida del donante?",
+      "opciones": [
+        {"id": "a", "texto": "La donación no debe implicar ningún riesgo para la salud futura del donante."},
+        {"id": "b", "texto": "Se aceptan riesgos moderados si el beneficio para el receptor es muy alto."},
+        {"id": "c", "texto": "La extracción del órgano o parte de él no debe suponer un riesgo vital inaceptable ni una merma funcional grave e irreversible para el donante."},
+        {"id": "d", "texto": "El donante debe estar en perfecto estado de salud, sin ninguna enfermedad preexistente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "El criterio de exclusión 'Enfermedades infecciosas transmisibles' es complejo. ¿Cuál sería un abordaje correcto si un potencial donante tiene una infección activa pero localizada y tratable?",
+      "opciones": [
+        {"id": "a", "texto": "Exclusión automática para cualquier tipo de donación."},
+        {"id": "b", "texto": "Valoración individualizada del riesgo de transmisión, tipo de infección, y órganos a donar; algunas infecciones no contraindican per se la donación si se toman precauciones."},
+        {"id": "c", "texto": "Solo se permite la donación si el receptor ya padece la misma infección."},
+        {"id": "d", "texto": "Se pueden donar los órganos tras un tratamiento antibiótico de 24 horas al donante."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "La aspiración de secreciones en el potencial donante es un cuidado de enfermería clave. ¿Cuál es la principal consecuencia de no realizarla eficazmente en un paciente intubado?",
+      "opciones": [
+        {"id": "a", "texto": "Desplazamiento del tubo endotraqueal."},
+        {"id": "b", "texto": "Aumento de la presión intracraneal por estímulo tusígeno."},
+        {"id": "c", "texto": "Desarrollo de neumonía asociada a la ventilación y atelectasias, comprometiendo la oxigenación de los órganos."},
+        {"id": "d", "texto": "Bradicardia refleja por estimulación vagal."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "El 'control del respirador' en un donante en muerte encefálica va más allá de asegurar la ventilación. ¿Qué parámetro ventilatorio es crucial ajustar para evitar daño pulmonar y optimizar los pulmones para una posible donación?",
+      "opciones": [
+        {"id": "a", "texto": "Frecuencia respiratoria lo más alta posible para asegurar hiperventilación."},
+        {"id": "b", "texto": "Volúmenes tidales elevados (>10 ml/kg) para asegurar expansión completa."},
+        {"id": "c", "texto": "FiO2 al 100% de forma continua para maximizar la oxigenación."},
+        {"id": "d", "texto": "Aplicación de PEEP fisiológica y estrategias de ventilación protectora (volúmenes tidales bajos, 6-8 ml/kg peso ideal)."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "La afirmación 'Enfermería estamos 24 horas con el paciente' en el contexto de la donación subraya que el personal de enfermería tiene un papel fundamental en:",
+      "opciones": [
+        {"id": "a", "texto": "La declaración legal de muerte encefálica."},
+        {"id": "b", "texto": "La detección precoz de potenciales donantes y el inicio de la comunicación con el equipo coordinador de trasplantes."},
+        {"id": "c", "texto": "La selección final de los receptores de órganos."},
+        {"id": "d", "texto": "La realización de las pruebas de histocompatibilidad."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Contrastando el Real Decreto 1723/2012 con la Ley 30/1979, ¿cuál es el enfoque distintivo del Real Decreto más reciente?",
+      "opciones": [
+        {"id": "a", "texto": "Establecer por primera vez la posibilidad de donación de vivo."},
+        {"id": "b", "texto": "Regular exclusivamente los aspectos económicos del trasplante."},
+        {"id": "c", "texto": "Actualizar y detallar la coordinación del sistema nacional de trasplantes y los requisitos de calidad y seguridad."},
+        {"id": "d", "texto": "Introducir el concepto de muerte encefálica en la legislación española."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "El principio ético de 'veracidad', implícito en 'beneficencia/no maleficencia', al tratar con la familia de un potencial donante significa:",
+      "opciones": [
+        {"id": "a", "texto": "Proporcionar información clara, honesta y completa sobre el pronóstico, el proceso de donación y responder a todas sus dudas, incluso si la verdad es dolorosa."},
+        {"id": "b", "texto": "Omitir detalles técnicos complejos para no confundir a la familia."},
+        {"id": "c", "texto": "Enfatizar únicamente los aspectos positivos de la donación."},
+        {"id": "d", "texto": "Permitir que la familia tome decisiones basadas en información parcial si así lo prefieren."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "El programa Maastricht para donantes en asistolia se clasifica en diferentes tipos. Aunque no se detalla en el PDF, ¿qué distingue fundamentalmente la donación en asistolia de la donación en muerte encefálica?",
+      "opciones": [
+        {"id": "a", "texto": "La donación en asistolia siempre proviene de pacientes fallecidos fuera del hospital."},
+        {"id": "b", "texto": "Los órganos de donantes en asistolia tienen menor viabilidad que los de muerte encefálica."},
+        {"id": "c", "texto": "En la donación en asistolia, el cese de la función cardíaca precede al cese de la función encefálica o es el criterio primario de muerte, mientras que en la muerte encefálica el corazón aún late."},
+        {"id": "d", "texto": "La donación en asistolia no requiere consentimiento familiar, a diferencia de la muerte encefálica."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "La 'protección de zonas de presión' es un cuidado vital. En un potencial donante que puede estar inmóvil durante horas, ¿cuál es la consecuencia más grave de no prevenir las úlceras por presión?",
+      "opciones": [
+        {"id": "a", "texto": "Compromiso estético del cuerpo del donante."},
+        {"id": "b", "texto": "Desarrollo de focos infecciosos que pueden comprometer la viabilidad de los órganos o incluso contraindicar la donación."},
+        {"id": "c", "texto": "Dolor y malestar, aunque el paciente esté en muerte encefálica."},
+        {"id": "d", "texto": "Dificultad para la extracción quirúrgica de los órganos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "El apoyo emocional a la familia se basa en la 'empatía'. ¿Cómo se define operativamente la empatía en esta situación?",
+      "opciones": [
+        {"id": "a", "texto": "Sentir exactamente la misma tristeza que la familia."},
+        {"id": "b", "texto": "Ofrecer soluciones rápidas a los problemas prácticos de la familia."},
+        {"id": "c", "texto": "La capacidad de comprender y compartir los sentimientos de la familia, comunicando esa comprensión de forma respetuosa y sensible, sin dejarse abrumar por la emoción."},
+        {"id": "d", "texto": "Mantener una distancia profesional estricta para no involucrarse emocionalmente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "La Ley 41/2002 es fundamental para la 'toma de decisiones al final de la vida'. ¿Cómo se relaciona esto con el concepto de 'directivas anticipadas' o 'testamento vital'?",
+      "opciones": [
+        {"id": "a", "texto": "La ley obliga a todos los ciudadanos a redactar un testamento vital."},
+        {"id": "b", "texto": "El testamento vital solo es válido si se refiere a la negativa de tratamientos, no a la donación."},
+        {"id": "c", "texto": "Dicha ley establece el marco para que una persona pueda expresar sus deseos sobre tratamientos y donación, que deben ser respetados si se cumplen los requisitos legales."},
+        {"id": "d", "texto": "Solo los médicos pueden interpretar el contenido de un testamento vital."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "¿Qué diferencia esencial existe entre 'Sepsis' como criterio de exclusión y una 'infección local controlada' en un potencial donante?",
+      "opciones": [
+        {"id": "a", "texto": "No hay diferencia, cualquier infección excluye la donación."},
+        {"id": "b", "texto": "Sepsis se refiere solo a infecciones bacterianas, mientras que las virales locales no importan."},
+        {"id": "c", "texto": "Una infección local solo excluye la donación del órgano directamente afectado."},
+        {"id": "d", "texto": "La sepsis implica una respuesta sistémica desregulada a la infección con disfunción orgánica, mientras que una infección local puede no contraindicar la donación de órganos no afectados si está contenida."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "El 'control de CV (Constantes Vitales)' en el potencial donante es un cuidado continuo. Una hipotensión arterial persistente y no corregida tendría como consecuencia directa sobre los órganos a donar:",
+      "opciones": [
+        {"id": "a", "texto": "La hipoperfusión tisular, isquemia y potencial daño irreversible de los órganos."},
+        {"id": "b", "texto": "Una mejor preservación debido a la reducción del metabolismo."},
+        {"id": "c", "texto": "Un aumento del flujo sanguíneo renal compensatorio."},
+        {"id": "d", "texto": "La prevención de edema en los órganos."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "El documento afirma que 'la donación ha de formar parte INTEGRAL de los cuidados al final de la vida'. ¿Qué significa 'integral' en este contexto?",
+      "opciones": [
+        {"id": "a", "texto": "Que la donación es obligatoria en todos los casos de muerte en UCI."},
+        {"id": "b", "texto": "Que los cuidados se centran exclusivamente en la preparación para la donación una vez se considera posible."},
+        {"id": "c", "texto": "Que la opción de la donación debe ser considerada y ofrecida sistemáticamente como una parte del plan de cuidados cuando un paciente fallece en circunstancias que lo permiten, respetando la autonomía."},
+        {"id": "d", "texto": "Que solo el equipo coordinador de trasplantes maneja al paciente en esta fase."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "La 'escucha activa' como componente del apoyo emocional a la familia implica:",
+      "opciones": [
+        {"id": "a", "texto": "Interrumpir a la familia para ofrecer consuelo y soluciones rápidamente."},
+        {"id": "b", "texto": "Prestar atención total a lo que la familia dice y no dice (lenguaje no verbal), mostrando interés genuino y validando sus sentimientos sin juzgar."},
+        {"id": "c", "texto": "Dirigir la conversación hacia la aceptación de la donación."},
+        {"id": "d", "texto": "Tomar notas detalladas de la conversación para el historial clínico."}
+      ],
+      "respuestaCorrecta": "b"
+    }
+  ]
+}

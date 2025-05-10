@@ -1,0 +1,374 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f2f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #005a9c;
+    color: white;
+    padding: 1.5em 1em;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8em;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto; /* Reducido margen superior */
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.oculto {
+    display: none !important;
+}
+
+.tema-container {
+    margin-bottom: 25px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+}
+
+.tema-container h2 {
+    margin-top: 0;
+    color: #005a9c;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    font-size: 1.4em;
+}
+
+.examenes-lista button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100% - 20px);
+    margin: 8px 0;
+    padding: 12px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.examenes-lista button:hover {
+    background-color: #0056b3;
+}
+
+.nombre-examen-texto {
+    flex-grow: 1;
+}
+
+.nota-examen {
+    font-weight: bold;
+    background-color: #28a745;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    margin-left: 10px;
+}
+
+/* Estilos para la vista del examen */
+.examen-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.examen-header h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+#contenedor-todas-preguntas .pregunta-item {
+    margin-bottom: 30px; /* Más espacio entre preguntas */
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    background-color: #fdfdfd;
+}
+
+#contenedor-todas-preguntas .pregunta-item p.texto-pregunta {
+    font-weight: bold;
+    font-size: 1.15em; /* Un poco más grande */
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #005a9c;
+}
+
+#contenedor-todas-preguntas ul.lista-opciones {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#contenedor-todas-preguntas ul.lista-opciones li {
+    margin-bottom: 10px;
+    padding: 15px; /* Más padding para ser más "tappable" */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    display: flex; /* Para alinear radio oculto y label */
+    align-items: center;
+    background-color: #fff;
+}
+
+#contenedor-todas-preguntas ul.lista-opciones li:hover {
+    background-color: #e9f5ff;
+    border-color: #a0cff0;
+}
+
+#contenedor-todas-preguntas ul.lista-opciones li input[type="radio"] {
+    opacity: 0; /* Ocultar el radio button original */
+    width: 0;
+    height: 0;
+    position: absolute;
+}
+
+#contenedor-todas-preguntas ul.lista-opciones li label {
+    cursor: pointer;
+    flex-grow: 1;
+    display: block; /* Asegurar que el label ocupe el espacio */
+}
+
+/* Estilo cuando la opción está seleccionada */
+#contenedor-todas-preguntas ul.lista-opciones li.opcion-seleccionada {
+    background-color: #d1e7ff; /* Azul claro */
+    border-color: #007bff;
+    font-weight: bold;
+}
+/* Añadir un pseudo-elemento para simular un radio button más grande o un check */
+#contenedor-todas-preguntas ul.lista-opciones li::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #aaa;
+    border-radius: 50%;
+    margin-right: 15px;
+    background-color: white;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    flex-shrink: 0; /* Para que no se encoja */
+}
+
+#contenedor-todas-preguntas ul.lista-opciones li.opcion-seleccionada::before {
+    background-color: #007bff;
+    border-color: #0056b3;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>'); /* Checkmark SVG */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 12px 12px;
+}
+
+
+.boton-accion {
+    padding: 10px 20px; /* Reducido ligeramente para botones en header */
+    margin: 5px;
+    background-color: #6c757d; /* Gris para acciones secundarias */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.95em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.boton-accion:hover {
+    background-color: #5a6268;
+}
+
+.boton-finalizar-grande {
+    display: block; /* Para que ocupe todo el ancho */
+    width: calc(100% - 40px); /* Ajustar padding de main */
+    max-width: 300px; /* Ancho máximo */
+    margin: 30px auto 10px auto; /* Centrado y con margen */
+    padding: 15px 25px;
+    background-color: #28a745;
+    color: white;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.boton-finalizar-grande:hover {
+    background-color: #1e7e34;
+}
+
+
+#vista-resultado h2 {
+    color: #005a9c;
+}
+#vista-resultado p {
+    font-size: 1.1em;
+    text-align: center;
+}
+#vista-resultado .boton-accion { /* Para que los botones de resultado sean más grandes */
+    padding: 12px 25px;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+
+#revision-respuestas-contenedor {
+    margin-top: 20px;
+    text-align: left;
+    border-top: 1px solid #ccc;
+    padding-top: 15px;
+}
+.pregunta-revision {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+.pregunta-revision p.texto-pregunta-revision { /* Clase específica para el texto de la pregunta en revisión */
+    font-weight: bold; margin-bottom: 8px; color: #333; font-size: 1.05em;
+}
+.opcion-revision {
+    margin-left: 20px; display: block; padding: 5px 0; font-size: 0.95em;
+}
+.opcion-revision.correcta {
+    color: #198754; font-weight: bold;
+}
+.opcion-revision.incorrecta-usuario {
+    color: #dc3545; text-decoration: line-through;
+}
+.opcion-revision.seleccionada-usuario::before {
+    content: "➡️ ";
+    font-weight: bold;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #343a40;
+    color: white;
+    font-size: 0.9em;
+}
+
+/* Estilos para el desglose de resultados individuales */
+.lista-desglose-resultados {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+    text-align: left; /* Para alinear el texto de la lista a la izquierda */
+}
+
+.lista-desglose-resultados li {
+    padding: 5px 0;
+    font-size: 1em; /* Ajustar según preferencia */
+    border-bottom: 1px dashed #eee; /* Separador suave */
+}
+.lista-desglose-resultados li:last-child {
+    border-bottom: none;
+}
+
+.lista-desglose-resultados .estado-correcto {
+    color: #198754; /* Verde Bootstrap */
+    font-weight: bold;
+}
+
+.lista-desglose-resultados .estado-incorrecto {
+    color: #dc3545; /* Rojo Bootstrap */
+    font-weight: bold;
+}
+
+#vista-resultado h4 { /* Estilo para el título del desglose */
+    margin-bottom: 10px;
+    color: #005a9c;
+    text-align: center;
+}
+.boton-flotante-scroll {
+    position: fixed; /* Para que flote sobre el contenido */
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000; /* Para que esté por encima de otros elementos */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%; /* Para hacerlo redondo */
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    line-height: 50px; /* Centra el icono verticalmente */
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: background-color 0.3s, opacity 0.3s, transform 0.3s;
+}
+
+.boton-flotante-scroll:hover {
+    background-color: #0056b3;
+}
+
+.boton-flotante-scroll.oculto {
+    opacity: 0;
+    transform: scale(0.5);
+    pointer-events: none; /* No interactuable si está oculto */
+}
+
+.seccion-casos-clinicos .examenes-lista {
+    /* Por ejemplo, hacer que los botones ocupen todo el ancho */
+    display: flex;
+    flex-direction: column;
+
+}
+
+.seccion-casos-clinicos .examenes-lista .boton-examen {
+    width: 100%;
+    background-color: blueviolet;
+    /* Otros estilos para que se vean bien a ancho completo */
+}
+
+/* Media query para móviles */
+@media (max-width: 600px) {
+    main {
+        margin: 10px;
+        padding: 15px;
+    }
+    header h1 {
+        font-size: 1.5em;
+    }
+    .examen-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .examen-header h2 {
+        margin-bottom: 10px;
+    }
+    .examen-header .boton-accion {
+        align-self: center;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .boton-finalizar-grande {
+        width: calc(100% - 20px); /* Ajustar padding de main en móvil */
+    }
+    #contenedor-todas-preguntas ul.lista-opciones li {
+        padding: 12px;
+    }
+    #contenedor-todas-preguntas ul.lista-opciones li::before {
+        width: 18px;
+        height: 18px;
+        margin-right: 10px;
+    }
+}

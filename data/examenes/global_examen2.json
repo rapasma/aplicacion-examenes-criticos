@@ -1,0 +1,282 @@
+{
+  "idExamen": "global_examen_1_p2",
+  "nombreExamen": "Examen Global - Parte 2 (Preguntas 26-50 de 125)",
+  "idTema": "global",
+  "preguntas": [
+    {
+      "idPregunta": 26,
+      "texto": "Según la cadena de supervivencia (Recomendaciones 2021), ¿cuál es el propósito principal de la 'RCP precoz'?",
+      "opciones": [
+        {"id": "a", "texto": "Para ganar tiempo."},
+        {"id": "b", "texto": "Para prevenir la parada cardíaca."},
+        {"id": "c", "texto": "Para reiniciar el corazón."},
+        {"id": "d", "texto": "Para restaurar la calidad de vida."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 27,
+      "texto": "En el algoritmo de SVB para un adulto inconsciente con respiración ausente o anormal, ¿cuál es el primer paso a realizar?",
+      "opciones": [
+        {"id": "a", "texto": "Dar 30 compresiones torácicas."},
+        {"id": "b", "texto": "Dar 2 ventilaciones de rescate."},
+        {"id": "c", "texto": "Llame al Servicio de Emergencias."},
+        {"id": "d", "texto": "Conectar el DEA."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 28,
+      "texto": "¿Cuál es la relación de compresiones torácicas y ventilaciones de rescate en la RCP 30:2 para adultos?",
+      "opciones": [
+        {"id": "a", "texto": "15 compresiones y 1 ventilación."},
+        {"id": "b", "texto": "30 compresiones y 2 ventilaciones."},
+        {"id": "c", "texto": "2 compresiones y 30 ventilaciones."},
+        {"id": "d", "texto": "100 compresiones continuas sin ventilaciones."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 29,
+      "texto": "¿Qué se debe hacer en cuanto llegue el DEA según el algoritmo de SVB?",
+      "opciones": [
+        {"id": "a", "texto": "Esperar a que llegue personal médico especializado."},
+        {"id": "b", "texto": "Continuar con las compresiones e ignorar el DEA."},
+        {"id": "c", "texto": "Encenderlo y siga sus instrucciones."},
+        {"id": "d", "texto": "Aplicar una descarga inmediatamente sin evaluar el ritmo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 30,
+      "texto": "¿Qué es el Soporte Vital Avanzado (SVA)?",
+      "opciones": [
+        {"id": "a", "texto": "Medidas preventivas para evitar una PCR."},
+        {"id": "b", "texto": "Conjunto de medidas terapéuticas encaminadas a realizar el tratamiento de la PCR, que precisa equipamiento y formación específicos."},
+        {"id": "c", "texto": "El primer eslabón de la cadena de supervivencia."},
+        {"id": "d", "texto": "Técnicas de soporte psicológico para familiares."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 31,
+      "texto": "En pacientes de neurocirugía, ¿cuál es el trastorno hidroelectrolítico más frecuente mencionado en el Tema 11?",
+      "opciones": [
+        {"id": "c", "texto": "Hipopotasemia."},
+        {"id": "b", "texto": "Hipercalcemia."},
+        {"id": "a", "texto": "Hiponatremia."},
+        {"id": "d", "texto": "Hipermagnesemia."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 32,
+      "texto": "La hipernatremia por diabetes insípida en pacientes neuroquirúrgicos se asocia a un mayor riesgo en cirugías de tipo:",
+      "opciones": [
+        {"id": "a", "texto": "Cerebelosa."},
+        {"id": "b", "texto": "De fosa posterior."},
+        {"id": "c", "texto": "Hipotálamo-hipofisiarias."},
+        {"id": "d", "texto": "De la médula espinal."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 33,
+      "texto": "En cirugía torácica, ¿cuándo se suelen pinzar habitualmente los drenajes de neumonectomías?",
+      "opciones": [
+        {"id": "a", "texto": "Inmediatamente tras la cirugía."},
+        {"id": "b", "texto": "A las 6 horas."},
+        {"id": "c", "texto": "A las 24 horas."},
+        {"id": "d", "texto": "No se deben pinzar nunca."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 34,
+      "texto": "Una complicación frecuente en cirugía torácica, favorecida por la hipoventilación y secreciones, es:",
+      "opciones": [
+        {"id": "a", "texto": "La hidrocefalia."},
+        {"id": "b", "texto": "La diabetes insípida."},
+        {"id": "c", "texto": "Las atelectasias."},
+        {"id": "d", "texto": "El íleo paralítico."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 35,
+      "texto": "En cirugía general, ¿cuál es el valor máximo deseable para la Presión Intraabdominal (PIA) en cmH2O?",
+      "opciones": [
+        {"id": "a", "texto": "Menor de 5 cmH2O."},
+        {"id": "b", "texto": "Menor de 15 cmH2O."},
+        {"id": "c", "texto": "Menor de 25 cmH2O."},
+        {"id": "d", "texto": "Menor de 30 cmH2O."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 36,
+      "texto": "¿Cómo se define la muerte encefálica en el contexto de la donación de órganos?",
+      "opciones": [
+        {"id": "a", "texto": "Cese temporal de las funciones neurológicas superiores."},
+        {"id": "b", "texto": "Disminución severa de la actividad eléctrica cerebral."},
+        {"id": "c", "texto": "Cese completo e irreversible de las funciones neurológicas intracraneales."},
+        {"id": "d", "texto": "Estado de coma profundo con posibilidad de recuperación."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 37,
+      "texto": "¿A qué programa se asocia la donación en asistolia?",
+      "opciones": [
+        {"id": "a", "texto": "Programa de Glasgow."},
+        {"id": "b", "texto": "Programa de Barcelona."},
+        {"id": "c", "texto": "Programa Maastricht."},
+        {"id": "d", "texto": "Programa de Copenhague."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 38,
+      "texto": "¿Cuál de las siguientes condiciones es un criterio de EXCLUSIÓN para la donación de órganos?",
+      "opciones": [
+        {"id": "a", "texto": "Edad superior a 65 años."},
+        {"id": "b", "texto": "Hipertensión arterial controlada."},
+        {"id": "c", "texto": "Enfermedades tumorales activas."},
+        {"id": "d", "texto": "Antecedentes de cirugía mayor."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 39,
+      "texto": "Las enfermedades por priones son un criterio de exclusión para la donación. ¿Qué tipo de enfermedades son estas?",
+      "opciones": [
+        {"id": "a", "texto": "Enfermedades cardiovasculares congénitas."},
+        {"id": "b", "texto": "Enfermedades autoinmunes."},
+        {"id": "c", "texto": "Enfermedades neurodegenerativas."},
+        {"id": "d", "texto": "Enfermedades metabólicas hereditarias."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 40,
+      "texto": "En los cuidados de enfermería al potencial donante, ¿con qué frecuencia se recomiendan los cambios posturales?",
+      "opciones": [
+        {"id": "a", "texto": "Cada hora."},
+        {"id": "b", "texto": "Cada 2 horas."},
+        {"id": "c", "texto": "Cada 4 horas."},
+        {"id": "d", "texto": "Cada 6 horas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 41,
+      "texto": "La inducción al vómito como medida para disminuir la absorción de un tóxico está contraindicada en caso de:",
+      "opciones": [
+        {"id": "a", "texto": "Ingesta reciente de fármacos en un paciente consciente."},
+        {"id": "b", "texto": "Ingesta de plantas no venenosas."},
+        {"id": "c", "texto": "Disminución del nivel de conciencia e ingesta de corrosivos o hidrocarburos."},
+        {"id": "d", "texto": "Intoxicación por metales pesados."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 42,
+      "texto": "Para el lavado gástrico en un adulto intoxicado, ¿qué calibre de sonda se recomienda y cuándo es más efectivo?",
+      "opciones": [
+        {"id": "a", "texto": "Sonda 18F, efectivo hasta 6 horas post-ingesta."},
+        {"id": "b", "texto": "Sonda 24F, efectivo hasta 3 horas post-ingesta."},
+        {"id": "c", "texto": "Sondas de gran calibre (36-40F), dentro de la primera hora tras la ingesta."},
+        {"id": "d", "texto": "Cualquier sonda nasogástrica, efectivo mientras haya síntomas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 43,
+      "texto": "¿Cuál es la dosis óptima de carbón activado para disminuir la absorción de un tóxico?",
+      "opciones": [
+        {"id": "a", "texto": "0.1 g/Kg"},
+        {"id": "b", "texto": "0.5 g/Kg"},
+        {"id": "c", "texto": "1 g/Kg"},
+        {"id": "d", "texto": "5 g/Kg"}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 44,
+      "texto": "La alcalinización de la orina es una medida para aumentar la eliminación del tóxico. ¿Frente a qué tipo de sustancias es útil y qué electrolito se debe vigilar?",
+      "opciones": [
+        {"id": "b", "texto": "Útil frente a bases débiles, vigilar hipernatremia."},
+        {"id": "a", "texto": "Útil frente a ácidos débiles, vigilar hipopotasemia (HIPOK)."},
+        {"id": "c", "texto": "Útil frente a sustancias liposolubles, vigilar hipocalcemia."},
+        {"id": "d", "texto": "Útil frente a alcoholes, vigilar hiperfosfatemia."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 45,
+      "texto": "La técnica de hemoperfusión para aumentar la eliminación de un tóxico implica que la sangre pasa a través de:",
+      "opciones": [
+        {"id": "a", "texto": "Un dializador estándar con líquido de diálisis."},
+        {"id": "b", "texto": "Filtros que contienen sustancias absorbentes."},
+        {"id": "c", "texto": "Una membrana de alta permeabilidad para ultrafiltración."},
+        {"id": "d", "texto": "Un sistema de intercambio plasmático."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 46,
+      "texto": "En la 'Regla de los 9 de Wallace' para calcular la extensión quemada en adultos, ¿qué porcentaje se le asigna a un brazo completo?",
+      "opciones": [
+        {"id": "a", "texto": "4.5%"},
+        {"id": "b", "texto": "9%"},
+        {"id": "c", "texto": "18%"},
+        {"id": "d", "texto": "1%"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 47,
+      "texto": "Según la 'Regla de la palma de mano', ¿qué porcentaje de la Superficie Corporal Total (SCT) representa la mano del paciente?",
+      "opciones": [
+        {"id": "a", "texto": "0.5%"},
+        {"id": "b", "texto": "1%"},
+        {"id": "c", "texto": "2%"},
+        {"id": "d", "texto": "5%"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 48,
+      "texto": "La 'Regla de Lund y Browder' es una adaptación de la regla de los 9 utilizada principalmente en:",
+      "opciones": [
+        {"id": "a", "texto": "Ancianos."},
+        {"id": "b", "texto": "Pacientes obesos."},
+        {"id": "c", "texto": "Niños."},
+        {"id": "d", "texto": "Quemaduras químicas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 49,
+      "texto": "En la estabilización del paciente gran quemado (ABCDE), ¿en qué situaciones se considera una alta probabilidad de Intubación Orotraqueal (IOT)?",
+      "opciones": [
+        {"id": "a", "texto": "En todas las quemaduras de segundo grado."},
+        {"id": "b", "texto": "Solo si el paciente refiere disnea leve."},
+        {"id": "c", "texto": "En afectación de cabeza y cuello, edema, intoxicación por CO, o inestabilidad hemodinámica."},
+        {"id": "d", "texto": "Cuando la SCQ es superior al 10%."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 50,
+      "texto": "¿Qué fórmula de reposición de volumen se utiliza para pacientes con una Superficie Corporal Quemada (SCQ) entre el 20-50%?",
+      "opciones": [
+        {"id": "a", "texto": "Fórmula de Brooke modificada."},
+        {"id": "b", "texto": "Fórmula de Galveston."},
+        {"id": "c", "texto": "Fórmula de Parkland."},
+        {"id": "d", "texto": "Fórmula de Holliday-Segar."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}

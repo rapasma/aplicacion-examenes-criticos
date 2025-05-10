@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma de Exámenes de Cuidados Críticos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Exámenes de Cuidados Críticos</h1>
+    </header>
+    <main>
+        <section id="lista-temas-examenes">
+            <p>Cargando exámenes...</p>
+        </section>
+
+        <section id="vista-examen" class="oculto">
+            <div class="examen-header">
+    <h2 id="titulo-examen"></h2>
+    <button id="boton-volver-inicio-examen" class="boton-accion">Volver al Inicio</button>
+</div>
+
+<div id="descripcion-caso-contenedor" class="caso-descripcion"></div> 
+
+<div id="contenedor-todas-preguntas">
+    </div>
+<button id="boton-scroll-caso" class="boton-flotante-scroll oculto" title="Subir al caso clínico">&uarr;</button>
+            
+            <div id="contenedor-todas-preguntas">
+                </div>
+            <button id="boton-finalizar-todo" class="boton-accion boton-finalizar-grande">Finalizar Examen</button>
+        </section>
+
+        <section id="vista-resultado" class="oculto">
+            <h2>Resultado del Examen</h2>
+            <p id="puntuacion"></p>
+            <p id="feedback-general"></p>
+            <button id="boton-revisar-respuestas" class="boton-accion oculto">Revisar Respuestas</button>
+            <button id="boton-volver-inicio-resultado" class="boton-accion">Volver al Inicio</button>
+            <div id="revision-respuestas-contenedor" class="oculto">
+                <h3>Revisión de Respuestas:</h3>
+                </div>
+
+                <button id="boton-volver-inicio-resultado" class="boton-accion">Volver al Inicio</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 - Tu Nombre o Institución</p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>

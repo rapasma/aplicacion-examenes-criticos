@@ -1,0 +1,282 @@
+{
+  "idExamen": "tema14_examen_3_dificil",
+  "nombreExamen": "Tema 14 - Examen 3 Muy Difícil (Paciente Gran Quemado)",
+  "idTema": "tema14",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "El texto menciona que las quemaduras de primer grado 'conservan la integridad de la piel'. ¿Qué implicación tiene esto en cuanto al riesgo de infección comparado con quemaduras más profundas?",
+      "opciones": [
+        {"id": "a", "texto": "El riesgo de infección es significativamente menor ya que la barrera epidérmica principal no está rota, a diferencia de quemaduras con pérdida de la solución de continuidad."},
+        {"id": "b", "texto": "El riesgo de infección es mayor debido a la intensa respuesta inflamatoria local."},
+        {"id": "c", "texto": "No hay diferencia en el riesgo de infección, ya que cualquier quemadura altera las defensas locales."},
+        {"id": "d", "texto": "Las quemaduras de primer grado siempre requieren profilaxis antibiótica tópica."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La 'Regla de Lund y Browder' para calcular la extensión quemada es una adaptación de la Regla de los 9 en niños. ¿Cuál es la principal razón por la que se necesita esta adaptación específica para la población pediátrica?",
+      "opciones": [
+        {"id": "a", "texto": "Los niños tienen una piel más fina y se queman más fácilmente."},
+        {"id": "b", "texto": "La proporción de las diferentes partes del cuerpo (ej. cabeza más grande, extremidades más cortas en relación al tronco) es diferente en niños comparada con los adultos."},
+        {"id": "c", "texto": "Los niños suelen tener quemaduras menos extensas que los adultos."},
+        {"id": "d", "texto": "Es más fácil de aplicar por personal no especializado en pediatría."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "En la estabilización del paciente gran quemado, asegurar una 'vía aérea permeable' (A-B) es prioritario. Si un paciente con quemaduras faciales presenta estridor laríngeo progresivo, ¿qué indica esto y cuál sería la acción inmediata más probable?",
+      "opciones": [
+        {"id": "a", "texto": "Indica una reacción alérgica a los analgésicos; administrar antihistamínicos."},
+        {"id": "b", "texto": "Sugiere una neumonía por aspiración; iniciar antibioterapia de amplio espectro."},
+        {"id": "c", "texto": "Es un signo de obstrucción crítica de la vía aérea superior por edema; preparación para intubación orotraqueal urgente."},
+        {"id": "d", "texto": "Indica dolor severo; aumentar la dosis de opiáceos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "La Fórmula de Parkland y la de Brooke modificada se utilizan para el control de volumen. ¿Cuál es la principal diferencia en su indicación según el %SCQ mencionada en el texto?",
+      "opciones": [
+        {"id": "a", "texto": "Parkland para niños, Brooke para adultos."},
+        {"id": "b", "texto": "Parkland para quemaduras <20% SCQ, Brooke para >20% SCQ."},
+        {"id": "c", "texto": "Parkland para 20-50% SCQ, Brooke modificada para >50% SCQ."},
+        {"id": "d", "texto": "Ambas son intercambiables independientemente del %SCQ."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "El texto indica que para el tratamiento de las quemaduras, una vez estabilizado el paciente, se debe 'Eliminar toda la suciedad, piel quemada y flictenas'. ¿Cuál es el riesgo de NO eliminar adecuadamente el tejido necrótico (piel quemada)?",
+      "opciones": [
+        {"id": "a", "texto": "El tejido necrótico es un medio de cultivo ideal para bacterias, aumentando el riesgo de infección y sepsis, e impidiendo la cicatrización."},
+        {"id": "b", "texto": "Provoca una reacción autoinmune sistémica."},
+        {"id": "c", "texto": "Causa dolor crónico intratable."},
+        {"id": "d", "texto": "Conduce a una deshidratación severa por pérdida de la barrera cutánea."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "El desbridamiento quirúrgico con dermatomo permite retirar la escara. ¿Qué ventaja ofrece un desbridamiento temprano y completo en quemaduras profundas?",
+      "opciones": [
+        {"id": "a", "texto": "Reduce significativamente la necesidad de analgesia postoperatoria."},
+        {"id": "b", "texto": "Disminuye la respuesta inflamatoria sistémica, reduce el riesgo de infección, permite una cobertura más temprana con injertos y puede mejorar el resultado funcional y estético."},
+        {"id": "c", "texto": "Asegura la regeneración espontánea de la piel sin necesidad de injertos."},
+        {"id": "d", "texto": "Evita completamente la formación de cicatrices hipertróficas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La 'Glucemia cada 6 h' es un cuidado general. ¿Por qué los pacientes grandes quemados tienden a desarrollar hiperglucemia, incluso sin ser diabéticos previamente?",
+      "opciones": [
+        {"id": "a", "texto": "Por la administración de soluciones glucosadas en la resucitación."},
+        {"id": "b", "texto": "Debido a la respuesta de estrés hipermetabólica con aumento de hormonas contrarreguladoras (cortisol, catecolaminas, glucagón) y resistencia a la insulina."},
+        {"id": "c", "texto": "Como efecto secundario directo de los fármacos opiáceos."},
+        {"id": "d", "texto": "Por una disminución de la actividad física y el reposo en cama."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "'Evitar la hipotermia' es crucial. ¿Cuál de estos mecanismos contribuye MÁS a la pérdida de calor en un paciente con una gran superficie corporal quemada?",
+      "opciones": [
+        {"id": "a", "texto": "La conducción a través del contacto con sábanas frías."},
+        {"id": "b", "texto": "La convección por corrientes de aire en la habitación."},
+        {"id": "c", "texto": "La radiación de calor al ambiente."},
+        {"id": "d", "texto": "La pérdida evaporativa masiva de agua a través de la piel dañada, que ya no actúa como barrera."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La nutrición enteral precoz en el paciente gran quemado no solo cubre los requerimientos energéticos, sino que también tiene un efecto protector sobre:",
+      "opciones": [
+        {"id": "a", "texto": "La función renal, previniendo la necesidad de diálisis."},
+        {"id": "b", "texto": "La integridad de la barrera intestinal, ayudando a prevenir la translocación bacteriana y la sepsis de origen intestinal."},
+        {"id": "c", "texto": "La función neurológica, disminuyendo el riesgo de delirio."},
+        {"id": "d", "texto": "La contractilidad miocárdica, mejorando el gasto cardíaco."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "El apoyo psicológico busca reducir el 'estrés postraumático' y ayudar a 'afrontar las secuelas estéticas'. ¿Qué tipo de intervención NO sería considerada apoyo psicológico directo en este contexto?",
+      "opciones": [
+        {"id": "a", "texto": "Terapia cognitivo-conductual para manejar la ansiedad y los recuerdos traumáticos."},
+        {"id": "b", "texto": "Información detallada sobre los procedimientos quirúrgicos reconstructivos futuros."},
+        {"id": "c", "texto": "Facilitar el contacto con grupos de apoyo de otros supervivientes de quemaduras."},
+        {"id": "d", "texto": "Asegurar una analgesia óptima para controlar el dolor físico."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "Si una quemadura de segundo grado profunda no se trata adecuadamente con desbridamiento e injerto (si es necesario), ¿cuál es el riesgo principal a largo plazo en términos de cicatrización?",
+      "opciones": [
+        {"id": "a", "texto": "Regeneración completa y sin secuelas en la mayoría de los casos."},
+        {"id": "b", "texto": "Cicatrización rápida pero con hipopigmentación."},
+        {"id": "c", "texto": "Cicatrización lenta por segunda intención, con alto riesgo de cicatrices hipertróficas, queloides y contracturas funcionales."},
+        {"id": "d", "texto": "Transformación maligna de la cicatriz en un carcinoma."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Al utilizar la 'Regla de la palma de mano' (1% SCT) para estimar áreas pequeñas o irregulares de quemadura, ¿qué parte específica de la mano del paciente se debe considerar como referencia?",
+      "opciones": [
+        {"id": "a", "texto": "Solo la superficie de los cuatro dedos juntos, excluyendo el pulgar y la palma."},
+        {"id": "b", "texto": "La superficie completa de la mano del paciente, incluyendo los dedos y el pulgar, desde la muñeca."},
+        {"id": "c", "texto": "Únicamente la superficie palmar, excluyendo los dedos."},
+        {"id": "d", "texto": "El dorso de la mano sin incluir los dedos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "Una 'vía central' en un gran quemado es crucial. Si se inserta un catéter venoso central en la vena subclavia, ¿qué complicación mecánica inmediata es posible durante la inserción, aunque no sea la más frecuente?",
+      "opciones": [
+        {"id": "a", "texto": "Infección del torrente sanguíneo relacionada con el catéter."},
+        {"id": "b", "texto": "Trombosis venosa profunda del miembro superior."},
+        {"id": "c", "texto": "Neumotórax por punción accidental de la pleura apical."},
+        {"id": "d", "texto": "Embolia gaseosa si la conexión no es hermética."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "El texto no detalla las 'escalas del dolor' para el gran quemado, pero menciona que se deben usar. En un paciente quemado consciente y orientado, ¿cuál sería una escala de autoevaluación del dolor apropiada?",
+      "opciones": [
+        {"id": "a", "texto": "La Escala de Coma de Glasgow (GCS)."},
+        {"id": "b", "texto": "La Escala Visual Analógica (EVA) o la Escala Numérica (EN)."},
+        {"id": "c", "texto": "La escala RASS (Richmond Agitation-Sedation Scale)."},
+        {"id": "d", "texto": "La escala BPS (Behavioral Pain Scale)."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "¿Cuál es el objetivo primario al 'eliminar toda la suciedad' de una herida por quemadura durante el tratamiento inicial?",
+      "opciones": [
+        {"id": "a", "texto": "Mejorar el aspecto estético de la herida."},
+        {"id": "b", "texto": "Reducir la carga bacteriana y el material extraño para prevenir la infección."},
+        {"id": "c", "texto": "Facilitar la aplicación de vendajes adhesivos."},
+        {"id": "d", "texto": "Estimular la circulación sanguínea local."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Comparando el desbridamiento quirúrgico con un dermatomo y el desbridamiento enzimático, ¿cuál es una desventaja o limitación principal del desbridamiento enzimático?",
+      "opciones": [
+        {"id": "a", "texto": "Requiere anestesia general siempre."},
+        {"id": "b", "texto": "Es significativamente más doloroso que el quirúrgico."},
+        {"id": "c", "texto": "Puede ser más lento, requerir múltiples aplicaciones, y no ser tan efectivo en escaras muy gruesas o secas; además, algunas enzimas pueden causar irritación o dolor."},
+        {"id": "d", "texto": "Tiene un mayor riesgo de sangrado que el desbridamiento quirúrgico."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "El control de las Constantes Vitales (CV) horarias es un cuidado general. Una taquicardia persistente en un paciente gran quemado, incluso con una PA aparentemente normal, podría ser un signo temprano de:",
+      "opciones": [
+        {"id": "a", "texto": "Respuesta compensatoria a hipovolemia, dolor, ansiedad, o inicio de sepsis."},
+        {"id": "b", "texto": "Sobrecarga de fluidos."},
+        {"id": "c", "texto": "Efecto secundario de la nutrición enteral."},
+        {"id": "d", "texto": "Recuperación neurológica favorable."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La posición de Fowler 45° implica que el paciente está semisentado. ¿Cómo afecta esta posición a la presión intraabdominal en comparación con la posición supina?",
+      "opciones": [
+        {"id": "a", "texto": "Aumenta significativamente la presión intraabdominal."},
+        {"id": "b", "texto": "Generalmente disminuye la presión intraabdominal al reducir la presión del contenido abdominal sobre el diafragma."},
+        {"id": "c", "texto": "No tiene ningún efecto sobre la presión intraabdominal."},
+        {"id": "d", "texto": "Solo afecta la presión intratorácica, no la abdominal."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Preservar la movilidad mediante rehabilitación en el paciente gran quemado es crucial para prevenir contracturas. ¿En qué tipo de quemaduras es MÁS probable que se desarrollen contracturas severas si no se interviene precozmente?",
+      "opciones": [
+        {"id": "a", "texto": "Quemaduras de primer grado extensas."},
+        {"id": "b", "texto": "Quemaduras de segundo grado superficial que afectan grandes superficies."},
+        {"id": "c", "texto": "Quemaduras profundas (segundo grado profundo y tercer grado) que cruzan articulaciones."},
+        {"id": "d", "texto": "Quemaduras químicas leves."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "El documento menciona que las quemaduras graves son causadas por calor, electricidad, sustancias químicas, radiación o por el sol. ¿Qué tipo de daño tisular particular pueden causar las quemaduras eléctricas profundas que a veces no es visible externamente?",
+      "opciones": [
+        {"id": "a", "texto": "Únicamente daño superficial similar a una quemadura térmica."},
+        {"id": "b", "texto": "Lesión extensa de tejidos profundos (músculos, nervios, vasos) a lo largo del trayecto de la corriente, con riesgo de síndrome compartimental y rabdomiólisis."},
+        {"id": "c", "texto": "Una reacción alérgica sistémica al paso de la corriente."},
+        {"id": "d", "texto": "Quemaduras exclusivamente en los puntos de entrada y salida de la corriente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "La 'inestabilidad hemodinámica' es una indicación para considerar IOT en el gran quemado. ¿Cómo se relaciona la inestabilidad hemodinámica con la necesidad de una vía aérea avanzada?",
+      "opciones": [
+        {"id": "a", "texto": "La hipotensión severa siempre causa edema de glotis inmediato."},
+        {"id": "b", "texto": "Un paciente en shock profundo puede tener alterado el nivel de consciencia y los reflejos protectores de la vía aérea, además de que la ventilación mecánica puede ser necesaria para optimizar la oxigenación y reducir el trabajo respiratorio."},
+        {"id": "c", "texto": "La IOT ayuda a revertir la hipotensión directamente."},
+        {"id": "d", "texto": "Solo si la inestabilidad es causada por un neumotórax a tensión."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "La Fórmula de Parkland: (Peso en Kg)x(%SCQ)x4 ml calcula el volumen total para 24h. ¿Cómo se distribuye la administración de este volumen típicamente?",
+      "opciones": [
+        {"id": "a", "texto": "Un tercio en las primeras 8h, un tercio en las siguientes 8h, y un tercio en las últimas 8h."},
+        {"id": "b", "texto": "Todo el volumen en las primeras 8 horas."},
+        {"id": "c", "texto": "La mitad del volumen en las primeras 8 horas desde el momento de la quemadura, y la otra mitad en las siguientes 16 horas."},
+        {"id": "d", "texto": "Un cuarto del volumen cada 6 horas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "El desbridamiento, ya sea quirúrgico o enzimático, es fundamental en el tratamiento de las quemaduras profundas. ¿Cuál es el objetivo final que se persigue con la eliminación del tejido necrótico?",
+      "opciones": [
+        {"id": "a", "texto": "Reducir el dolor de forma inmediata y permanente."},
+        {"id": "b", "texto": "Estimular la producción de colágeno para una cicatriz más estética."},
+        {"id": "c", "texto": "Preparar un lecho limpio y viable para la aplicación de injertos de piel o para facilitar la cicatrización dirigida, minimizando la infección."},
+        {"id": "d", "texto": "Disminuir las necesidades de fluidos del paciente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "Si un paciente gran quemado desarrolla oliguria persistente a pesar de una aparente adecuada resucitación con fluidos según las fórmulas, ¿qué complicación grave se debe sospechar y evaluar urgentemente?",
+      "opciones": [
+        {"id": "a", "texto": "Desarrollo de diabetes insípida nefrogénica."},
+        {"id": "b", "texto": "Insuficiencia renal aguda (IRA), posiblemente por hipoperfusión mantenida, rabdomiólisis, o nefrotoxicidad."},
+        {"id": "c", "texto": "Una reacción transfusional retardada si recibió sangre."},
+        {"id": "d", "texto": "Sobrecarga de fluidos con edema pulmonar."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "El apoyo psicológico al paciente gran quemado es un proceso continuo. ¿En qué fase de la recuperación es MÁS probable que el impacto de las 'secuelas estéticas' se manifieste con mayor intensidad emocional?",
+      "opciones": [
+        {"id": "a", "texto": "Durante la fase aguda de resucitación y estabilización inicial."},
+        {"id": "b", "texto": "Inmediatamente después del primer desbridamiento quirúrgico."},
+        {"id": "c", "texto": "En la fase de rehabilitación y reincorporación social, cuando el paciente se enfrenta a su nueva imagen corporal y a la interacción con el entorno."},
+        {"id": "d", "texto": "Solo si el paciente es muy joven y no tiene apoyo familiar."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}

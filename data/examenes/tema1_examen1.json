@@ -1,0 +1,283 @@
+{
+  "idExamen": "tema1_examen_L1_01_corregido",
+  "idTema": "tema1",
+  "nombreExamen": "Test Tema 1 - Nivel Fácil (Corregido)",
+  "descripcionCaso": "Test de nivel fácil sobre el Tema 1: Aspectos generales del servicio de cuidados intensivos. El paciente crítico.",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "¿Qué tipo de pacientes atiende principalmente la medicina intensiva según el Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Pacientes con enfermedades crónicas estables." },
+        { "id": "b", "texto": "Pacientes que requieren cuidados paliativos exclusivamente." },
+        { "id": "c", "texto": "Pacientes cuya enfermedad pone en peligro su vida de forma real o potencial y son susceptibles de recuperarse." },
+        { "id": "d", "texto": "Pacientes con patologías leves que no requieren hospitalización." }
+      ],
+      "respuestaCorrecta": "c" 
+    },
+    {
+      "idPregunta": 2,
+      "texto": "¿Cómo se considera a las Unidades de Cuidados Intensivos (UCI) dentro del esquema de atención al paciente?",
+      "opciones": [
+        { "id": "a", "texto": "El escalón más avanzado de un esquema gradual de atención." },
+        { "id": "b", "texto": "Un servicio de apoyo para consultas externas." },
+        { "id": "c", "texto": "El primer escalón de atención primaria." },
+        { "id": "d", "texto": "Unidades exclusivamente para pacientes postquirúrgicos." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Según la legislación vigente mencionada en el Tema 1, ¿cómo se denominan las UCI móviles?",
+      "opciones": [
+        { "id": "a", "texto": "Unidades Tipo A." },
+        { "id": "b", "texto": "Unidades Tipo C." },
+        { "id": "c", "texto": "Unidades Tipo B." },
+        { "id": "d", "texto": "Unidades Tipo D." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "En la Región de Murcia, ¿qué entidad asume el servicio extrahospitalario de las UCI móviles (Unidades \"Tipo C\")?",
+      "opciones": [
+        { "id": "a", "texto": "La dirección de cada hospital comarcal." },
+        { "id": "b", "texto": "Los ayuntamientos de cada municipio." },
+        { "id": "c", "texto": "Organizaciones no gubernamentales exclusivamente." },
+        { "id": "d", "texto": "La gerencia del 061, dependiente del Servicio Murciano de Salud." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "¿Qué profesional médico es el responsable de las Unidades de Reanimación Postquirúrgicas (REA)?",
+      "opciones": [
+        { "id": "a", "texto": "Especialistas en Medicina Interna." },
+        { "id": "b", "texto": "Especialistas en Cardiología." },
+        { "id": "c", "texto": "Especialistas en Medicina Intensiva." },
+        { "id": "d", "texto": "Especialistas en Anestesia y Reanimación." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "En el caso de una UCI, ¿quién es el médico responsable?",
+      "opciones": [
+        { "id": "a", "texto": "El médico de Intensiva." },
+        { "id": "b", "texto": "El especialista en Anestesia y Reanimación." },
+        { "id": "c", "texto": "El médico de Urgencias." },
+        { "id": "d", "texto": "El cirujano jefe de la planta." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "¿Cuál es la ratio habitual de enfermeras por cama en los servicios de medicina intensiva mencionada en el texto?",
+      "opciones": [
+        { "id": "a", "texto": "Una enfermera por cada 2-3 camas." },
+        { "id": "b", "texto": "Una enfermera por cada cama." },
+        { "id": "c", "texto": "Una enfermera por cada 10 camas." },
+        { "id": "d", "texto": "Una enfermera por cada 5-6 camas." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "El personal de enfermería en UCI suele trabajar en turnos dirigidos por una supervisora. ¿De quién depende jerárquicamente esta supervisora?",
+      "opciones": [
+        { "id": "a", "texto": "Del jefe de servicio médico de la UCI." },
+        { "id": "b", "texto": "Del gerente del hospital." },
+        { "id": "c", "texto": "De la dirección de enfermería." },
+        { "id": "d", "texto": "Directamente del Servicio Murciano de Salud." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "¿En qué tipo de unidad de emergencias extrahospitalarias encontramos a la enfermera, según el Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Exclusivamente en centros de salud rurales." },
+        { "id": "b", "texto": "Solo en helicópteros medicalizados." },
+        { "id": "c", "texto": "Unidades Móviles de Emergencia (UME)." },
+        { "id": "d", "texto": "Únicamente en Puntos de Atención Continuada (PAC)." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "Los Servicios de Urgencias de Atención Primaria se conocen por las siglas:",
+      "opciones": [
+        { "id": "a", "texto": "UME." },
+        { "id": "b", "texto": "SUAP." },
+        { "id": "c", "texto": "UCI." },
+        { "id": "d", "texto": "SVAE." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "¿Qué significan las siglas SVAE en el contexto de las nuevas unidades de urgencias extrahospitalarias?",
+      "opciones": [
+        { "id": "a", "texto": "Servicio Vital de Ambulancia Especializada." },
+        { "id": "b", "texto": "Soporte Vital Avanzado de Enfermería." },
+        { "id": "c", "texto": "Soporte Vital Avanzado de Emergencia." },
+        { "id": "d", "texto": "Sistema Valenciano de Asistencia Extrahospitalaria." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Además de las UME, SUAP y SVAE, ¿dónde más puede atender una enfermera a pacientes críticos según el Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Exclusivamente en la UCI." },
+        { "id": "b", "texto": "Solo en consultas de especialidades médicas." },
+        { "id": "c", "texto": "En unidades de larga estancia." },
+        { "id": "d", "texto": "En la puerta de urgencias hospitalaria." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "Los Puntos de Atención Continuada (PAC) son mencionados como lugares donde profesionales atienden a pacientes críticos. ¿Verdadero o Falso según el Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Falso, solo atienden patologías leves." },
+        { "id": "b", "texto": "Verdadero." },
+        { "id": "c", "texto": "Falso, solo existen en grandes ciudades." },
+        { "id": "d", "texto": "Verdadero, pero solo pacientes pediátricos." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "¿Cuál es el objetivo principal de la medicina intensiva?",
+      "opciones": [
+        { "id": "a", "texto": "Manejar pacientes cuya vida está en peligro y son recuperables." },
+        { "id": "b", "texto": "Proporcionar rehabilitación física." },
+        { "id": "c", "texto": "Atender enfermedades crónicas a largo plazo." },
+        { "id": "d", "texto": "Realizar diagnósticos ambulatorios." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "La tendencia actual en cuidados intensivos es iniciar la atención:",
+      "opciones": [
+        { "id": "a", "texto": "Siempre dentro de una UCI hospitalaria." },
+        { "id": "b", "texto": "Solo después de 24 horas de observación en urgencias." },
+        { "id": "c", "texto": "Donde surge el problema patológico, mediante UCI móviles." },
+        { "id": "d", "texto": "Únicamente en pacientes con diagnóstico confirmado." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "¿Qué se entiende por \"paciente crítico\" según el contexto del Tema 1?",
+      "opciones": [
+        { "id": "a", "texto": "Todo paciente ingresado en un hospital." },
+        { "id": "b", "texto": "Pacientes que únicamente requieren cirugía." },
+        { "id": "c", "texto": "Personas con quejas sobre el servicio médico." },
+        { "id": "d", "texto": "Aquel cuya enfermedad pone en peligro su vida de forma real o potencial y es susceptible de recuperarse." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Los Puntos de Especial Aislamiento (PEA) se mencionan en el Tema 1 como lugares donde se atienden pacientes críticos.",
+      "opciones": [
+        { "id": "a", "texto": "Falso, son centros de investigación." },
+        { "id": "b", "texto": "Verdadero." },
+        { "id": "c", "texto": "Falso, solo atienden enfermedades infecciosas no críticas." },
+        { "id": "d", "texto": "Verdadero, pero solo para aislamiento por COVID-19." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "El personal de enfermería es descrito en el Tema 1 como:",
+      "opciones": [
+        { "id": "a", "texto": "Una parte muy importante de la plantilla sanitaria de dichos servicios." },
+        { "id": "b", "texto": "Un componente secundario en los servicios de medicina intensiva." },
+        { "id": "c", "texto": "Encargado únicamente de tareas administrativas." },
+        { "id": "d", "texto": "Presente solo en turnos de día." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Los turnos de enfermería en UCI pueden ser de tres al día o también de:",
+      "opciones": [
+        { "id": "a", "texto": "Turnos de 24 horas continuas." },
+        { "id": "b", "texto": "Turnos de 6 horas." },
+        { "id": "c", "texto": "Solo turnos de mañana." },
+        { "id": "d", "texto": "Turnos de 12 horas." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "¿Cuál es una característica de las Unidades de Cuidados Intensivos (UCI)?",
+      "opciones": [
+        { "id": "a", "texto": "Atienden solo a pacientes con enfermedades leves." },
+        { "id": "b", "texto": "Constituyen el escalón más avanzado de atención al paciente grave." },
+        { "id": "c", "texto": "No requieren personal de enfermería especializado." },
+        { "id": "d", "texto": "Son gestionadas siempre por anestesistas." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "Una enfermera que trabaja en un SUAP está desempeñando funciones en:",
+      "opciones": [
+        { "id": "a", "texto": "Una Unidad de Cuidados Intensivos hospitalaria." },
+        { "id": "b", "texto": "Una Unidad Móvil de Emergencia." },
+        { "id": "c", "texto": "Una Unidad de Reanimación Postquirúrgica." },
+        { "id": "d", "texto": "Un Servicio de Urgencias de Atención Primaria." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "La necesidad de los pacientes críticos de ser atendidos en áreas específicas como las UCI se debe a que:",
+      "opciones": [
+        { "id": "a", "texto": "Estas áreas ofrecen mayor privacidad." },
+        { "id": "b", "texto": "Son las únicas áreas con disponibilidad de camas." },
+        { "id": "c", "texto": "Requieren un nivel de asistencia y monitorización que solo estas unidades pueden proveer." },
+        { "id": "d", "texto": "Facilitan las visitas familiares sin restricciones." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "Según el Tema 1, las UCI móviles también son conocidas como Unidades:",
+      "opciones": [
+        { "id": "a", "texto": "De Soporte Vital Básico (SVB)." },
+        { "id": "b", "texto": "De Reanimación Extrahospitalaria (REA-E)." },
+        { "id": "c", "texto": "De Atención Primaria Urgente (APU)." },
+        { "id": "d", "texto": "Tipo C." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "El médico intensivista es el responsable de:",
+      "opciones": [
+        { "id": "a", "texto": "Las Unidades de Cuidados Intensivos (UCI)." },
+        { "id": "b", "texto": "Los Servicios de Urgencias de Atención Primaria (SUAP)." },
+        { "id": "c", "texto": "Las Unidades de Reanimación Postquirúrgica (REA)." },
+        { "id": "d", "texto": "Las Unidades Móviles de Emergencia (UME) exclusivamente." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "El texto menciona que el personal de enfermería en UCI trabaja en turnos, ¿cuántos turnos al día se mencionan como una opción?",
+      "opciones": [
+        { "id": "a", "texto": "Un único turno de 24 horas." },
+        { "id": "b", "texto": "Dos turnos de 12 horas." },
+        { "id": "c", "texto": "Cuatro turnos de 6 horas." },
+        { "id": "d", "texto": "Tres turnos al día." }
+      ],
+      "respuestaCorrecta": "d"
+    }
+  ]
+}

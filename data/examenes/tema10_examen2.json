@@ -1,0 +1,282 @@
+{
+  "idExamen": "tema10_examen_extra_1",
+  "nombreExamen": "Tema 10 - Test Adicional Avanzado (SVA y Postreanimación)",
+  "idTema": "tema10",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "El ILCOR se formó para proporcionar un foro de enlace entre las principales organizaciones de reanimación. ¿Qué se esperaba de estas organizaciones miembros?",
+      "opciones": [
+        {"id": "a", "texto": "Que fueran exclusivamente de ámbito europeo."},
+        {"id": "b", "texto": "Que tuvieran un mandato aceptado para crear pautas de reanimación y fueran multidisciplinarias."},
+        {"id": "c", "texto": "Que se centraran únicamente en la reanimación pediátrica."},
+        {"id": "d", "texto": "Que publicaran al menos cinco artículos científicos al año."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "El Soporte Vital Básico (SVB) se describe como el conjunto de actuaciones que se realizan 'sin más equipamiento que ciertos dispositivos de protección'. ¿Cuál es un ejemplo de tal dispositivo?",
+      "opciones": [
+        {"id": "a", "texto": "Un monitor desfibrilador avanzado."},
+        {"id": "b", "texto": "Un equipo de intubación orotraqueal."},
+        {"id": "c", "texto": "Una mascarilla para ventilación boca a boca o un protector facial."},
+        {"id": "d", "texto": "Un equipo de acceso intraóseo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "En la cadena de supervivencia, el eslabón de 'Reconocimiento precoz y pedir ayuda' tiene como objetivo principal:",
+      "opciones": [
+        {"id": "b", "texto": "Ganar tiempo hasta la llegada del desfibrilador."},
+        {"id": "a", "texto": "Prevenir la parada cardíaca o actuar rápidamente si ocurre."},
+        {"id": "c", "texto": "Reiniciar el corazón eléctricamente."},
+        {"id": "d", "texto": "Restaurar la calidad de vida post-PCR."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "El algoritmo de SVB de la Figura 2 indica 'Continúe RCP 30:2'. ¿Qué implica esto?",
+      "opciones": [
+        {"id": "a", "texto": "Realizar 30 minutos de RCP y luego 2 minutos de descanso."},
+        {"id": "b", "texto": "Alternar ciclos de 30 compresiones con 2 ventilaciones."},
+        {"id": "c", "texto": "Realizar 30 ventilaciones y luego 2 compresiones."},
+        {"id": "d", "texto": "Aplicar 30 Joules en la desfibrilación dos veces."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "La temprana desfibrilación en la Fibrilación Ventricular (FV) o Taquicardia Ventricular sin pulso (TV) es crucial. ¿Qué representa la FV en un ECG?",
+      "opciones": [
+        {"id": "a", "texto": "Una actividad eléctrica organizada pero sin pulso efectivo."},
+        {"id": "b", "texto": "Una ausencia total de actividad eléctrica cardíaca."},
+        {"id": "c", "texto": "Una actividad eléctrica caótica y desorganizada que impide la contracción efectiva del ventrículo."},
+        {"id": "d", "texto": "Un ritmo cardíaco regular pero extremadamente rápido."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "Durante el SVA, se enfatiza realizar 'compresiones torácicas de alta calidad'. ¿Cuál de los siguientes aspectos NO corresponde a una compresión de alta calidad?",
+      "opciones": [
+        {"id": "a", "texto": "Frecuencia adecuada (100-120 cpm)."},
+        {"id": "b", "texto": "Profundidad adecuada (5-6 cm en adultos)."},
+        {"id": "c", "texto": "Permitir la reexpansión torácica completa."},
+        {"id": "d", "texto": "Interrupciones frecuentes para ventilación y evaluación."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "En el SVA, si se dispone de una vía aérea avanzada (ej. tubo endotraqueal), ¿cómo se deben realizar las compresiones y ventilaciones?",
+      "opciones": [
+        {"id": "a", "texto": "Continuar con ciclos 30:2 sincronizados."},
+        {"id": "b", "texto": "Realizar compresiones continuadas y ventilaciones asincrónicas (ej. 1 cada 6 segundos)."},
+        {"id": "c", "texto": "Priorizar las ventilaciones sobre las compresiones."},
+        {"id": "d", "texto": "Realizar 15 compresiones y 1 ventilación."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "El acceso intravenoso (IV) o intraóseo (IO) es fundamental en el SVA. ¿En qué situación se consideraría preferentemente un acceso IO?",
+      "opciones": [
+        {"id": "c", "texto": "Cuando el paciente está consciente y colabora."},
+        {"id": "b", "texto": "Como primera elección en todos los casos de PCR."},
+        {"id": "a", "texto": "Cuando el acceso IV es difícil o imposible de obtener rápidamente."},
+        {"id": "d", "texto": "Únicamente para la administración de cristaloides."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "¿Cuál de las siguientes es una causa reversible de PCR de origen metabólico (una de las 'H')?",
+      "opciones": [
+        {"id": "a", "texto": "Trombosis coronaria."},
+        {"id": "b", "texto": "Neumotórax a tensión."},
+        {"id": "c", "texto": "Hipo/hiperpotasemia u otras alteraciones metabólicas."},
+        {"id": "d", "texto": "Hipovolemia por sangrado."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "La consideración de RCP extracorpórea (ECMO-RCP) tras RCE se plantea en situaciones de:",
+      "opciones": [
+        {"id": "a", "texto": "PCR presenciada de corta duración y respuesta rápida a SVB."},
+        {"id": "b", "texto": "Pacientes ancianos con múltiples comorbilidades."},
+        {"id": "c", "texto": "PCR refractaria en pacientes seleccionados, o para facilitar la transferencia/tratamiento de causas reversibles."},
+        {"id": "d", "texto": "Todos los casos de asistolia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En los cuidados postreanimación inmediatos, mantener una PCO2 normal (normocapnia) es importante porque la hipocapnia puede causar:",
+      "opciones": [
+        {"id": "a", "texto": "Vasodilatación cerebral y aumento de la PIC."},
+        {"id": "b", "texto": "Vasoconstricción cerebral y disminución del flujo sanguíneo cerebral."},
+        {"id": "c", "texto": "Mejora de la oxigenación tisular periférica."},
+        {"id": "d", "texto": "Acidosis metabólica severa."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "En la sección de 'Circulación' de los cuidados postreanimación inmediatos, se menciona el uso de inotropos/vasopresores. ¿Cuál es su objetivo principal en este contexto?",
+      "opciones": [
+        {"id": "a", "texto": "Inducir diuresis forzada."},
+        {"id": "b", "texto": "Controlar las arritmias cardíacas."},
+        {"id": "c", "texto": "Mantener la Tensión Arterial objetivo (>100 mmHg sistólica)."},
+        {"id": "d", "texto": "Provocar sedación profunda."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El control de temblores es una medida en el manejo de la temperatura post-RCE porque los temblores:",
+      "opciones": [
+        {"id": "a", "texto": "Ayudan a mantener la temperatura corporal deseada."},
+        {"id": "b", "texto": "Son un signo de buena recuperación neurológica."},
+        {"id": "c", "texto": "Aumentan la producción de calor y el consumo de oxígeno, dificultando el control de la temperatura."},
+        {"id": "d", "texto": "Indican una sedación insuficiente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "En la optimización de la recuperación post-PCR, si un ECG de 12 derivaciones muestra elevación del segmento ST, ¿qué procedimiento diagnóstico/terapéutico se indica con alta probabilidad?",
+      "opciones": [
+        {"id": "a", "texto": "TC craneal urgente."},
+        {"id": "b", "texto": "Angiografía coronaria / ICP."},
+        {"id": "c", "texto": "Ecocardiografía transesofágica."},
+        {"id": "d", "texto": "Monitorización continua de EEG."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "La 'ventilación protectora' en el manejo en UCI post-PCR busca principalmente:",
+      "opciones": [
+        {"id": "c", "texto": "Mantener al paciente hipermventilado para eliminar CO2."},
+        {"id": "b", "texto": "Utilizar volúmenes tidales altos para reclutar alvéolos."},
+        {"id": "a", "texto": "Minimizar la lesión pulmonar inducida por la ventilación (VILI) usando volúmenes tidales bajos y PEEP adecuada."},
+        {"id": "d", "texto": "Asegurar una FiO2 del 100% de forma continua."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "El mantenimiento de la euglucemia en UCI post-PCR es importante porque la hiperglucemia puede:",
+      "opciones": [
+        {"id": "a", "texto": "Mejorar el pronóstico neurológico."},
+        {"id": "b", "texto": "Favorecer la diuresis osmótica."},
+        {"id": "c", "texto": "Empeorar el daño isquémico y aumentar el riesgo de infecciones."},
+        {"id": "d", "texto": "Ser un marcador de recuperación pancreática."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Para el diagnóstico y manejo de eventos comiciales (convulsiones) en UCI post-PCR, ¿qué herramientas se mencionan?",
+      "opciones": [
+        {"id": "a", "texto": "ECG continuo y administración de betabloqueantes."},
+        {"id": "b", "texto": "EEG, sedación y fármacos antiepilépticos."},
+        {"id": "c", "texto": "TC craneal seriado y manitol."},
+        {"id": "d", "texto": "Punción lumbar y antivirales."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La prevención secundaria post-PCR incluye:",
+      "opciones": [
+        {"id": "b", "texto": "El control inmediato de la temperatura."},
+        {"id": "a", "texto": "La búsqueda de trastornos hereditarios y el manejo de factores de riesgo cardiovascular."},
+        {"id": "c", "texto": "La administración de adrenalina durante la RCP."},
+        {"id": "d", "texto": "La valoración funcional inicial en la UCI."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "En el algoritmo ABCDE, si se sospecha aspiración de secreciones en un paciente inconsciente, ¿qué acción se debe realizar en el paso 'A'?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar oxígeno a alto flujo."},
+        {"id": "b", "texto": "Colocar un collarín cervical."},
+        {"id": "c", "texto": "Realizar aspiración de secreciones."},
+        {"id": "d", "texto": "Insertar una cánula de Guedel inmediatamente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "En el paso 'B' (Respiración) del algoritmo ABCDE, si se detecta que el paciente no respira o lo hace de forma anormal (gasping), ¿qué acción inmediata se indica?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar oxígeno y reevaluar."},
+        {"id": "b", "texto": "Iniciar R.C.P.b. (Reanimación Cardiopulmonar básica)."},
+        {"id": "c", "texto": "Buscar heridas en el tórax y taparlas."},
+        {"id": "d", "texto": "Auscultar campos pulmonares."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "En el paso 'C' (Circulación) del algoritmo ABCDE, además del pulso y relleno capilar, ¿qué se debe valorar en la piel?",
+      "opciones": [
+        {"id": "c", "texto": "La presencia de erupciones alérgicas."},
+        {"id": "b", "texto": "La elasticidad y turgencia."},
+        {"id": "a", "texto": "El color y la temperatura."},
+        {"id": "d", "texto": "La sudoración excesiva."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "La exploración pupilar en el paso 'D' del ABCDE es importante para evaluar:",
+      "opciones": [
+        {"id": "a", "texto": "El nivel de hidratación del paciente."},
+        {"id": "b", "texto": "La función del tronco encefálico y posibles lesiones neurológicas."},
+        {"id": "c", "texto": "La agudeza visual."},
+        {"id": "d", "texto": "El riesgo de glaucoma agudo."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "En el paso 'E' (Exposición) del algoritmo ABCDE, ¿cuál es el objetivo principal además de exponer las zonas afectadas?",
+      "opciones": [
+        {"id": "a", "texto": "Realizar una limpieza exhaustiva de la piel."},
+        {"id": "b", "texto": "Cubrir al paciente y prevenir la hipotermia."},
+        {"id": "c", "texto": "Administrar fluidoterapia intravenosa."},
+        {"id": "d", "texto": "Aplicar vendajes compresivos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "El eslabón 'Cuidados postresucitación' en la cadena de supervivencia tiene como finalidad:",
+      "opciones": [
+        {"id": "a", "texto": "Prevenir la parada cardíaca inicial."},
+        {"id": "b", "texto": "Ganar tiempo hasta la llegada de ayuda especializada."},
+        {"id": "c", "texto": "Reiniciar eléctricamente el corazón."},
+        {"id": "d", "texto": "Restaurar la calidad de vida y optimizar la recuperación neurológica."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "¿Qué importancia tiene 'minimizar las interrupciones de las compresiones torácicas' durante el SVA?",
+      "opciones": [
+        {"id": "a", "texto": "Permite una mejor coordinación del equipo de reanimación."},
+        {"id": "b", "texto": "Reduce la fatiga del reanimador."},
+        {"id": "c", "texto": "Mantiene la presión de perfusión coronaria y cerebral, mejorando la probabilidad de RCE y supervivencia."},
+        {"id": "d", "texto": "Facilita la administración de fármacos y la ventilación."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}

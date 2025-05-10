@@ -1,0 +1,336 @@
+{
+  "idExamen": "t12_examen_1",
+  "nombreExamen": "Tema 12 - Donación de Órganos - Test 1",
+  "idTema": "tema12",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "¿Qué Real Decreto, mencionado en el Tema 12, trata sobre la utilización y coordinación de los órganos humanos destinados a trasplante?",
+      "opciones": [
+        {"id": "a", "texto": "Ley 41/2002"},
+        {"id": "b", "texto": "Real Decreto 1723/2012"},
+        {"id": "c", "texto": "Ley 30/1979"},
+        {"id": "d", "texto": "Decreto Maastricht"}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "¿De qué trata la Ley 41/2002 en el contexto de la donación de órganos?",
+      "opciones": [
+        {"id": "a", "texto": "De la extracción y trasplante de órganos humanos exclusivamente."},
+        {"id": "b", "texto": "De la voluntariedad de la donación de órganos y toma de decisiones al final de la vida."},
+        {"id": "c", "texto": "De los principios éticos de la investigación con órganos humanos."},
+        {"id": "d", "texto": "De la financiación de los programas de trasplante."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Dentro del marco ético de la donación, ¿a qué se refiere el principio de 'autonomía'?",
+      "opciones": [
+        {"id": "c", "texto": "Al uso eficiente de los recursos sanitarios."},
+        {"id": "b", "texto": "A la práctica clínica correcta y respetuosa por parte del personal sanitario."},
+        {"id": "a", "texto": "A la voluntad del paciente sobre la posibilidad de donar órganos."},
+        {"id": "d", "texto": "A la obligación del estado de promover la donación."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "El principio ético de 'Justicia' en la donación de órganos se relaciona con:",
+      "opciones": [
+        {"id": "a", "texto": "La veracidad en la información proporcionada al paciente."},
+        {"id": "b", "texto": "La voluntad expresa del donante."},
+        {"id": "c", "texto": "El uso eficiente de recursos sanitarios y favorecer la medicina de trasplantes."},
+        {"id": "d", "texto": "Evitar cualquier daño al donante vivo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "¿Cuáles son los dos tipos principales de donantes fallecidos mencionados en el Tema 12?",
+      "opciones": [
+        {"id": "a", "texto": "Donante por parada cardiorrespiratoria y donante por accidente cerebrovascular."},
+        {"id": "b", "texto": "Donante en muerte encefálica y donante en asistolia (programa Maastricht)."},
+        {"id": "c", "texto": "Donante traumatizado y donante con enfermedad terminal."},
+        {"id": "d", "texto": "Donante joven y donante de edad avanzada."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "¿Cómo se define la muerte encefálica en el contexto de la donación de órganos?",
+      "opciones": [
+        {"id": "c", "texto": "Cese temporal de las funciones neurológicas superiores."},
+        {"id": "b", "texto": "Disminución severa de la actividad eléctrica cerebral."},
+        {"id": "a", "texto": "Cese completo e irreversible de las funciones neurológicas intracraneales."},
+        {"id": "d", "texto": "Estado de coma profundo con posibilidad de recuperación."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "¿A qué programa se asocia la donación en asistolia?",
+      "opciones": [
+        {"id": "a", "texto": "Programa de Glasgow."},
+        {"id": "b", "texto": "Programa de Barcelona."},
+        {"id": "c", "texto": "Programa Maastricht."},
+        {"id": "d", "texto": "Programa de Copenhague."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "¿Cuál de las siguientes condiciones es un criterio de EXCLUSIÓN para la donación de órganos?",
+      "opciones": [
+        {"id": "a", "texto": "Edad superior a 65 años."},
+        {"id": "b", "texto": "Hipertensión arterial controlada."},
+        {"id": "c", "texto": "Enfermedades tumorales activas."},
+        {"id": "d", "texto": "Antecedentes de cirugía mayor."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Las enfermedades por priones son un criterio de exclusión para la donación. ¿Qué tipo de enfermedades son estas?",
+      "opciones": [
+        {"id": "c", "texto": "Enfermedades cardiovasculares congénitas."},
+        {"id": "b", "texto": "Enfermedades autoinmunes."},
+        {"id": "a", "texto": "Enfermedades neurodegenerativas."},
+        {"id": "d", "texto": "Enfermedades metabólicas hereditarias."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "En los cuidados de enfermería al potencial donante, ¿con qué frecuencia se recomiendan los cambios posturales?",
+      "opciones": [
+        {"id": "a", "texto": "Cada hora."},
+        {"id": "b", "texto": "Cada 2 horas."},
+        {"id": "c", "texto": "Cada 4 horas."},
+        {"id": "d", "texto": "Cada 6 horas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "La aspiración de secreciones en el potencial donante tiene como fin principal evitar:",
+      "opciones": [
+        {"id": "a", "texto": "La hipotensión arterial."},
+        {"id": "b", "texto": "El broncoespasmo."},
+        {"id": "c", "texto": "Las atelectasias y neumonías."},
+        {"id": "d", "texto": "La bradicardia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "¿Cuál de los siguientes NO es un cuidado de enfermería específico mencionado para el potencial donante?",
+      "opciones": [
+        {"id": "a", "texto": "Correcta reposición de volumen."},
+        {"id": "b", "texto": "Administración de antibióticos profilácticos de amplio espectro."},
+        {"id": "c", "texto": "Corrección de la hipotermia."},
+        {"id": "d", "texto": "Preservar la dignidad del paciente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El apoyo emocional a la familia del potencial donante debe basarse en:",
+      "opciones": [
+        {"id": "a", "texto": "Ocultar información delicada para no causar más dolor."},
+        {"id": "b", "texto": "La transparencia, la empatía y la escucha activa."},
+        {"id": "c", "texto": "Presionar sutilmente para obtener el consentimiento."},
+        {"id": "d", "texto": "Utilizar un lenguaje técnico para demostrar profesionalismo."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "Al ayudar a la familia en la toma de decisiones sobre la donación, ¿qué actitud debe mantener el personal sanitario?",
+      "opciones": [
+        {"id": "b", "texto": "Emitir juicios de valor basados en la necesidad de órganos."},
+        {"id": "a", "texto": "No emitir juicios de valor y respetar su decisión."},
+        {"id": "c", "texto": "Compartir opiniones personales sobre la donación."},
+        {"id": "d", "texto": "Limitar el tiempo para la toma de decisión para agilizar el proceso."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "La Ley 30/1979, mencionada en el marco legal, trata sobre:",
+      "opciones": [
+        {"id": "a", "texto": "La voluntariedad de la donación."},
+        {"id": "b", "texto": "La coordinación de los órganos destinados a trasplante."},
+        {"id": "c", "texto": "La extracción y trasplante de órganos humanos."},
+        {"id": "d", "texto": "Los derechos del paciente al final de la vida."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "El principio de 'Beneficencia/no maleficencia' en la donación implica:",
+      "opciones": [
+        {"id": "a", "texto": "Que el paciente decida libremente sobre sus órganos."},
+        {"id": "b", "texto": "Una práctica clínica correcta, respetuosa y con veracidad como base."},
+        {"id": "c", "texto": "Distribuir los órganos de manera equitativa."},
+        {"id": "d", "texto": "Que la donación sea siempre anónima."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Un donante vivo es una persona que cumple los requisitos establecidos y cuya donación de órganos o partes de ellos es:",
+      "opciones": [
+        {"id": "a", "texto": "Siempre anónima y sin contacto con el receptor."},
+        {"id": "b", "texto": "Compatible con la vida del donante."},
+        {"id": "c", "texto": "Limitada únicamente a familiares de primer grado."},
+        {"id": "d", "texto": "Realizada bajo compensación económica."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "Además de sepsis y neoplasias, ¿qué otra condición general es un criterio de exclusión para ser donante de órganos?",
+      "opciones": [
+        {"id": "a", "texto": "Diabetes mellitus tipo 2 controlada."},
+        {"id": "b", "texto": "Enfermedades infecciosas transmisibles."},
+        {"id": "c", "texto": "Haber recibido una transfusión de sangre."},
+        {"id": "d", "texto": "Tener un marcapasos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Entre los cuidados de enfermería para el mantenimiento del potencial donante se incluye 'preservar la dignidad del paciente'. Esto implica:",
+      "opciones": [
+        {"id": "a", "texto": "Limitar las visitas de los familiares."},
+        {"id": "b", "texto": "Mantener al paciente cubierto y respetar su intimidad en todo momento."},
+        {"id": "c", "texto": "Acelerar los procedimientos para minimizar el tiempo en UCI."},
+        {"id": "d", "texto": "Realizar únicamente los cuidados esenciales."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "¿Por qué es importante la 'correcta reposición de volumen' en el potencial donante?",
+      "opciones": [
+        {"id": "b", "texto": "Para facilitar la extracción de los órganos."},
+        {"id": "a", "texto": "Para mantener la perfusión y viabilidad de los órganos a donar."},
+        {"id": "c", "texto": "Para aumentar el peso corporal del donante."},
+        {"id": "d", "texto": "Para prevenir la hipotermia."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "La 'corrección de la hipotermia' es un cuidado crucial en el potencial donante porque la hipotermia puede:",
+      "opciones": [
+        {"id": "a", "texto": "Mejorar la conservación de los órganos."},
+        {"id": "b", "texto": "Causar coagulopatías y arritmias, afectando la viabilidad de los órganos."},
+        {"id": "c", "texto": "Facilitar la declaración de muerte encefálica."},
+        {"id": "d", "texto": "Reducir el riesgo de infección."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "Al comunicarse con la familia del potencial donante, ¿qué característica debe tener el lenguaje utilizado por el personal sanitario?",
+      "opciones": [
+        {"id": "a", "texto": "Eminentemente técnico para demostrar conocimiento."},
+        {"id": "b", "texto": "Ambiguo para no generar falsas esperanzas."},
+        {"id": "c", "texto": "Claro, sencillo y directo."},
+        {"id": "d", "texto": "Conciso y breve, evitando el diálogo extenso."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "Animar a la familia a 'verbalizar sus inquietudes y preocupaciones' forma parte de:",
+      "opciones": [
+        {"id": "a", "texto": "El proceso de selección de órganos."},
+        {"id": "b", "texto": "El protocolo de muerte encefálica."},
+        {"id": "c", "texto": "El apoyo emocional a la familia."},
+        {"id": "d", "texto": "Los criterios de exclusión del donante."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "El 'control del respirador' y el 'control de CV (Constantes Vitales)' son cuidados de enfermería dirigidos a:",
+      "opciones": [
+        {"id": "a", "texto": "Confirmar el diagnóstico de muerte encefálica."},
+        {"id": "b", "texto": "Mantener la estabilidad fisiológica del donante para preservar los órganos."},
+        {"id": "c", "texto": "Reducir el estrés de la familia."},
+        {"id": "d", "texto": "Preparar al donante para el traslado al quirófano."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "Según el Tema 12, ¿la donación de órganos debe formar parte integral de qué proceso?",
+      "opciones": [
+        {"id": "a", "texto": "La evaluación inicial del paciente en urgencias."},
+        {"id": "b", "texto": "Los cuidados paliativos."},
+        {"id": "c", "texto": "Los cuidados al final de la vida."},
+        {"id": "d", "texto": "El ingreso en la unidad de cuidados intensivos."}
+      ],
+      "respuestaCorrecta": "c"
+    },{
+    "idPregunta": 26,
+    "texto": "El Artículo 4 del Real Decreto 1723/2012 sobre la donación de órganos se refiere a:",
+    "opciones": [
+      {"id": "b", "texto": "Los criterios de exclusión de donantes."},
+      {"id": "a", "texto": "Los principios éticos a la hora de obtención y utilización clínica de los órganos humanos."},
+      {"id": "c", "texto": "La definición de muerte encefálica."},
+      {"id": "d", "texto": "La creación del programa Maastricht."}
+    ],
+    "respuestaCorrecta": "a"
+  },
+  {
+    "idPregunta": 27,
+    "texto": "Un ejemplo de 'lesión directa de los órganos candidatos' como criterio de exclusión para la donación sería:",
+    "opciones": [
+      {"id": "a", "texto": "Una infección viral sistémica activa."},
+      {"id": "b", "texto": "Un traumatismo abdominal grave con laceración hepática y renal."},
+      {"id": "c", "texto": "Un antecedente de cáncer de piel localizado y curado."},
+      {"id": "d", "texto": "Hipertensión arterial crónica bien controlada."}
+    ],
+    "respuestaCorrecta": "b"
+  },
+  {
+    "idPregunta": 28,
+    "texto": "Dentro de los cuidados de enfermería al potencial donante, asegurar el 'eficaz funcionamiento de catéteres y sondas' es importante para:",
+    "opciones": [
+      {"id": "a", "texto": "Facilitar el proceso de duelo de la familia."},
+      {"id": "b", "texto": "Mantener un correcto balance hídrico, la perfusión de órganos y evitar infecciones."},
+      {"id": "c", "texto": "Prevenir la aparición de úlceras por presión."},
+      {"id": "d", "texto": "Acelerar la declaración de muerte encefálica."}
+    ],
+    "respuestaCorrecta": "b"
+  },
+  {
+    "idPregunta": 29,
+    "texto": "Parte del apoyo emocional a la familia implica 'asegurar la correcta comprensión de la información proporcionada'. ¿Cómo se logra mejor esto?",
+    "opciones": [
+      {"id": "a", "texto": "Utilizando exclusivamente terminología médica precisa."},
+      {"id": "b", "texto": "Proporcionando la información una sola vez para evitar confusiones."},
+      {"id": "c", "texto": "Usando un lenguaje claro, sencillo, preguntando si entienden y permitiendo preguntas."},
+      {"id": "d", "texto": "Entregando folletos informativos extensos y complejos."}
+    ],
+    "respuestaCorrecta": "c"
+  },
+  {
+    "idPregunta": 30,
+    "texto": "La 'curación de úlceras' en un potencial donante, aunque el paciente esté al final de la vida, se realiza para:",
+    "opciones": [
+      {"id": "b", "texto": "Mejorar el estado general y la posible recuperación del paciente."},
+      {"id": "a", "texto": "Prevenir infecciones que podrían contraindicar la donación o afectar la viabilidad de los órganos."},
+      {"id": "c", "texto": "Cumplir con un protocolo estético antes de la extracción."},
+      {"id": "d", "texto": "Documentar el estado de la piel para fines legales."}
+    ],
+    "respuestaCorrecta": "a"
+  }
+  ]
+}

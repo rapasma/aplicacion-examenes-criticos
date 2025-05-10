@@ -1,0 +1,36 @@
+[
+  {
+    "id": "casos_clinicos",
+    "nombre": "Casos Clínicos",
+    "cantidadExamenes": 5 
+  },
+  {
+    "id": "tema1",
+    "nombre": "Tema 1: Aspectos generales del servicio de cuidados intensivos"
+  },
+  {
+    "id": "tema10",
+    "nombre": "Tema 10: Soporte Vital Avanzado y Cuidados Postreanimación"
+  },
+  {
+    "id": "tema11",
+    "nombre": "Tema 11: El Paciente Quirúrgico en Cuidados Intensivos"
+  },
+  {
+    "id": "tema12",
+    "nombre": "Tema 12: El Paciente Crítico Candidato a Donación de Órganos"
+  },
+  {
+    "id": "tema13",
+    "nombre": "Tema 13: Intoxicaciones Agudas"
+  },
+  {
+    "id": "tema14",
+    "nombre": "Tema 14: Atención al Paciente Gran Quemado"
+  },
+  {
+    "id": "global",
+    "nombre": "Exámenes Globales (Recopilatorios)",
+    "cantidadExamenes": 5 
+  }
+]

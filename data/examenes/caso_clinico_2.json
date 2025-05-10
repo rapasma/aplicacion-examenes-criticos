@@ -1,0 +1,338 @@
+{
+  "idExamen": "caso_clinico_integrador_roberto_01",
+ "idTema": "casos_clinicos",
+ "nombreExamen": "Caso Clínico Integrador: Resiliencia en la Cuerda Floja",
+  "descripcionCaso": "<p><strong>Caso Clínico Integrador: \"Resiliencia en la Cuerda Floja\"</strong></p><p><strong>Paciente:</strong> Roberto Martínez, 45 años, varón. Sin alergias medicamentosas conocidas.</p><p><strong>Antecedentes Personales:</strong> Hipertensión arterial (HTA) en tratamiento con Enalapril 20mg/día, exfumador desde hace 5 años (consumo previo de 1 paquete/día durante 20 años), obesidad leve (IMC 28). Apendicectomizado en la infancia. Vida laboral activa como comercial.</p><hr><p><strong><em>Día 0 - Prehospitalario y Urgencias</em></strong></p><p><strong>Situación Inicial:</strong></p><p>Roberto sufre un accidente de tráfico de alta energía (colisión frontal mientras conducía su vehículo particular). Es atendido en el lugar por una Unidad Móvil de Emergencias (UME) del 061 (Ref. Tema 2).</p><p>A su llegada, Roberto está atrapado mecánicamente, presenta agitación, disnea y dolor torácico y abdominal intenso. Se realiza extricación por bomberos.</p><p><strong>Valoración Inicial por UME (ABCDE - Ref. Tema 10 y Tema 16):</strong></p><ul><li><strong>A (Airway):</strong> Vía aérea comprometida por agitación y posible trauma facial (hematoma malar), aunque inicialmente permeable con elevación manual del mentón. Se coloca collarín cervical.</li><li><strong>B (Breathing):</strong> Taquipnea (30 rpm), uso de musculatura accesoria, saturación de oxígeno (SpO2) inicial del 88% con aire ambiente. A la auscultación, hipoventilación en hemitórax derecho. Se administra oxigenoterapia con mascarilla con reservorio a 15 L/min, mejorando SpO2 a 95%.</li><li><strong>C (Circulation):</strong> Pálido, sudoroso, relleno capilar &gt;3 segundos. TA 90/50 mmHg, FC 130 lpm. Se canalizan dos accesos venosos periféricos de grueso calibre (16G) en fosas antecubitales (Ref. Tema 4). Se inicia fluidoterapia con Cristaloides (SSF 0.9%) (Ref. Tema 6). Se sospecha hemorragia interna.</li><li><strong>D (Disability):</strong> Glasgow Coma Scale (GCS) de 13 (O4, V4, M5) inicialmente, desorientado en tiempo y espacio. Pupilas isocóricas y normorreactivas.</li><li><strong>E (Exposure):</strong> Deformidad en muslo izquierdo, múltiples contusiones. Se controla la hipotermia con manta térmica.</li></ul><p><strong>Traslado y Llegada a Urgencias Hospitalarias (Ref. Tema 2):</strong></p><p>Se traslada con monitorización continua (EKG, TA no invasiva, SpO2, FC, FR – Ref. Tema 2). Durante el traslado, TA desciende a 80/40 mmHg a pesar de 1000ml de cristaloide. Se activa preaviso hospitalario por paciente politraumatizado grave con shock hipovolémico (Ref. Tema 15).</p><p>En el box de críticos de Urgencias, se repite valoración ABCDE.</p><ul><li><strong>A/B:</strong> El paciente presenta mayor agitación y dificultad respiratoria, SpO2 90% con reservorio. Se decide Intubación Orotraqueal (IOT) para asegurar vía aérea y facilitar ventilación (Ref. Tema 7). Se realiza secuencia de intubación rápida (Fentanilo, Propofol, Rocuronio – Ref. Tema 6 y Tema 9). Conectado a Ventilación Mecánica Invasiva (VMI) en modo CMV-VC (Ref. Tema 9).</li><li><strong>C:</strong> TA 85/45 mmHg, FC 125 lpm. Se continúa fluidoterapia agresiva. Se extraen muestras para analítica completa, pruebas cruzadas y se activa protocolo de transfusión masiva (Ref. Tema 15). Se trasfunden 2 Concentrados de Hematíes 0-.</li><li><strong>Pruebas Complementarias Iniciales (Ref. Tema 3):</strong> EKG: Taquicardia sinusal (Ref. Tema 3). Radiografía de tórax portátil: Múltiples fracturas costales derechas, velamiento hemitórax derecho compatible con hemotórax. Radiografía de pelvis y fémur izquierdo: Fractura de pelvis inestable y fractura diafisaria de fémur izquierdo. Eco-FAST: Líquido libre abdominal en Morrison y Douglas. Hemotórax derecho.</li></ul><p>Se coloca sonda vesical (hematuria macroscópica) y sonda nasogástrica (contenido bilioso).</p><p>Se decide traslado urgente a quirófano para laparotomía exploradora y estabilización de fracturas.</p><hr><p><strong><em>Día 0 - Quirófano e Ingreso UCI (Ref. Tema 11)</em></strong></p><p>En quirófano, se evidencia laceración hepática grado III y lesión mesentérica que precisan reparación. Se realiza fijación externa de pelvis y enclavado endomedular de fémur. Durante la cirugía, requiere transfusión de 4 CH, 4 unidades de Plasma Fresco Congelado y 1 pool de Plaquetas.</p><p>Tras la cirugía, ingresa en la Unidad de Cuidados Intensivos (UCI) (Ref. Tema 1).</p><p><strong>Ingreso en UCI (Día 0 - Noche):</strong></p><ul><li><strong>Monitorización (Tema 2):</strong> VMI (FiO2 0.5, PEEP 8 cmH2O, VT 450ml, FR 16 rpm). Línea arterial radial para TA invasiva (Ref. Tema 4). Catéter Venoso Central (CVC) yugular derecho de 3 luces (Ref. Tema 4), para PVC y SvcO2. Cuidados según protocolo \"Bacteriemia Zero\" (Ref. Tema 4). PICCO para monitorización avanzada (Ref. Tema 8 y Tema 5). Capnografía.</li><li><strong>Sedoanalgesia (Tema 5):</strong> Perfusión continua de Propofol y Remifentanilo. Valoración BPS y RASS.</li><li><strong>Soporte Hemodinámico:</strong> TA 100/60 mmHg con Noradrenalina 0.1 mcg/kg/min (Ref. Tema 6). PVC 10 mmHg. Diuresis 0.5 ml/kg/h.</li><li><strong>Ventilación:</strong> Gasometría arterial con acidosis metabólica e hipoxemia moderada. PAFI 180 mmHg.</li><li><strong>Neurológico (Tema 17):</strong> Vigilancia por posible TCE leve.</li><li><strong>Cuidados Generales (Tema 3):</strong> Control drenajes, prevención UPP, higiene, control glucémico.</li></ul><hr><p><strong><em>Día 1-3 UCI</em></strong></p><ul><li><strong>Respiratorio:</strong> Desarrolla SDRA leve-moderado (PAFI &lt; 200 mmHg) (Ref. Tema 4, Tema 7). Ventilación protectora, PEEP alta, aspiración secreciones.</li><li><strong>Infeccioso:</strong> Fiebre, leucocitosis. Sospecha NAV y/o infección abdominal. Hemocultivos y otros cultivos (Ref. Tema 18). Inicio antibioterapia empírica.</li><li><strong>Hemodinámico:</strong> Desarrolla Shock Séptico (Ref. Tema 18). TA 85/50 mmHg, Noradrenalina 0.5 mcg/kg/min, se añade Dobutamina. Lactato 4 mmol/L.</li><li><strong>Renal:</strong> Oliguria, Cr y Urea en ascenso. IRA (Ref. Tema 11). Inicio TRRC con HDFVVC vía catéter Shaldon femoral (Ref. Tema 8, Tema 4).</li><li><strong>Nutrición (Tema 3):</strong> Enteral precoz por SNG.</li><li><strong>Sedoanalgesia y Delirio (Tema 5):</strong> Ventana de sedación, agitación. Delirio hipoactivo (CAM-ICU).</li><li><strong>Accesos Vasculares (Tema 4):</strong> Cuidados exhaustivos, Bacteriemia Zero.</li><li><strong>Alteraciones Electrolíticas (Tema 3 / Tema 6):</strong> Hipopotasemia e hipomagnesemia, reposición IV.</li></ul><hr><p><strong><em>Día 7-14 UCI</em></strong></p><ul><li><strong>Evolución:</strong> Lenta mejoría del cuadro séptico. Disminución soporte vasopresor.</li><li><strong>Respiratorio:</strong> Mejora PAFI &gt; 250 mmHg. Destete VMI a PSV (Ref. Tema 9).</li><li><strong>Renal:</strong> Recupera función renal, suspensión TRRC.</li><li><strong>Neurológico:</strong> GCS 11 (O4, VTraqueostomía, M6) post-sedación. Desorientación.</li><li><strong>Complicaciones:</strong> Traqueostomía percutánea por VMI prolongada (Ref. Tema 7).</li><li><strong>Movilización y Fisioterapia (Tema 3):</strong> Inicio.</li></ul><hr><p><strong><em>Día 25 UCI - Evolución Final (Seleccionar una opción para el desenlace)</em></strong></p><p><strong>Opción 1: Mejoría y Salida de UCI.</strong></p><p><strong>Opción 2: Complicación y PCR.</strong> (FV, SVA: compresiones, desfibrilación, adrenalina, amiodarona. Exitus).</p><p><strong>Opción 3: Evolución a Muerte Encefálica y Donación.</strong> (Edema cerebral masivo, diagnóstico ME, entrevista familia, proceso donación - Ref. Tema 12).</p>",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "En la valoración inicial de Roberto por la UME, ¿qué hallazgo es MÁS sugestivo de un compromiso respiratorio que requiere oxigenoterapia inmediata?",
+      "opciones": [
+        { "id": "a", "texto": "SpO2 inicial del 88% y taquipnea de 30 rpm." },
+        { "id": "b", "texto": "TA 90/50 mmHg." },
+        { "id": "c", "texto": "GCS de 13." },
+        { "id": "d", "texto": "Deformidad en muslo izquierdo." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "Durante el traslado a urgencias, la TA de Roberto desciende a 80/40 mmHg a pesar de la administración de 1000ml de cristaloide. Esto es MÁS indicativo de:",
+      "opciones": [
+        { "id": "a", "texto": "Shock cardiogénico." },
+        { "id": "b", "texto": "Reacción anafiláctica a la medicación." },
+        { "id": "c", "texto": "Shock neurogénico." },
+        { "id": "d", "texto": "Shock hipovolémico descompensado." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "¿Cuál es la principal indicación para la Intubación Orotraqueal (IOT) de Roberto en Urgencias?",
+      "opciones": [
+        { "id": "a", "texto": "Facilitar la administración de sedantes." },
+        { "id": "b", "texto": "Asegurar la vía aérea y optimizar la ventilación ante la agitación y dificultad respiratoria progresiva." },
+        { "id": "c", "texto": "Permitir la colocación de una sonda nasogástrica." },
+        { "id": "d", "texto": "Prevenir el dolor torácico." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "En el contexto de \"Bacteriemia Zero\", ¿cuál de las siguientes medidas es fundamental durante el cuidado del CVC yugular de Roberto?",
+      "opciones": [
+        { "id": "a", "texto": "Cambiar el catéter cada 48 horas." },
+        { "id": "b", "texto": "Realizar curas diarias del punto de inserción con povidona yodada." },
+        { "id": "c", "texto": "Higiene de manos estricta y desinfección de los puertos de acceso antes de cada uso." },
+        { "id": "d", "texto": "Administrar antibióticos profilácticos por cada luz del catéter." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "Roberto desarrolla SDRA con una PAFI de 180 mmHg. ¿Qué estrategia de ventilación mecánica es la más adecuada inicialmente?",
+      "opciones": [
+        { "id": "a", "texto": "Ventilación protectora con volúmenes tidales bajos (6 ml/kg peso ideal) y PEEP óptima." },
+        { "id": "b", "texto": "PEEP baja (2-4 cmH2O) para evitar barotrauma." },
+        { "id": "c", "texto": "Volúmenes tidales altos (10-12 ml/kg) para expandir el pulmón." },
+        { "id": "d", "texto": "Frecuencia respiratoria baja (<10 rpm) para permitir descanso pulmonar." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "Al tercer día en UCI, Roberto presenta fiebre y leucocitosis, sospechándose shock séptico. Además de la antibioterapia, ¿cuál es una medida prioritaria en el manejo hemodinámico inicial del shock séptico?",
+      "opciones": [
+        { "id": "a", "texto": "Administrar corticoides a dosis altas inmediatamente." },
+        { "id": "b", "texto": "Reposición agresiva de volumen con cristaloides y uso precoz de vasopresores (Noradrenalina) si persiste la hipotensión." },
+        { "id": "c", "texto": "Restringir los fluidos para evitar sobrecarga." },
+        { "id": "d", "texto": "Iniciar diuréticos para forzar la diuresis." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La monitorización con PICCO en Roberto es útil para guiar la fluidoterapia y el uso de inotrópicos. ¿Qué parámetro del PICCO es especialmente útil para valorar la respuesta a fluidos en un paciente ventilado?",
+      "opciones": [
+        { "id": "a", "texto": "Presión Venosa Central (PVC) aislada." },
+        { "id": "b", "texto": "Gasto Cardíaco (GC) exclusivamente." },
+        { "id": "c", "texto": "Agua Pulmonar Extravascular (EVLW)." },
+        { "id": "d", "texto": "Variación del Volumen Sistólico (VVS) o Variación de la Presión de Pulso (VPP)." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Debido a la IRA, Roberto requiere TRRC con HDFVVC. ¿Cuál es una ventaja principal de las terapias continuas sobre la hemodiálisis intermitente en pacientes críticos inestables?",
+      "opciones": [
+        { "id": "a", "texto": "Mayor estabilidad hemodinámica y mejor control del balance de fluidos." },
+        { "id": "b", "texto": "Menor necesidad de anticoagulación." },
+        { "id": "c", "texto": "Eliminación más rápida de toxinas en menor tiempo." },
+        { "id": "d", "texto": "Menor coste y complejidad técnica." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Durante la sedoanalgesia de Roberto con Propofol y Remifentanilo, se utiliza la escala RASS. Un objetivo de RASS -2 significa:",
+      "opciones": [
+        { "id": "a", "texto": "Paciente combativo y violento." },
+        { "id": "b", "texto": "Sedación profunda, sin respuesta a estímulos verbales." },
+        { "id": "c", "texto": "Sedación ligera, despierta con la voz (<10 seg ojos abiertos)." },
+        { "id": "d", "texto": "Paciente ansioso y agitado, pero no agresivo." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "Si Roberto (Opción 3 de evolución) es diagnosticado de muerte encefálica y se considera para donación de órganos, ¿cuál es un cuidado prioritario de enfermería para el mantenimiento del donante?",
+      "opciones": [
+        { "id": "a", "texto": "Suspender toda la medicación y fluidoterapia para no interferir con los órganos." },
+        { "id": "b", "texto": "Limitar la comunicación con la familia para no generar falsas esperanzas." },
+        { "id": "c", "texto": "Retirar la ventilación mecánica para confirmar el cese de funciones." },
+        { "id": "d", "texto": "Mantener estabilidad hemodinámica, adecuada oxigenación y control de la temperatura." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "La hematuria macroscópica observada en Roberto al colocar la sonda vesical en urgencias, en un contexto de politrauma con fractura de pelvis, es MÁS sugestiva de:",
+      "opciones": [
+        { "id": "a", "texto": "Lesión renal o de la vía urinaria." },
+        { "id": "b", "texto": "Infección urinaria preexistente." },
+        { "id": "c", "texto": "Efecto secundario de la fluidoterapia inicial." },
+        { "id": "d", "texto": "Deshidratación severa." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "La administración de Noradrenalina a Roberto se realiza para:",
+      "opciones": [
+        { "id": "a", "texto": "Disminuir la frecuencia cardíaca." },
+        { "id": "b", "texto": "Aumentar la tensión arterial mediante vasoconstricción periférica." },
+        { "id": "c", "texto": "Inducir sedación profunda." },
+        { "id": "d", "texto": "Producir broncodilatación." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "Para la secuencia de intubación rápida de Roberto, se utiliza Rocuronio. ¿Cuál es su principal mecanismo de acción?",
+      "opciones": [
+        { "id": "a", "texto": "Inductor hipnótico de acción corta." },
+        { "id": "b", "texto": "Analgésico opioide potente." },
+        { "id": "c", "texto": "Estimulante del centro respiratorio." },
+        { "id": "d", "texto": "Bloqueante neuromuscular no despolarizante." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "La colocación de una traqueostomía en Roberto se decide debido a:",
+      "opciones": [
+        { "id": "a", "texto": "Ventilación mecánica prolongada y dificultad en el destete del tubo orotraqueal." },
+        { "id": "b", "texto": "Necesidad de administrar nutrición enteral directamente a la tráquea." },
+        { "id": "c", "texto": "Preferencia del paciente para mayor comodidad." },
+        { "id": "d", "texto": "Prevención de la NAV como primera medida." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Durante la evolución de Roberto (Opción 2: PCR en FV), ¿cuál sería la dosis inicial de Adrenalina recomendada según las guías de SVA?",
+      "opciones": [
+        { "id": "a", "texto": "0.1 mg IV cada 10 minutos." },
+        { "id": "b", "texto": "3 mg IV dosis única." },
+        { "id": "c", "texto": "1 mg IV cada 3-5 minutos." },
+        { "id": "d", "texto": "5 mg en perfusión continua." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Al valorar el delirio en Roberto con la escala CAM-ICU, ¿cuál de estas características NO forma parte de la evaluación directa de dicha escala?",
+      "opciones": [
+        { "id": "a", "texto": "Alteración aguda del estado mental o curso fluctuante." },
+        { "id": "b", "texto": "Inatención." },
+        { "id": "c", "texto": "Pensamiento desorganizado o nivel de conciencia alterado (diferente de alerta)." },
+        { "id": "d", "texto": "Nivel de agitación según la escala RASS." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "En la gasometría arterial de Roberto tras la IOT (PAFI 180 mmHg, acidosis metabólica), la PAFI se calcula como:",
+      "opciones": [
+        { "id": "a", "texto": "PaO2 / FiO2." },
+        { "id": "b", "texto": "PaCO2 / FiO2." },
+        { "id": "c", "texto": "Presión Arterial Media / FiO2." },
+        { "id": "d", "texto": "pH / FiO2." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "Si Roberto hubiese sufrido un traumatismo torácico con neumotórax a tensión, ¿cuál sería el tratamiento de emergencia inmediato?",
+      "opciones": [
+        { "id": "a", "texto": "Colocación de un tubo de tórax en el 5º espacio intercostal." },
+        { "id": "b", "texto": "Descompresión inmediata con aguja en el 2º espacio intercostal, línea medioclavicular." },
+        { "id": "c", "texto": "Administración de analgésicos potentes." },
+        { "id": "d", "texto": "Ventilación con PEEP elevada." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "La decisión de iniciar nutrición enteral precoz en Roberto por SNG se basa en:",
+      "opciones": [
+        { "id": "a", "texto": "La preferencia del paciente por esta vía." },
+        { "id": "b", "texto": "Mantener la integridad de la barrera intestinal, modular la respuesta inflamatoria y cubrir los requerimientos nutricionales." },
+        { "id": "c", "texto": "La necesidad de mantener el estómago ocupado para prevenir úlceras." },
+        { "id": "d", "texto": "Ser la vía más económica y fácil de administrar exclusivamente." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La monitorización de la Presión Venosa Central (PVC) en Roberto proporciona información principalmente sobre:",
+      "opciones": [
+        { "id": "a", "texto": "La presión de perfusión cerebral." },
+        { "id": "b", "texto": "La presión arterial media sistémica." },
+        { "id": "c", "texto": "El estado de la volemia y la función del ventrículo derecho (precarga del VD)." },
+        { "id": "d", "texto": "El riesgo de arritmias ventriculares." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 21,
+      "texto": "La fractura de pelvis inestable que presenta Roberto conlleva un alto riesgo de:",
+      "opciones": [
+        { "id": "a", "texto": "Neumonía nosocomial." },
+        { "id": "b", "texto": "Desarrollo de diabetes insípida." },
+        { "id": "c", "texto": "Hemorragia masiva retroperitoneal y pélvica." },
+        { "id": "d", "texto": "Obstrucción de la vía aérea superior." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 22,
+      "texto": "Durante el manejo del shock séptico de Roberto, se mide el lactato sérico. Un valor elevado (4 mmol/L) indica:",
+      "opciones": [
+        { "id": "a", "texto": "Hipoperfusión tisular y aumento del metabolismo anaeróbico." },
+        { "id": "b", "texto": "Buena perfusión tisular y metabolismo aeróbico." },
+        { "id": "c", "texto": "Alcalosis metabólica severa." },
+        { "id": "d", "texto": "Función hepática óptima." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 23,
+      "texto": "El uso de Propofol para la sedación de Roberto se caracteriza por:",
+      "opciones": [
+        { "id": "a", "texto": "Un inicio de acción lento y larga duración." },
+        { "id": "b", "texto": "Rápido inicio de acción y corta duración, permitiendo despertares rápidos." },
+        { "id": "c", "texto": "Potente efecto analgésico intrínseco." },
+        { "id": "d", "texto": "Ausencia de efectos hemodinámicos." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 24,
+      "texto": "La administración de Plasma Fresco Congelado (PFC) a Roberto durante la cirugía y el protocolo de transfusión masiva tiene como objetivo principal:",
+      "opciones": [
+        { "id": "a", "texto": "Aumentar el transporte de oxígeno." },
+        { "id": "b", "texto": "Expandir el volumen intravascular con un coloide." },
+        { "id": "c", "texto": "Reponer factores de coagulación y controlar la coagulopatía." },
+        { "id": "d", "texto": "Prevenir infecciones." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 25,
+      "texto": "La capnografía, utilizada en la monitorización de Roberto mientras está intubado, mide:",
+      "opciones": [
+        { "id": "a", "texto": "La saturación de oxígeno en sangre arterial (SpO2)." },
+        { "id": "b", "texto": "El volumen tidal espirado." },
+        { "id": "c", "texto": "La presión parcial de CO2 al final de la espiración (EtCO2)." },
+        { "id": "d", "texto": "La presión en la vía aérea." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 26,
+      "texto": "En la evolución de Roberto (Opción 3), si se sospecha muerte encefálica, ¿qué reflejo del tronco encefálico se exploraría como parte del diagnóstico?",
+      "opciones": [
+        { "id": "a", "texto": "Reflejo corneal y fotomotor." },
+        { "id": "b", "texto": "Reflejo rotuliano." },
+        { "id": "c", "texto": "Reflejo de Babinski." },
+        { "id": "d", "texto": "Reflejo de prensión palmar." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 27,
+      "texto": "El collarín cervical se coloca a Roberto en la atención prehospitalaria debido a:",
+      "opciones": [
+        { "id": "a", "texto": "La presencia de trauma facial." },
+        { "id": "b", "texto": "La necesidad de facilitar la intubación." },
+        { "id": "c", "texto": "La queja de dolor en el cuello por parte del paciente." },
+        { "id": "d", "texto": "La sospecha de lesión cervical por el mecanismo de alta energía del accidente." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 28,
+      "texto": "La valoración del dolor en Roberto mientras está sedado y ventilado se realiza con la escala BPS. ¿Qué evalúa esta escala?",
+      "opciones": [
+        { "id": "a", "texto": "La respuesta verbal del paciente al dolor." },
+        { "id": "b", "texto": "Comportamientos observables como expresión facial, movimientos de miembros superiores y adaptación a la ventilación mecánica." },
+        { "id": "c", "texto": "La frecuencia cardíaca y la tensión arterial." },
+        { "id": "d", "texto": "El nivel de sedación según la escala RASS." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 29,
+      "texto": "La administración de Remifentanilo en perfusión continua a Roberto tiene como objetivo principal proporcionar:",
+      "opciones": [
+        { "id": "a", "texto": "Analgesia potente de corta duración." },
+        { "id": "b", "texto": "Relajación muscular profunda." },
+        { "id": "c", "texto": "Efecto antiemético." },
+        { "id": "d", "texto": "Protección gástrica." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 30,
+      "texto": "Si durante la estancia en UCI, Roberto necesitara una cardioversión eléctrica por una taquiarritmia inestable, ¿qué precaución sería fundamental por parte de enfermería?",
+      "opciones": [
+        { "id": "a", "texto": "Asegurar que el paciente esté completamente despierto y colaborador." },
+        { "id": "b", "texto": "Aplicar las palas directamente sobre la piel seca sin gel conductor." },
+        { "id": "c", "texto": "Realizar la descarga con el máximo nivel de energía posible desde el inicio." },
+        { "id": "d", "texto": "Sincronizar la descarga con la onda R del ECG del paciente." }
+      ],
+      "respuestaCorrecta": "d"
+    }
+  ]
+}
