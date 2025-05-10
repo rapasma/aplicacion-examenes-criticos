@@ -1,338 +1,338 @@
 {
-  "idExamen": "qx_pcr_carlos_perez_01",
- "idTema": "casos_clinicos",
-  "nombreExamen": "Caso Clínico: Del Quirófano al Límite y de Vuelta",
-  "descripcionCaso": "<p><strong>Caso Clínico: \"Del Quirófano al Límite y de Vuelta\"</strong></p><p><strong>Paciente:</strong> Carlos Pérez, 65 años.</p><p><strong>Antecedentes:</strong> Cardiopatía isquémica (stent DES en DA hace 3 años, FEVI conservada), DM2 en tratamiento con Metformina, HTA controlada con Enalapril, EPOC leve (FEV1/FVC 65%, no oxigenodependiente), exfumador desde hace 10 años. Alergia a Penicilina.</p><p><strong>Cirugía (Tema 11):</strong> Hemicolectomía derecha laparoscópica programada por adenocarcinoma de colon ascendente estadio II. Profilaxis antibiótica con Cefazolina + Metronidazol (ajustada por alergia). Profilaxis tromboembólica con HBPM preoperatoria.</p><hr><p><strong><em>Postoperatorio Inmediato en UCI/REA (16:00h - Tema 11)</em></strong></p><p>Ingresa extubado, despierto, orientado, colaborador. Glasgow 15. Oxigenoterapia con mascarilla Venturi al 35% (FiO2 0.35), SpO2 95%. FR 16 rpm. TA 130/75 mmHg, FC 80 lpm, ritmo sinusal. Tª 36.8ºC. Analgesia: Catéter epidural torácico con perfusión de anestésico local + opioide; Paracetamol IV reglado. EVA 2/10 en reposo. Monitorización: ECG continuo, TA no invasiva c/15min, SpO2, FR, Tª. VVP periférica permeable. Sueroterapia de mantenimiento. Drenaje abdominal tipo Redon con débito serohemático escaso (&lt;50ml en las primeras 2h). Sonda vesical con diuresis conservada (&gt;0.5 ml/kg/h). Herida quirúrgica laparoscópica con buen aspecto.</p><hr><p><strong><em>Evento Crítico (20:15h - 4h15min post-ingreso UCI - Tema 10)</em></strong></p><p>Carlos avisa de disnea súbita y dolor torácico opresivo intenso, no irradiado. Presenta palidez, sudoración fría, cianosis peribucal. Monitorización: SpO2 cae rápidamente a 70% a pesar de aumentar FiO2 al 100% con mascarilla con reservorio. FR 35 rpm. FC aumenta a 140 lpm, luego TA cae a 70/40 mmHg. Pérdida brusca de conciencia. Se constata ausencia de pulso carotídeo. El monitor muestra Taquicardia Ventricular sin pulso (TVSP).</p><hr><p><strong><em>Soporte Vital Avanzado (SVA - Tema 10)</em></strong></p><p>Enfermera activa alarma de PCR. Se inicia RCP inmediatamente (compresiones 30:2, ventilación con bolsa autoinflable y mascarilla facial con O2 al 100%). Llega carro de paradas. Se conectan palas de desfibrilador/monitor: se confirma TVSP.</p><ul><li><strong>1ª Desfibrilación:</strong> 200 J bifásico. Se reanuda RCP 2 min. No cambios.</li><li>Acceso IV disponible. Se prepara Adrenalina 1mg.</li><li><strong>2ª Desfibrilación:</strong> 200 J bifásico. RCP 2 min. Ritmo persiste en FV.</li><li><strong>Adrenalina 1mg IV.</strong></li><li>IOT urgente por intensivista con secuencia rápida (Etomidato, Succinilcolina). Conexión a VMI. Capnografía confirma correcta IOT (EtCO2 30 mmHg y ascendiendo).</li><li><strong>3ª Desfibrilación:</strong> 200 J bifásico. RCP 2 min. Ritmo persiste FV.</li><li><strong>Amiodarona 300mg IV en bolo.</strong></li><li><strong>4ª Desfibrilación:</strong> 200 J bifásico. RCP 2 min.</li><li><strong>Adrenalina 1mg IV.</strong></li></ul><p>Tras la 4ª descarga y el siguiente ciclo de RCP, se detecta ritmo organizado en monitor y pulso central palpable (20:35h - RCE tras 20 min de SVA).</p><hr><p><strong><em>Cuidados Post-Reanimación (Post-RCE - Tema 10)</em></strong></p><ul><li><strong>A:</strong> TOT asegurado, bien posicionado.</li><li><strong>B:</strong> VMI modo CMV-VC (FiO2 1.0, PEEP 8 cmH2O, VT 6ml/kg, FR 12 rpm). SpO2 inicial post-RCE 90%. Gasometría arterial: pH 7.15, PaCO2 55 mmHg, PaO2 70 mmHg, HCO3 18 mEq/L, Lactato 6 mmol/L. Se ajusta ventilador para normocapnia.</li><li><strong>C:</strong> TA 80/50 mmHg, FC 110 lpm. Se inicia perfusión de Noradrenalina para TAM >65 mmHg. ECG 12D post-RCE: Taquicardia sinusal, sin nuevos signos de isquemia aguda pero con signos de sobrecarga de VD (S1Q3T3). Se realiza Ecocardiograma transtorácico urgente en box: Ventrículo derecho severamente dilatado e hipocontráctil, septo interventricular aplanado. Vena cava inferior dilatada sin colapso inspiratorio. VD/VI >1. Estos hallazgos son altamente sugestivos de TEP masivo.</li><li><strong>D:</strong> Paciente bajo sedoanalgesia profunda (Midazolam + Fentanilo). Pupilas medias, fijas inicialmente, luego reactividad perezosa. Se valora hipotermia terapéutica, pero se prioriza tratamiento de causa.</li><li><strong>E:</strong> Control de temperatura (objetivo 36-37.5ºC). Control glucémico estricto.</li><li><strong>Causa:</strong> Alta sospecha de Tromboembolismo Pulmonar (TEP) masivo. Se realiza AngioTAC de tórax urgente: Confirma TEP masivo bilateral con compromiso de arterias pulmonares principales.</li></ul><hr><p><strong><em>Tratamiento Específico y Continuación Cuidados Críticos (Temas 10 y 11)</em></strong></p><p>Dada la PCR y la confirmación de TEP masivo con inestabilidad hemodinámica, se decide <strong>fibrinolisis sistémica con Alteplasa (rtPA)</strong> 100mg en perfusión IV en 2 horas, tras valorar riesgo/beneficio de sangrado postquirúrgico. Tras finalizar fibrinolisis, se inicia perfusión de Heparina Sódica IV según protocolo, con objetivo de TTPa 1.5-2.5 veces el control.</p><p><strong>Cuidados intensivos:</strong> Soporte ventilatorio y hemodinámico, sedoanalgesia (RASS/BPS), valoración neurológica, vigilancia del sitio quirúrgico y drenaje (débito aumenta ligeramente a serohemático más abundante tras fibrinolisis, pero se estabiliza), control de coagulación y glucémico, profilaxis UPP, úlceras de estrés, nutrición enteral trófica inicial.</p><hr><p><strong><em>Desenlace (ej. Día 5 en UCI)</em></strong></p><p>Carlos muestra una lenta pero progresiva mejoría. Se ha podido retirar la Noradrenalina. La función del VD en ecocardiograma de control ha mejorado. Ventilación: En proceso de destete, modo PSV, tolera periodos de respiración espontánea. Neurológico: Despierta con GCS 14 (O4, VT, M6), obedece órdenes, aunque algo confuso y con amnesia del episodio. Sitio quirúrgico sin complicaciones mayores de sangrado. Drenaje retirado. Pronóstico reservado pero con tendencia a la mejoría. Se planifica continuar destete y posterior traslado a planta de hospitalización.</p>",
+  "idExamen": "caso04_shock_septico_qx_01_final_final_corregido",
+   "idTema": "casos_clinicos",
+  "nombreExamen": "Caso 4: Shock Séptico Postquirúrgico",
+  "descripcionCaso": "<p><strong>Caso Clínico: Shock Séptico Postquirúrgico</strong></p><p><strong>Paciente:</strong> Ana García, 68 años.</p><p><strong>Antecedentes:</strong> Diabetes Mellitus tipo 2 en tratamiento con antidiabéticos orales, Hipertensión Arterial (HTA) controlada con IECA, Obesidad leve (IMC 29).</p><p><strong>Situación:</strong> Ana fue sometida a una resección anterior baja laparoscópica por una neoplasia de recto hace tres días. Su postoperatorio inicial en la planta de cirugía transcurrió con normalidad, con buena tolerancia a la dieta líquida iniciada el día anterior y control del dolor con analgesia pautada. El drenaje abdominal tenía un débito serohemático escaso.</p><p><strong>Deterioro (Día 3 Postoperatorio):</strong> Durante la tarde, Ana comienza con malestar general, escalofríos intensos y fiebre de 39.2°C. Presenta taquicardia (FC 125 lpm), hipotensión (TA 85/45 mmHg) y taquipnea (FR 28 rpm). Se muestra confusa y somnolienta. La diuresis en las últimas 3 horas ha sido de solo 30 ml (aproximadamente 0.15 ml/kg/h para su peso estimado de 65kg). El abdomen está distendido y es doloroso de forma difusa a la palpación, con defensa muscular. Se sospecha una complicación infecciosa intraabdominal.</p><p><strong>Manejo Inicial y Traslado a UCI (Ref. Temas 18, 11, 6, 4, 3):</strong></p><p>Se activa protocolo de sepsis. Se canaliza una segunda vía venosa periférica de grueso calibre. Se extraen hemocultivos (dos sets de sitios diferentes), urocultivo y analítica urgente (Leucocitos 22,500/mm³ con 20% cayados, Plaquetas 90,000/mm³, Creatinina 1.8 mg/dL, Lactato arterial 4.8 mmol/L, PCR 380 mg/L, Procalcitonina 15 ng/mL). Se inicia **fluidoterapia agresiva con cristaloides** (30 ml/kg en la primera hora). Se administra **antibioterapia empírica de amplio espectro** (ej. Piperacilina-Tazobactam) tras la toma de cultivos. A pesar de la resucitación con 2 litros de cristaloides, la Tensión Arterial Media (TAM) no supera los 55 mmHg. Dada la persistencia del shock y la necesidad de soporte vasoactivo y monitorización avanzada, Ana es trasladada urgentemente a la Unidad de Cuidados Intensivos (UCI).</p><p><strong>En UCI:</strong> Se inicia perfusión de **Noradrenalina** para mantener TAM ≥65 mmHg. Se considera la necesidad de soporte ventilatorio no invasivo o invasivo si aparece insuficiencia respiratoria. Se solicita **TAC abdominal urgente** que confirma la presencia de una colección líquida peri-anastomótica con gas extraluminal, compatible con dehiscencia de anastomosis y peritonitis. Se avisa a Cirugía General para valoración y probable reintervención quirúrgica urgente (lavado y posible estoma de derivación). Se coloca un Catéter Venoso Central (CVC) para la infusión de vasopresores y monitorización. Se continúa la monitorización estrecha de constantes, diuresis y parámetros de perfusión.</p>",
   "preguntas": [
     {
       "idPregunta": 1,
-      "texto": "En el postoperatorio inmediato de Carlos en UCI/REA, ¿cuál de los siguientes cuidados NO es prioritario inicialmente según el Tema 11?",
+      "texto": "Según la definición de shock séptico (Tema 18), ¿cuál es el elemento central que define la condición de shock en Ana?",
       "opciones": [
-        { "id": "a", "texto": "Monitorización de constantes vitales y ECG continuo." },
-        { "id": "b", "texto": "Inicio inmediato de rehabilitación física intensiva." },
-        { "id": "c", "texto": "Manejo del dolor postoperatorio (EVA 2/10)." },
-        { "id": "d", "texto": "Vigilancia del drenaje abdominal y diuresis." }
+        { "id": "a", "texto": "La hipoperfusión tisular, evidenciada por hipotensión, oliguria y lactato elevado." },
+        { "id": "b", "texto": "La leucocitosis con desviación izquierda." },
+        { "id": "c", "texto": "La presencia de fiebre alta (39.2°C)." },
+        { "id": "d", "texto": "La necesidad de una reintervención quirúrgica." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 2,
-      "texto": "Carlos presenta un deterioro súbito con disnea, dolor torácico, cianosis y SpO2 70%. ¿Cuál es la primera acción a realizar por enfermería ante la sospecha de un evento crítico?",
+      "texto": "La fluidoterapia agresiva inicial con cristaloides (30 ml/kg) en Ana forma parte del manejo de la sepsis según las guías. ¿Cuál es su objetivo principal (Tema 6 y 18)?",
       "opciones": [
-        { "id": "a", "texto": "Administrar un analgésico potente." },
-        { "id": "b", "texto": "Aumentar la FiO2 al 100% y avisar inmediatamente al médico/activar alarma de PCR." },
-        { "id": "c", "texto": "Colocar al paciente en posición de Trendelenburg." },
-        { "id": "d", "texto": "Realizar una gasometría arterial urgente." }
+        { "id": "a", "texto": "Corregir la anemia dilucional." },
+        { "id": "b", "texto": "Restaurar el volumen intravascular efectivo y mejorar la perfusión tisular." },
+        { "id": "c", "texto": "Disminuir la frecuencia cardíaca." },
+        { "id": "d", "texto": "Aumentar la diuresis para eliminar toxinas rápidamente." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 3,
-      "texto": "El monitor muestra TVSP en Carlos. Según el algoritmo de SVA (Tema 10), ¿cuál es la acción inmediata tras confirmar la PCR y tener el desfibrilador disponible?",
+      "texto": "La extracción de hemocultivos ANTES de iniciar la antibioterapia empírica en Ana es crucial porque (Tema 3 y 18):",
       "opciones": [
-        { "id": "a", "texto": "Administrar Adrenalina 1mg IV." },
-        { "id": "b", "texto": "Realizar IOT." },
-        { "id": "c", "texto": "Realizar una descarga eléctrica (desfibrilación)." },
-        { "id": "d", "texto": "Iniciar compresiones torácicas durante 2 minutos antes de la descarga." }
+        { "id": "a", "texto": "Los antibióticos pueden causar falsos positivos en los hemocultivos." },
+        { "id": "b", "texto": "Es un requisito legal para poder administrar antibióticos de amplio espectro." },
+        { "id": "c", "texto": "Permite identificar el microorganismo causante y su sensibilidad, para dirigir posteriormente el tratamiento antibiótico." },
+        { "id": "d", "texto": "Reduce el riesgo de reacciones alérgicas a los antibióticos." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 4,
-      "texto": "Durante la RCP de Carlos, se administra Adrenalina 1mg IV. ¿Cuál es el intervalo recomendado para repetir la dosis de Adrenalina en SVA?",
+      "texto": "La Noradrenalina se inicia en Ana porque su TAM no supera los 55 mmHg a pesar de la fluidoterapia. El principal efecto de la Noradrenalina en este contexto es (Tema 6):",
       "opciones": [
-        { "id": "a", "texto": "Cada 30 segundos." },
-        { "id": "b", "texto": "Cada 10 minutos." },
-        { "id": "c", "texto": "Solo una dosis inicial." },
-        { "id": "d", "texto": "Cada 3-5 minutos." }
+        { "id": "a", "texto": "Inotrópico positivo, aumentando la contractilidad cardíaca." },
+        { "id": "b", "texto": "Broncodilatador, mejorando la oxigenación." },
+        { "id": "c", "texto": "Antiinflamatorio, reduciendo la respuesta sistémica." },
+        { "id": "d", "texto": "Vasoconstrictor periférico, aumentando las resistencias vasculares sistémicas y la TA." }
       ],
       "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 5,
-      "texto": "Tras la tercera desfibrilación sin éxito y la administración de Adrenalina, el ritmo persiste en FV. ¿Qué fármaco antiarrítmico se indica a continuación según el algoritmo de SVA?",
+      "texto": "El lactato arterial elevado (4.8 mmol/L) en Ana es un marcador de (Tema 18):",
       "opciones": [
-        { "id": "a", "texto": "Lidocaína 100mg IV." },
-        { "id": "b", "texto": "Amiodarona 300mg IV en bolo." },
-        { "id": "c", "texto": "Atropina 1mg IV." },
-        { "id": "d", "texto": "Sulfato de Magnesio 2g IV." }
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
-      "idPregunta": 6,
-      "texto": "La capnografía tras la IOT de Carlos muestra EtCO2 de 30 mmHg y ascendiendo. Esto indica principalmente:",
-      "opciones": [
-        { "id": "a", "texto": "Hiperventilación severa." },
-        { "id": "b", "texto": "Correcta colocación del tubo endotraqueal en la vía aérea." },
-        { "id": "c", "texto": "Obstrucción completa del tubo endotraqueal." },
-        { "id": "d", "texto": "Intubación esofágica." }
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
-      "idPregunta": 7,
-      "texto": "En los cuidados post-RCE, la gasometría de Carlos muestra pH 7.15, PaCO2 55 mmHg, PaO2 70 mmHg. ¿Qué alteración ácido-base presenta?",
-      "opciones": [
-        { "id": "a", "texto": "Acidosis respiratoria con acidosis metabólica." },
-        { "id": "b", "texto": "Alcalosis respiratoria." },
-        { "id": "c", "texto": "Acidosis metabólica pura." },
-        { "id": "d", "texto": "Alcalosis metabólica." }
+        { "id": "a", "texto": "Hipoperfusión tisular y aumento del metabolismo anaeróbico." },
+        { "id": "b", "texto": "Buena perfusión tisular y metabolismo aeróbico." },
+        { "id": "c", "texto": "Alcalosis metabólica severa." },
+        { "id": "d", "texto": "Insuficiencia hepática exclusivamente." }
       ],
       "respuestaCorrecta": "a"
     },
     {
-      "idPregunta": 8,
-      "texto": "Los hallazgos ecocardiográficos post-RCE (VD severamente dilatado e hipocontráctil, septo aplanado, VCI dilatada) en Carlos son altamente sugestivos de:",
+      "idPregunta": 6,
+      "texto": "La dehiscencia de anastomosis es una complicación grave de la cirugía colorrectal (Tema 11). ¿Qué signo en Ana es altamente sugestivo de esta complicación?",
       "opciones": [
-        { "id": "a", "texto": "Taponamiento cardíaco." },
-        { "id": "b", "texto": "Infarto agudo de miocardio de ventrículo izquierdo." },
-        { "id": "c", "texto": "Disfunción diastólica severa." },
-        { "id": "d", "texto": "Sobrecarga de presión/volumen aguda del ventrículo derecho, compatible con TEP masivo." }
+        { "id": "a", "texto": "Dolor leve en la herida quirúrgica." },
+        { "id": "b", "texto": "Estreñimiento postoperatorio." },
+        { "id": "c", "texto": "Fiebre, taquicardia, dolor abdominal intenso con irritación peritoneal y signos de sepsis." },
+        { "id": "d", "texto": "Aumento del débito serohemático claro por el drenaje." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La colocación de un Catéter Venoso Central (CVC) en Ana se justifica en UCI para (Tema 4):",
+      "opciones": [
+        { "id": "a", "texto": "La administración de dieta enteral." },
+        { "id": "b", "texto": "La infusión segura de fármacos vasoactivos (Noradrenalina), múltiples perfusiones y monitorización hemodinámica (PVC)." },
+        { "id": "c", "texto": "La medición continua de la temperatura central." },
+        { "id": "d", "texto": "Realizar extracciones de sangre venosa periférica." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "El control del foco infeccioso es un pilar en el tratamiento de la sepsis. En el caso de Ana, esto implicaría (Tema 18 y 11):",
+      "opciones": [
+        { "id": "a", "texto": "Aumentar la dosis de antibióticos únicamente." },
+        { "id": "b", "texto": "Administrar antipiréticos de forma continua." },
+        { "id": "c", "texto": "Iniciar nutrición parenteral total para reposo intestinal." },
+        { "id": "d", "texto": "Realizar una reintervención quirúrgica para lavado peritoneal y manejo de la dehiscencia/colección." }
       ],
       "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 9,
-      "texto": "Se decide administrar Alteplasa (rtPA) a Carlos para el TEP masivo. ¿Cuál es el principal riesgo asociado a la fibrinolisis sistémica en un paciente postquirúrgico reciente?",
+      "texto": "La oliguria marcada (0.15 ml/kg/h) en Ana es un signo de:",
       "opciones": [
-        { "id": "a", "texto": "Reacción alérgica grave." },
-        { "id": "b", "texto": "Hemorragia, especialmente en el sitio quirúrgico o intracraneal." },
-        { "id": "c", "texto": "Hipertensión arterial severa." },
-        { "id": "d", "texto": "Desarrollo de insuficiencia renal aguda." }
+        { "id": "a", "texto": "Hipoperfusión renal y posible inicio de insuficiencia renal aguda." },
+        { "id": "b", "texto": "Poliuria inducida por la diabetes." },
+        { "id": "c", "texto": "Buena respuesta a la fluidoterapia inicial." },
+        { "id": "d", "texto": "Un efecto secundario esperado de la anestesia." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 10,
-      "texto": "El control de la temperatura en los cuidados post-RCE es importante. Si se optara por un control estricto de la normotermia (36-37.5ºC), ¿cuál sería su objetivo principal?",
+      "texto": "Un cuidado de enfermería prioritario en la administración de Noradrenalina por CVC es (Tema 4 y 6):",
       "opciones": [
-        { "id": "a", "texto": "Prevenir la hipotermia para evitar arritmias." },
-        { "id": "b", "texto": "Inducir fiebre para combatir posibles infecciones." },
-        { "id": "c", "texto": "Prevenir la fiebre, ya que esta puede empeorar el daño neurológico secundario." },
-        { "id": "d", "texto": "Facilitar la absorción de fármacos." }
+        { "id": "a", "texto": "Diluirla siempre en Suero Salino Fisiológico exclusivamente." },
+        { "id": "b", "texto": "Vigilar el punto de inserción del CVC por riesgo de extravasación y necrosis tisular, y asegurar su correcta dilución e infusión." },
+        { "id": "c", "texto": "Administrarla en bolo rápido para un efecto inmediato." },
+        { "id": "d", "texto": "Monitorizar únicamente la frecuencia cardíaca." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 11,
-      "texto": "La profilaxis tromboembólica con HBPM que recibió Carlos antes de la cirugía es una medida de prevención (Tema 11). ¿Para qué tipo de complicación?",
+      "texto": "La procalcitonina elevada (15 ng/mL) en Ana es un biomarcador que sugiere:",
       "opciones": [
-        { "id": "a", "texto": "Infección de la herida quirúrgica." },
-        { "id": "b", "texto": "Desarrollo de íleo paralítico postoperatorio." },
-        { "id": "c", "texto": "Formación de trombos venosos profundos y tromboembolismo pulmonar." },
-        { "id": "d", "texto": "Sangrado excesivo durante la cirugía." }
+        { "id": "a", "texto": "Una respuesta inflamatoria principalmente de origen viral." },
+        { "id": "b", "texto": "Un proceso alérgico agudo." },
+        { "id": "c", "texto": "Una descompensación de su diabetes mellitus." },
+        { "id": "d", "texto": "Una alta probabilidad de infección bacteriana sistémica (sepsis)." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "El objetivo de mantener una TAM (Tensión Arterial Media) ≥65 mmHg con vasopresores en el shock séptico es (Tema 6 y 18):",
+      "opciones": [
+        { "id": "a", "texto": "Inducir una vasoconstricción renal selectiva." },
+        { "id": "b", "texto": "Disminuir la frecuencia cardíaca por efecto reflejo." },
+        { "id": "c", "texto": "Asegurar una presión de perfusión mínima para los órganos vitales." },
+        { "id": "d", "texto": "Prevenir la necesidad de transfusión sanguínea." }
       ],
       "respuestaCorrecta": "c"
     },
     {
-      "idPregunta": 12,
-      "texto": "El uso de analgesia epidural en el postoperatorio de Carlos busca principalmente:",
-      "opciones": [
-        { "id": "a", "texto": "Inducir sedación para facilitar la adaptación a la UCI." },
-        { "id": "b", "texto": "Proporcionar un excelente control del dolor postoperatorio, mejorando la movilización y la función respiratoria." },
-        { "id": "c", "texto": "Prevenir el desarrollo de TEP." },
-        { "id": "d", "texto": "Sustituir la necesidad de analgesia intravenosa por completo." }
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
       "idPregunta": 13,
-      "texto": "Si Carlos, bajo sedoanalgesia con Midazolam y Fentanilo, presentara un RASS de -1, ¿qué indicaría según la escala RASS (Tema 11)?",
+      "texto": "Los cuidados del drenaje abdominal en Ana tras su cirugía inicial (antes del deterioro) incluirían (Tema 11):",
       "opciones": [
-        { "id": "a", "texto": "Paciente combativo." },
-        { "id": "b", "texto": "Somnoliento, despierta a la voz (mantiene contacto visual >10 seg)." },
-        { "id": "c", "texto": "Sedación profunda, sin respuesta a la voz pero sí al estímulo físico." },
-        { "id": "d", "texto": "Alerta y tranquilo." }
+        { "id": "a", "texto": "Vigilar la cantidad y características del débito, mantener la permeabilidad y la asepsia del punto de inserción." },
+        { "id": "b", "texto": "Vaciarlo solo si está completamente lleno." },
+        { "id": "c", "texto": "Pinzarlo durante varias horas al día para promover la cicatrización interna." },
+        { "id": "d", "texto": "Irrigarlo con solución antibiótica de forma rutinaria." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 14,
-      "texto": "El drenaje abdominal tipo Redon que porta Carlos tras la hemicolectomía es un tipo de drenaje (Tema 11):",
+      "texto": "La leucocitosis (22,500/mm³) con desviación izquierda (20% cayados) en Ana es un signo de:",
       "opciones": [
-        { "id": "a", "texto": "Pasivo, que funciona por capilaridad (ej. Penrose)." },
-        { "id": "b", "texto": "Activo, que funciona por aspiración mediante vacío o presión negativa." },
-        { "id": "c", "texto": "Utilizado exclusivamente para la administración de medicación intraperitoneal." },
-        { "id": "d", "texto": "Diseñado para drenar LCR." }
+        { "id": "a", "texto": "Respuesta medular a una hemorragia aguda." },
+        { "id": "b", "texto": "Respuesta inflamatoria/infecciosa aguda, con liberación de formas jóvenes de neutrófilos." },
+        { "id": "c", "texto": "Reacción alérgica medicamentosa." },
+        { "id": "d", "texto": "Inmunosupresión severa." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 15,
-      "texto": "En el algoritmo ABCDE de valoración post-RCE, la 'D' (Disability) incluiría la valoración de:",
+      "texto": "La preparación de Ana para una reintervención quirúrgica urgente en UCI incluiría (Tema 3 y 11):",
       "opciones": [
-        { "id": "a", "texto": "El ritmo y la frecuencia cardíaca." },
-        { "id": "b", "texto": "La permeabilidad de la vía aérea." },
-        { "id": "c", "texto": "El nivel de conciencia (Glasgow), las pupilas y la glucemia." },
-        { "id": "d", "texto": "La temperatura corporal y la exposición de lesiones." }
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
-      "idPregunta": 16,
-      "texto": "La heparina sódica IV se inicia en Carlos tras la fibrinolisis. ¿Qué parámetro de coagulación se utiliza principalmente para monitorizar su efecto y ajustar la dosis?",
-      "opciones": [
-        { "id": "a", "texto": "Tiempo de Protrombina (TP / INR)." },
-        { "id": "b", "texto": "Recuento de plaquetas." },
-        { "id": "c", "texto": "Niveles de Dímero-D." },
-        { "id": "d", "texto": "Tiempo de Tromboplastina Parcial activada (TTPa o aPTT)." }
+        { "id": "a", "texto": "Administrar una comida ligera para asegurar energía." },
+        { "id": "b", "texto": "Suspender todos los fluidos intravenosos." },
+        { "id": "c", "texto": "Retirar todos los catéteres y sondas antes del traslado." },
+        { "id": "d", "texto": "Asegurar ayuno (si es posible), verificar consentimientos, revisar pruebas preoperatorias (analítica, coagulación), y coordinar con quirófano y anestesia." }
       ],
       "respuestaCorrecta": "d"
     },
     {
-      "idPregunta": 17,
-      "texto": "La vigilancia de la herida quirúrgica en Carlos es fundamental. ¿Cuál de los siguientes sería un signo de alarma de complicación local?",
+      "idPregunta": 16,
+      "texto": "En el shock distributivo, como el séptico, la causa principal de la hipotensión es:",
       "opciones": [
-        { "id": "a", "texto": "Dolor leve a la palpación en los primeros días." },
-        { "id": "b", "texto": "Enrojecimiento extenso, calor, supuración purulenta y dehiscencia de suturas." },
-        { "id": "c", "texto": "Presencia de un drenaje con débito serohemático escaso." },
-        { "id": "d", "texto": "Formación de una cicatriz rosada." }
+        { "id": "a", "texto": "Vasodilatación periférica generalizada con disminución de las resistencias vasculares sistémicas." },
+        { "id": "b", "texto": "Fallo primario de la bomba cardíaca." },
+        { "id": "c", "texto": "Pérdida masiva de volumen sanguíneo." },
+        { "id": "d", "texto": "Obstrucción del flujo sanguíneo en los grandes vasos." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "La trombocitopenia (Plaquetas 90,000/mm³) en Ana, en el contexto de sepsis, podría indicar:",
+      "opciones": [
+        { "id": "a", "texto": "Una excelente respuesta a la fluidoterapia." },
+        { "id": "b", "texto": "Un error de laboratorio común." },
+        { "id": "c", "texto": "Consumo de plaquetas debido a la activación de la coagulación y/o disfunción medular inducida por la sepsis." },
+        { "id": "d", "texto": "Un efecto protector contra la trombosis." }
+      ],
+      "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 18,
-      "texto": "Si Carlos desarrollara una pancreatitis aguda como complicación (no directamente relacionada con este caso, pero como conocimiento del Tema 11), ¿qué signo físico podría observarse?",
+      "texto": "El monitoreo del balance hídrico estricto en Ana es fundamental para:",
       "opciones": [
-        { "id": "a", "texto": "Signo de Homans." },
-        { "id": "b", "texto": "Signo de Cullen o de Grey-Turner." },
-        { "id": "c", "texto": "Signo de Brudzinski." },
-        { "id": "d", "texto": "Signo de Chvostek." }
+        { "id": "a", "texto": "Evaluar la ingesta calórica." },
+        { "id": "b", "texto": "Prevenir la desorientación." },
+        { "id": "c", "texto": "Determinar el tipo de antibiótico más adecuado." },
+        { "id": "d", "texto": "Guiar la fluidoterapia, evitar la sobrecarga de volumen y valorar la respuesta renal." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 19,
-      "texto": "El objetivo de mantener una TAM (Tensión Arterial Media) >65 mmHg en Carlos post-RCE y durante el manejo del TEP es para:",
+      "texto": "Si Ana requiriese ventilación mecánica invasiva por insuficiencia respiratoria en el contexto del shock séptico, un objetivo sería (Tema 9):",
       "opciones": [
-        { "id": "a", "texto": "Asegurar una adecuada perfusión de los órganos vitales." },
-        { "id": "b", "texto": "Prevenir el desarrollo de arritmias cardíacas." },
-        { "id": "c", "texto": "Disminuir el riesgo de sangrado post-fibrinolisis." },
-        { "id": "d", "texto": "Facilitar el despertar y la valoración neurológica." }
+        { "id": "a", "texto": "Asegurar una oxigenación adecuada y disminuir el trabajo respiratorio, utilizando estrategias de protección pulmonar si desarrolla SDRA." },
+        { "id": "b", "texto": "Utilizar volúmenes tidales altos para reclutar al máximo." },
+        { "id": "c", "texto": "Mantener una PaCO2 muy baja para compensar la acidosis metabólica." },
+        { "id": "d", "texto": "Evitar la sedación para poder valorar la función neurológica." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 20,
-      "texto": "La intubación orotraqueal (IOT) en la secuencia rápida de Carlos implica el uso de fármacos. ¿Cuál es el propósito del Etomidato en esta secuencia?",
+      "texto": "La comunicación con la familia de Ana, una paciente crítica en UCI, debe ser (Tema 1):",
       "opciones": [
-        { "id": "a", "texto": "Proporcionar analgesia potente." },
-        { "id": "b", "texto": "Inducir hipnosis y pérdida de conciencia rápidamente." },
-        { "id": "c", "texto": "Causar relajación muscular para facilitar la inserción del tubo." },
-        { "id": "d", "texto": "Aumentar la tensión arterial." }
+        { "id": "a", "texto": "Limitada a un único informe médico diario." },
+        { "id": "b", "texto": "Clara, regular, honesta, empática y adaptada a su nivel de comprensión." },
+        { "id": "c", "texto": "Realizada exclusivamente por el personal de enfermería." },
+        { "id": "d", "texto": "Siempre optimista, evitando mencionar posibles complicaciones." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 21,
-      "texto": "Un cuidado de enfermería fundamental en un paciente con VMI como Carlos, para prevenir la neumonía asociada a ventilación (NAV), es:",
+      "texto": "Un signo de irritación peritoneal como la defensa muscular en Ana sugiere:",
       "opciones": [
-        { "id": "a", "texto": "Mantener la cabecera de la cama elevada a 30-45 grados." },
-        { "id": "b", "texto": "Realizar cambios de circuito del ventilador cada 24 horas." },
-        { "id": "c", "texto": "Instilar suero salino de forma rutinaria antes de cada aspiración de secreciones." },
-        { "id": "d", "texto": "Limitar la higiene oral para no estimular la producción de secreciones." }
+        { "id": "a", "texto": "Íleo paralítico postoperatorio." },
+        { "id": "b", "texto": "Sobrecarga de fluidos." },
+        { "id": "c", "texto": "Dolor referido de la herida quirúrgica." },
+        { "id": "d", "texto": "Inflamación del peritoneo, como en una peritonitis." }
       ],
-      "respuestaCorrecta": "a"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 22,
-      "texto": "El ECG de 12 derivaciones post-RCE de Carlos muestra 'signos de sobrecarga de VD (S1Q3T3)'. Este patrón electrocardiográfico, en el contexto clínico de Carlos, apoya la sospecha de:",
+      "texto": "La \"hora dorada\" en el manejo de la sepsis se refiere a:",
       "opciones": [
-        { "id": "a", "texto": "Infarto agudo de miocardio anterior extenso." },
-        { "id": "b", "texto": "Pericarditis aguda." },
-        { "id": "c", "texto": "Tromboembolismo pulmonar." },
-        { "id": "d", "texto": "Hiperpotasemia severa." }
+        { "id": "a", "texto": "El tiempo que tarda en hacer efecto la primera dosis de antibiótico." },
+        { "id": "b", "texto": "La última hora antes de la resolución de la sepsis." },
+        { "id": "c", "texto": "La primera hora desde el reconocimiento de la sepsis/shock séptico, durante la cual la aplicación de medidas de resucitación (fluidos, antibióticos, vasopresores si es necesario) mejora significativamente el pronóstico." },
+        { "id": "d", "texto": "El periodo en que se deben realizar los hemocultivos exclusivamente." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 23,
-      "texto": "La ventilación con bolsa autoinflable y mascarilla facial durante la RCP de Carlos debe asegurar:",
+      "texto": "El uso de cristaloides (SSF 0.9%) en la resucitación inicial de Ana se prefiere sobre los coloides en la mayoría de los casos de sepsis porque (Tema 6):",
       "opciones": [
-        { "id": "a", "texto": "Hiperventilación con volúmenes muy altos para maximizar la oxigenación." },
-        { "id": "b", "texto": "Una frecuencia de 20-25 ventilaciones por minuto." },
-        { "id": "c", "texto": "Un buen sellado de la mascarilla y la elevación visible del tórax con cada ventilación, evitando la insuflación gástrica." },
-        { "id": "d", "texto": "Ventilaciones administradas sin interrupción de las compresiones torácicas." }
+        { "id": "a", "texto": "Los coloides tienen un mayor riesgo de reacciones anafilácticas y no han demostrado una clara superioridad en la mortalidad, además de ser más caros." },
+        { "id": "b", "texto": "Los cristaloides expanden el volumen intravascular de forma más duradera." },
+        { "id": "c", "texto": "Los cristaloides siempre corrigen la acidosis metabólica más rápidamente." },
+        { "id": "d", "texto": "Los coloides están contraindicados en pacientes con diabetes." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 24,
-      "texto": "Si durante la estabilización de Carlos se necesitara monitorizar la Presión Intra-Abdominal (PIA) debido a distensión abdominal postquirúrgica, un método indirecto común es a través de (Tema 11 y previos):",
+      "texto": "La hipotensión en el shock séptico (como el de Ana) es multifactorial, pero un componente importante es (Tema 18):",
       "opciones": [
-        { "id": "a", "texto": "Un catéter insertado en la arteria femoral." },
-        { "id": "b", "texto": "La sonda nasogástrica." },
-        { "id": "c", "texto": "La sonda vesical, midiendo la presión intravesical." },
-        { "id": "d", "texto": "La palpación abdominal seriada por diferentes exploradores." }
+        { "id": "a", "texto": "Una vasoconstricción periférica extrema." },
+        { "id": "b", "texto": "Un aumento primario del gasto cardíaco." },
+        { "id": "c", "texto": "La vasoplejia (vasodilatación patológica) y el aumento de la permeabilidad capilar con fuga de líquido al intersticio." },
+        { "id": "d", "texto": "Una bradicardia refleja severa." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 25,
-      "texto": "El manejo del dolor de Carlos con un catéter epidural es un componente importante de los cuidados postquirúrgicos. Una ventaja de la analgesia epidural es:",
+      "texto": "La prevención de úlceras por presión (UPP) en una paciente crítica como Ana, que está hipotensa y probablemente con movilidad reducida, incluye (Tema 11):",
       "opciones": [
-        { "id": "a", "texto": "Menor riesgo de hipotensión comparado con opioides IV." },
-        { "id": "b", "texto": "La ausencia total de efectos secundarios." },
-        { "id": "c", "texto": "Un control del dolor superior con menor sedación sistémica, facilitando la recuperación." },
-        { "id": "d", "texto": "Elimina la necesidad de cualquier otro tipo de analgesia." }
+        { "id": "a", "texto": "Mantenerla siempre en posición supina estricta." },
+        { "id": "b", "texto": "Aplicar masajes vigorosos sobre las prominencias óseas." },
+        { "id": "c", "texto": "Limitar la ingesta de líquidos para reducir la humedad de la piel." },
+        { "id": "d", "texto": "Realizar cambios posturales frecuentes, utilizar superficies especiales de manejo de la presión y mantener la piel limpia y seca." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 26,
-      "texto": "El lactato sérico de 6 mmol/L en la gasometría post-RCE de Carlos es un indicador de:",
+      "texto": "La diabetes mellitus tipo 2 de Ana es un factor de riesgo que en el contexto de una infección grave y cirugía puede (Tema 11):",
       "opciones": [
-        { "id": "a", "texto": "Hipoperfusión tisular y metabolismo anaeróbico durante la PCR y el shock." },
-        { "id": "b", "texto": "Buena recuperación metabólica inmediata." },
-        { "id": "c", "texto": "Alcalosis láctica." },
-        { "id": "d", "texto": "Un efecto secundario esperado de la Amiodarona." }
+        { "id": "a", "texto": "Dificultar el control glucémico, aumentar el riesgo de infecciones y retrasar la cicatrización." },
+        { "id": "b", "texto": "Disminuir el riesgo de complicaciones postoperatorias." },
+        { "id": "c", "texto": "Mejorar la respuesta inmunitaria a la infección." },
+        { "id": "d", "texto": "Proteger contra el desarrollo de insuficiencia renal aguda." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 27,
-      "texto": "La administración de Amiodarona 300mg IV durante la PCR de Carlos se realiza porque es un fármaco que:",
+      "texto": "El objetivo de la antibioterapia empírica de amplio espectro iniciada en Ana es (Tema 6 y 18):",
       "opciones": [
-        { "id": "a", "texto": "Aumenta la frecuencia cardíaca en casos de bradicardia." },
-        { "id": "b", "texto": "Es un potente vasopresor para tratar la hipotensión." },
-        { "id": "c", "texto": "Es un antiarrítmico utilizado en la FV/TVSP refractaria a la desfibrilación." },
-        { "id": "d", "texto": "Corrige la acidosis metabólica." }
+        { "id": "a", "texto": "Tratar exclusivamente infecciones virales." },
+        { "id": "b", "texto": "Reducir la fiebre como único objetivo." },
+        { "id": "c", "texto": "Cubrir los microorganismos más probables causantes de la infección mientras se esperan los resultados de los cultivos." },
+        { "id": "d", "texto": "Prevenir futuras infecciones una vez resuelta la actual." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 28,
-      "texto": "En el proceso de destete de la VMI, pasar a Carlos a un modo PSV (Presión Soporte Ventilatorio) significa que:",
+      "texto": "Si el drenaje abdominal de Ana comenzara a debitar contenido purulento o fecaloideo, esto sería un signo claro de (Tema 11):",
       "opciones": [
-        { "id": "a", "texto": "El ventilador sigue controlando completamente cada respiración." },
-        { "id": "b", "texto": "El paciente inicia todas las respiraciones y el ventilador le proporciona un nivel de presión de soporte para ayudar en el esfuerzo inspiratorio." },
-        { "id": "c", "texto": "Se retira completamente el soporte ventilatorio y el paciente respira a través del tubo." },
-        { "id": "d", "texto": "Es un modo utilizado exclusivamente para la VMNI." }
+        { "id": "a", "texto": "Normal evolución postoperatoria." },
+        { "id": "b", "texto": "Complicación infecciosa intraabdominal grave, como una peritonitis o fístula." },
+        { "id": "c", "texto": "Éxito de la anastomosis intestinal." },
+        { "id": "d", "texto": "Sobrecarga de fluidos." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 29,
-      "texto": "La valoración del dolor en Carlos post-RCE, mientras está sedado, se realizaría preferentemente con una escala como (Tema 11):",
+      "texto": "La evaluación del estado de conciencia de Ana (confusa y somnolienta) es parte de la valoración de (Tema 3, 18):",
       "opciones": [
-        { "id": "a", "texto": "Escala Visual Analógica (EVA) preguntándole directamente." },
-        { "id": "b", "texto": "Escala de Comportamientos asociados al Dolor (BPS) o CPOT." },
-        { "id": "c", "texto": "Escala de Glasgow." },
-        { "id": "d", "texto": "Escala RASS." }
+        { "id": "a", "texto": "La función respiratoria exclusivamente." },
+        { "id": "b", "texto": "El control del dolor postoperatorio." },
+        { "id": "c", "texto": "La tolerancia a la dieta." },
+        { "id": "d", "texto": "La perfusión de órganos diana, en este caso, el cerebro." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 30,
-      "texto": "Un cuidado fundamental para el drenaje abdominal de Carlos es:",
+      "texto": "La administración de fluidos en el shock séptico debe ser guiada por una valoración dinámica de la respuesta hemodinámica porque (Tema 6 y 18):",
       "opciones": [
-        { "id": "a", "texto": "Pinzarlo de forma intermitente para promover la cicatrización." },
-        { "id": "b", "texto": "Mantenerlo siempre por encima del nivel de la herida para evitar reflujo." },
-        { "id": "c", "texto": "Vaciarlo y medir el débito según pauta, vigilando cambios en el aspecto y cantidad del drenado, y mantener la permeabilidad." },
-        { "id": "d", "texto": "Irrigarlo con suero salino cada 4 horas para asegurar su funcionamiento." }
+        { "id": "a", "texto": "La sobrecarga de volumen puede ser perjudicial, y no todos los pacientes responden igual a los fluidos." },
+        { "id": "b", "texto": "Todos los pacientes sépticos requieren exactamente la misma cantidad de fluidos." },
+        { "id": "c", "texto": "Los cristaloides son tóxicos en grandes cantidades." },
+        { "id": "d", "texto": "Los vasopresores solo funcionan si el paciente está en balance hídrico negativo." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "a"
     }
   ]
 }

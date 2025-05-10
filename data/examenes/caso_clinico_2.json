@@ -1,338 +1,338 @@
 {
-  "idExamen": "caso_clinico_integrador_roberto_01",
+  "idExamen": "caso02_hda_shock_01_final_corregido",
  "idTema": "casos_clinicos",
- "nombreExamen": "DIFICIL: Resiliencia en la Cuerda Floja",
-  "descripcionCaso": "<p><strong>Caso Clínico Integrador: \"Resiliencia en la Cuerda Floja\"</strong></p><p><strong>Paciente:</strong> Roberto Martínez, 45 años, varón. Sin alergias medicamentosas conocidas.</p><p><strong>Antecedentes Personales:</strong> Hipertensión arterial (HTA) en tratamiento con Enalapril 20mg/día, exfumador desde hace 5 años (consumo previo de 1 paquete/día durante 20 años), obesidad leve (IMC 28). Apendicectomizado en la infancia. Vida laboral activa como comercial.</p><hr><p><strong><em>Día 0 - Prehospitalario y Urgencias</em></strong></p><p><strong>Situación Inicial:</strong></p><p>Roberto sufre un accidente de tráfico de alta energía (colisión frontal mientras conducía su vehículo particular). Es atendido en el lugar por una Unidad Móvil de Emergencias (UME) del 061 (Ref. Tema 2).</p><p>A su llegada, Roberto está atrapado mecánicamente, presenta agitación, disnea y dolor torácico y abdominal intenso. Se realiza extricación por bomberos.</p><p><strong>Valoración Inicial por UME (ABCDE - Ref. Tema 10 y Tema 16):</strong></p><ul><li><strong>A (Airway):</strong> Vía aérea comprometida por agitación y posible trauma facial (hematoma malar), aunque inicialmente permeable con elevación manual del mentón. Se coloca collarín cervical.</li><li><strong>B (Breathing):</strong> Taquipnea (30 rpm), uso de musculatura accesoria, saturación de oxígeno (SpO2) inicial del 88% con aire ambiente. A la auscultación, hipoventilación en hemitórax derecho. Se administra oxigenoterapia con mascarilla con reservorio a 15 L/min, mejorando SpO2 a 95%.</li><li><strong>C (Circulation):</strong> Pálido, sudoroso, relleno capilar &gt;3 segundos. TA 90/50 mmHg, FC 130 lpm. Se canalizan dos accesos venosos periféricos de grueso calibre (16G) en fosas antecubitales (Ref. Tema 4). Se inicia fluidoterapia con Cristaloides (SSF 0.9%) (Ref. Tema 6). Se sospecha hemorragia interna.</li><li><strong>D (Disability):</strong> Glasgow Coma Scale (GCS) de 13 (O4, V4, M5) inicialmente, desorientado en tiempo y espacio. Pupilas isocóricas y normorreactivas.</li><li><strong>E (Exposure):</strong> Deformidad en muslo izquierdo, múltiples contusiones. Se controla la hipotermia con manta térmica.</li></ul><p><strong>Traslado y Llegada a Urgencias Hospitalarias (Ref. Tema 2):</strong></p><p>Se traslada con monitorización continua (EKG, TA no invasiva, SpO2, FC, FR – Ref. Tema 2). Durante el traslado, TA desciende a 80/40 mmHg a pesar de 1000ml de cristaloide. Se activa preaviso hospitalario por paciente politraumatizado grave con shock hipovolémico (Ref. Tema 15).</p><p>En el box de críticos de Urgencias, se repite valoración ABCDE.</p><ul><li><strong>A/B:</strong> El paciente presenta mayor agitación y dificultad respiratoria, SpO2 90% con reservorio. Se decide Intubación Orotraqueal (IOT) para asegurar vía aérea y facilitar ventilación (Ref. Tema 7). Se realiza secuencia de intubación rápida (Fentanilo, Propofol, Rocuronio – Ref. Tema 6 y Tema 9). Conectado a Ventilación Mecánica Invasiva (VMI) en modo CMV-VC (Ref. Tema 9).</li><li><strong>C:</strong> TA 85/45 mmHg, FC 125 lpm. Se continúa fluidoterapia agresiva. Se extraen muestras para analítica completa, pruebas cruzadas y se activa protocolo de transfusión masiva (Ref. Tema 15). Se trasfunden 2 Concentrados de Hematíes 0-.</li><li><strong>Pruebas Complementarias Iniciales (Ref. Tema 3):</strong> EKG: Taquicardia sinusal (Ref. Tema 3). Radiografía de tórax portátil: Múltiples fracturas costales derechas, velamiento hemitórax derecho compatible con hemotórax. Radiografía de pelvis y fémur izquierdo: Fractura de pelvis inestable y fractura diafisaria de fémur izquierdo. Eco-FAST: Líquido libre abdominal en Morrison y Douglas. Hemotórax derecho.</li></ul><p>Se coloca sonda vesical (hematuria macroscópica) y sonda nasogástrica (contenido bilioso).</p><p>Se decide traslado urgente a quirófano para laparotomía exploradora y estabilización de fracturas.</p><hr><p><strong><em>Día 0 - Quirófano e Ingreso UCI (Ref. Tema 11)</em></strong></p><p>En quirófano, se evidencia laceración hepática grado III y lesión mesentérica que precisan reparación. Se realiza fijación externa de pelvis y enclavado endomedular de fémur. Durante la cirugía, requiere transfusión de 4 CH, 4 unidades de Plasma Fresco Congelado y 1 pool de Plaquetas.</p><p>Tras la cirugía, ingresa en la Unidad de Cuidados Intensivos (UCI) (Ref. Tema 1).</p><p><strong>Ingreso en UCI (Día 0 - Noche):</strong></p><ul><li><strong>Monitorización (Tema 2):</strong> VMI (FiO2 0.5, PEEP 8 cmH2O, VT 450ml, FR 16 rpm). Línea arterial radial para TA invasiva (Ref. Tema 4). Catéter Venoso Central (CVC) yugular derecho de 3 luces (Ref. Tema 4), para PVC y SvcO2. Cuidados según protocolo \"Bacteriemia Zero\" (Ref. Tema 4). PICCO para monitorización avanzada (Ref. Tema 8 y Tema 5). Capnografía.</li><li><strong>Sedoanalgesia (Tema 5):</strong> Perfusión continua de Propofol y Remifentanilo. Valoración BPS y RASS.</li><li><strong>Soporte Hemodinámico:</strong> TA 100/60 mmHg con Noradrenalina 0.1 mcg/kg/min (Ref. Tema 6). PVC 10 mmHg. Diuresis 0.5 ml/kg/h.</li><li><strong>Ventilación:</strong> Gasometría arterial con acidosis metabólica e hipoxemia moderada. PAFI 180 mmHg.</li><li><strong>Neurológico (Tema 17):</strong> Vigilancia por posible TCE leve.</li><li><strong>Cuidados Generales (Tema 3):</strong> Control drenajes, prevención UPP, higiene, control glucémico.</li></ul><hr><p><strong><em>Día 1-3 UCI</em></strong></p><ul><li><strong>Respiratorio:</strong> Desarrolla SDRA leve-moderado (PAFI &lt; 200 mmHg) (Ref. Tema 4, Tema 7). Ventilación protectora, PEEP alta, aspiración secreciones.</li><li><strong>Infeccioso:</strong> Fiebre, leucocitosis. Sospecha NAV y/o infección abdominal. Hemocultivos y otros cultivos (Ref. Tema 18). Inicio antibioterapia empírica.</li><li><strong>Hemodinámico:</strong> Desarrolla Shock Séptico (Ref. Tema 18). TA 85/50 mmHg, Noradrenalina 0.5 mcg/kg/min, se añade Dobutamina. Lactato 4 mmol/L.</li><li><strong>Renal:</strong> Oliguria, Cr y Urea en ascenso. IRA (Ref. Tema 11). Inicio TRRC con HDFVVC vía catéter Shaldon femoral (Ref. Tema 8, Tema 4).</li><li><strong>Nutrición (Tema 3):</strong> Enteral precoz por SNG.</li><li><strong>Sedoanalgesia y Delirio (Tema 5):</strong> Ventana de sedación, agitación. Delirio hipoactivo (CAM-ICU).</li><li><strong>Accesos Vasculares (Tema 4):</strong> Cuidados exhaustivos, Bacteriemia Zero.</li><li><strong>Alteraciones Electrolíticas (Tema 3 / Tema 6):</strong> Hipopotasemia e hipomagnesemia, reposición IV.</li></ul><hr><p><strong><em>Día 7-14 UCI</em></strong></p><ul><li><strong>Evolución:</strong> Lenta mejoría del cuadro séptico. Disminución soporte vasopresor.</li><li><strong>Respiratorio:</strong> Mejora PAFI &gt; 250 mmHg. Destete VMI a PSV (Ref. Tema 9).</li><li><strong>Renal:</strong> Recupera función renal, suspensión TRRC.</li><li><strong>Neurológico:</strong> GCS 11 (O4, VTraqueostomía, M6) post-sedación. Desorientación.</li><li><strong>Complicaciones:</strong> Traqueostomía percutánea por VMI prolongada (Ref. Tema 7).</li><li><strong>Movilización y Fisioterapia (Tema 3):</strong> Inicio.</li></ul><hr><p><strong><em>Día 25 UCI - Evolución Final (Seleccionar una opción para el desenlace)</em></strong></p><p><strong>Opción 1: Mejoría y Salida de UCI.</strong></p><p><strong>Opción 2: Complicación y PCR.</strong> (FV, SVA: compresiones, desfibrilación, adrenalina, amiodarona. Exitus).</p><p><strong>Opción 3: Evolución a Muerte Encefálica y Donación.</strong> (Edema cerebral masivo, diagnóstico ME, entrevista familia, proceso donación - Ref. Tema 12).</p>",
+  "nombreExamen": "Caso 2: Manejo de Hemorragia Digestiva Alta y Shock Hipovolémico",
+  "descripcionCaso": "<p><strong>Caso Clínico: Manejo de Hemorragia Digestiva Alta y Shock Hipovolémico</strong></p><p><strong>Paciente:</strong> Elena Torres, 72 años.</p><p><strong>Antecedentes:</strong> Artrosis degenerativa en tratamiento crónico con Naproxeno (AINE), Hipertensión Arterial (HTA) en tratamiento con Losartán, Diabetes Mellitus tipo 2 controlada con Metformina.</p><p><strong>Situación:</strong> Elena es traída al servicio de Urgencias por su hija. Refiere que en las últimas 24 horas ha presentado múltiples deposiciones melénicas (negras y alquitranadas), acompañadas de mareo intenso, debilidad generalizada y un episodio de vómito oscuro, similar a \"posos de café\", esta mañana. Niega dolor abdominal significativo.</p><p><strong>A su llegada a Urgencias (Ref. Tema 2):</strong></p><ul><li>Estado General: Paciente pálida, con piel fría y sudorosa. Consciente pero somnolienta y desorientada en tiempo.</li><li>Constantes Vitales: Tensión Arterial (TA) 85/50 mmHg, Frecuencia Cardíaca (FC) 118 lpm (taquicardia sinusal), Frecuencia Respiratoria (FR) 24 rpm, Saturación de O2 94% con aire ambiente, Temperatura 36.2°C.</li><li>Exploración: Abdomen blando, no doloroso a la palpación superficial, sin signos de peritonismo. Relleno capilar > 3 segundos.</li></ul><p><strong>Manejo Inicial en Urgencias y UCI (Ref. Temas 3, 4, 6, 15):</strong></p><p>Se clasifica como paciente con shock hipovolémico probablemente secundario a HDA. Se canalizan inmediatamente dos vías venosas periféricas de grueso calibre (16G y 18G). Se extraen analíticas urgentes (hemograma, bioquímica con función renal y hepática, coagulación, pruebas cruzadas). La Hemoglobina inicial es de 7.2 g/dL, Hematocrito 22%. Se inicia **fluidoterapia intensiva con cristaloides** (Suero Salino Fisiológico 0.9%) en bolos rápidos. Se coloca una **sonda nasogástrica (SNG)**, obteniéndose aspirado en \"posos de café\" y restos hemáticos frescos, confirmando HDA activa. Se administra **Omeprazol 80mg IV en bolo seguido de perfusión continua**. Se trasfunden **2 concentrados de hematíes (CH)** 0- (grupo de la paciente desconocido inicialmente) tras prueba cruzada urgente. Se contacta con el servicio de Digestivo para realizar una **endoscopia digestiva alta (EDA) urgente**. Dada la inestabilidad hemodinámica y la necesidad de soporte y monitorización continua, Elena ingresa en la Unidad de Cuidados Intensivos (UCI). En UCI se plantea la necesidad de un Catéter Venoso Central (CVC) si persiste la inestabilidad o se requieren múltiples infusiones/fármacos vasoactivos. Se mantiene monitorización ECG continua, TA invasiva (tras canalización de arteria radial) y control de diuresis horaria.</p>",
   "preguntas": [
     {
       "idPregunta": 1,
-      "texto": "En la valoración inicial de Roberto por la UME, ¿qué hallazgo es MÁS sugestivo de un compromiso respiratorio que requiere oxigenoterapia inmediata?",
+      "texto": "Según la clasificación del shock hipovolémico basada en la pérdida de sangre y los signos vitales de Elena (TA 85/50, FC 118, Hb 7.2), ¿en qué clase de shock hemorrágico se encontraría aproximadamente (Tema 15)?",
       "opciones": [
-        { "id": "a", "texto": "SpO2 inicial del 88% y taquipnea de 30 rpm." },
-        { "id": "b", "texto": "TA 90/50 mmHg." },
-        { "id": "c", "texto": "GCS de 13." },
-        { "id": "d", "texto": "Deformidad en muslo izquierdo." }
+        { "id": "a", "texto": "Clase III (1500-2000ml de pérdida, FC >120, TA disminuida, confusión)." },
+        { "id": "b", "texto": "Clase II (750-1500ml de pérdida, FC >100, TA normal o levemente disminuida)." },
+        { "id": "c", "texto": "Clase I (<750ml de pérdida, FC <100, TA normal)." },
+        { "id": "d", "texto": "Clase IV (>2000ml de pérdida, FC >140, TA muy disminuida, letargia/coma)." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 2,
-      "texto": "Durante el traslado a urgencias, la TA de Roberto desciende a 80/40 mmHg a pesar de la administración de 1000ml de cristaloide. Esto es MÁS indicativo de:",
+      "texto": "La administración de cristaloides (Suero Salino Fisiológico 0.9%) en bolos rápidos a Elena tiene como objetivo principal (Tema 6 y 15):",
       "opciones": [
-        { "id": "a", "texto": "Shock cardiogénico." },
-        { "id": "b", "texto": "Reacción anafiláctica a la medicación." },
-        { "id": "c", "texto": "Shock neurogénico." },
-        { "id": "d", "texto": "Shock hipovolémico descompensado." }
+        { "id": "a", "texto": "Corregir la anemia de forma inmediata." },
+        { "id": "b", "texto": "Alcalinizar el pH sanguíneo." },
+        { "id": "c", "texto": "Disminuir la frecuencia cardíaca." },
+        { "id": "d", "texto": "Aumentar el volumen intravascular y mejorar la perfusión tisular." }
       ],
       "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 3,
-      "texto": "¿Cuál es la principal indicación para la Intubación Orotraqueal (IOT) de Roberto en Urgencias?",
+      "texto": "La colocación de una sonda nasogástrica (SNG) en Elena, con HDA activa, tiene como uno de sus propósitos (Tema 3):",
       "opciones": [
-        { "id": "a", "texto": "Facilitar la administración de sedantes." },
-        { "id": "b", "texto": "Asegurar la vía aérea y optimizar la ventilación ante la agitación y dificultad respiratoria progresiva." },
-        { "id": "c", "texto": "Permitir la colocación de una sonda nasogástrica." },
-        { "id": "d", "texto": "Prevenir el dolor torácico." }
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
-      "idPregunta": 4,
-      "texto": "En el contexto de \"Bacteriemia Zero\", ¿cuál de las siguientes medidas es fundamental durante el cuidado del CVC yugular de Roberto?",
-      "opciones": [
-        { "id": "a", "texto": "Cambiar el catéter cada 48 horas." },
-        { "id": "b", "texto": "Realizar curas diarias del punto de inserción con povidona yodada." },
-        { "id": "c", "texto": "Higiene de manos estricta y desinfección de los puertos de acceso antes de cada uso." },
-        { "id": "d", "texto": "Administrar antibióticos profilácticos por cada luz del catéter." }
+        { "id": "a", "texto": "Administrar nutrición enteral de forma inmediata." },
+        { "id": "b", "texto": "Inducir el vómito para eliminar restos de sangre." },
+        { "id": "c", "texto": "Confirmar la presencia y actividad del sangrado, evacuar contenido gástrico y preparar para la EDA." },
+        { "id": "d", "texto": "Realizar un lavado gástrico con carbón activado." }
       ],
       "respuestaCorrecta": "c"
     },
     {
-      "idPregunta": 5,
-      "texto": "Roberto desarrolla SDRA con una PAFI de 180 mmHg. ¿Qué estrategia de ventilación mecánica es la más adecuada inicialmente?",
+      "idPregunta": 4,
+      "texto": "Antes de administrar los concentrados de hematíes a Elena, ¿cuál de las siguientes NO es una comprobación esencial según las recomendaciones para la administración de hemoderivados (Tema 15)?",
       "opciones": [
-        { "id": "a", "texto": "Ventilación protectora con volúmenes tidales bajos (6 ml/kg peso ideal) y PEEP óptima." },
-        { "id": "b", "texto": "PEEP baja (2-4 cmH2O) para evitar barotrauma." },
-        { "id": "c", "texto": "Volúmenes tidales altos (10-12 ml/kg) para expandir el pulmón." },
-        { "id": "d", "texto": "Frecuencia respiratoria baja (<10 rpm) para permitir descanso pulmonar." }
-      ],
-      "respuestaCorrecta": "a"
-    },
-    {
-      "idPregunta": 6,
-      "texto": "Al tercer día en UCI, Roberto presenta fiebre y leucocitosis, sospechándose shock séptico. Además de la antibioterapia, ¿cuál es una medida prioritaria en el manejo hemodinámico inicial del shock séptico?",
-      "opciones": [
-        { "id": "a", "texto": "Administrar corticoides a dosis altas inmediatamente." },
-        { "id": "b", "texto": "Reposición agresiva de volumen con cristaloides y uso precoz de vasopresores (Noradrenalina) si persiste la hipotensión." },
-        { "id": "c", "texto": "Restringir los fluidos para evitar sobrecarga." },
-        { "id": "d", "texto": "Iniciar diuréticos para forzar la diuresis." }
+        { "id": "a", "texto": "Verificar la identidad del paciente y la correspondencia con la unidad de sangre." },
+        { "id": "b", "texto": "Administrar un diurético profiláctico para evitar sobrecarga." },
+        { "id": "c", "texto": "Confirmar la compatibilidad del grupo sanguíneo entre el paciente y la unidad." },
+        { "id": "d", "texto": "Comprobar la integridad de la bolsa y la fecha de caducidad." }
       ],
       "respuestaCorrecta": "b"
     },
     {
-      "idPregunta": 7,
-      "texto": "La monitorización con PICCO en Roberto es útil para guiar la fluidoterapia y el uso de inotrópicos. ¿Qué parámetro del PICCO es especialmente útil para valorar la respuesta a fluidos en un paciente ventilado?",
+      "idPregunta": 5,
+      "texto": "El Omeprazol IV se administra a Elena para (Tema 6):",
       "opciones": [
-        { "id": "a", "texto": "Presión Venosa Central (PVC) aislada." },
-        { "id": "b", "texto": "Gasto Cardíaco (GC) exclusivamente." },
-        { "id": "c", "texto": "Agua Pulmonar Extravascular (EVLW)." },
-        { "id": "d", "texto": "Variación del Volumen Sistólico (VVS) o Variación de la Presión de Pulso (VPP)." }
+        { "id": "a", "texto": "Aumentar la motilidad gástrica y facilitar el vaciado." },
+        { "id": "b", "texto": "Actuar como un agente procinético para la endoscopia." },
+        { "id": "c", "texto": "Disminuir la secreción de ácido gástrico y promover un pH intragástrico que favorezca la estabilidad del coágulo." },
+        { "id": "d", "texto": "Neutralizar directamente el sangrado activo." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La canalización de dos vías venosas periféricas de grueso calibre (16G y 18G) en una paciente con shock hipovolémico es una prioridad para (Tema 4):",
+      "opciones": [
+        { "id": "a", "texto": "Permitir la administración rápida de grandes volúmenes de fluidos y hemoderivados." },
+        { "id": "b", "texto": "Facilitar la extracción de múltiples muestras de sangre sin necesidad de nuevas punciones." },
+        { "id": "c", "texto": "Administrar medicación incompatible por vías separadas exclusivamente." },
+        { "id": "d", "texto": "Poder medir la Presión Venosa Central (PVC) de forma no invasiva." }
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Si Elena persistiera con hipotensión severa (TAM < 65 mmHg) a pesar de una adecuada resucitación con volumen y transfusión, ¿qué tipo de fármaco se consideraría añadir según el Tema 6?",
+      "opciones": [
+        { "id": "a", "texto": "Un betabloqueante para reducir la frecuencia cardíaca." },
+        { "id": "b", "texto": "Un fármaco vasopresor (ej. Noradrenalina)." },
+        { "id": "c", "texto": "Un diurético para movilizar el tercer espacio." },
+        { "id": "d", "texto": "Un sedante para disminuir el consumo de oxígeno." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "La transfusión de concentrados de hematíes en Elena tiene como objetivo principal (Tema 15):",
+      "opciones": [
+        { "id": "a", "texto": "Aportar factores de coagulación." },
+        { "id": "b", "texto": "Expandir el volumen plasmático principalmente." },
+        { "id": "c", "texto": "Prevenir infecciones secundarias." },
+        { "id": "d", "texto": "Aumentar la capacidad de transporte de oxígeno y mejorar la perfusión tisular." }
       ],
       "respuestaCorrecta": "d"
     },
     {
-      "idPregunta": 8,
-      "texto": "Debido a la IRA, Roberto requiere TRRC con HDFVVC. ¿Cuál es una ventaja principal de las terapias continuas sobre la hemodiálisis intermitente en pacientes críticos inestables?",
-      "opciones": [
-        { "id": "a", "texto": "Mayor estabilidad hemodinámica y mejor control del balance de fluidos." },
-        { "id": "b", "texto": "Menor necesidad de anticoagulación." },
-        { "id": "c", "texto": "Eliminación más rápida de toxinas en menor tiempo." },
-        { "id": "d", "texto": "Menor coste y complejidad técnica." }
-      ],
-      "respuestaCorrecta": "a"
-    },
-    {
       "idPregunta": 9,
-      "texto": "Durante la sedoanalgesia de Roberto con Propofol y Remifentanilo, se utiliza la escala RASS. Un objetivo de RASS -2 significa:",
+      "texto": "Durante la transfusión de un hemoderivado, la enfermera debe vigilar la aparición de signos de reacción transfusional. ¿Cuál NO sería un signo típico de reacción transfusional aguda (Tema 15)?",
       "opciones": [
-        { "id": "a", "texto": "Paciente combativo y violento." },
-        { "id": "b", "texto": "Sedación profunda, sin respuesta a estímulos verbales." },
-        { "id": "c", "texto": "Sedación ligera, despierta con la voz (<10 seg ojos abiertos)." },
-        { "id": "d", "texto": "Paciente ansioso y agitado, pero no agresivo." }
+        { "id": "a", "texto": "Fiebre y escalofríos." },
+        { "id": "b", "texto": "Mejora súbita de la tensión arterial y bradicardia." },
+        { "id": "c", "texto": "Disnea, dolor torácico o lumbar." },
+        { "id": "d", "texto": "Urticaria, prurito o angioedema." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 10,
-      "texto": "Si Roberto (Opción 3 de evolución) es diagnosticado de muerte encefálica y se considera para donación de órganos, ¿cuál es un cuidado prioritario de enfermería para el mantenimiento del donante?",
+      "texto": "El antecedente de Elena de tomar AINEs de forma crónica es relevante en este caso porque (conocimiento general aplicado):",
       "opciones": [
-        { "id": "a", "texto": "Suspender toda la medicación y fluidoterapia para no interferir con los órganos." },
-        { "id": "b", "texto": "Limitar la comunicación con la familia para no generar falsas esperanzas." },
-        { "id": "c", "texto": "Retirar la ventilación mecánica para confirmar el cese de funciones." },
-        { "id": "d", "texto": "Mantener estabilidad hemodinámica, adecuada oxigenación y control de la temperatura." }
+        { "id": "a", "texto": "Los AINEs suelen causar hipertensión arterial." },
+        { "id": "b", "texto": "Los AINEs son potentes anticoagulantes." },
+        { "id": "c", "texto": "Los AINEs mejoran la cicatrización de las úlceras pépticas." },
+        { "id": "d", "texto": "Los AINEs pueden producir daño en la mucosa gástrica y aumentar el riesgo de HDA." }
       ],
       "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 11,
-      "texto": "La hematuria macroscópica observada en Roberto al colocar la sonda vesical en urgencias, en un contexto de politrauma con fractura de pelvis, es MÁS sugestiva de:",
+      "texto": "La monitorización de la diuresis horaria en Elena es un indicador importante de (Tema 3 y 15):",
       "opciones": [
-        { "id": "a", "texto": "Lesión renal o de la vía urinaria." },
-        { "id": "b", "texto": "Infección urinaria preexistente." },
-        { "id": "c", "texto": "Efecto secundario de la fluidoterapia inicial." },
-        { "id": "d", "texto": "Deshidratación severa." }
+        { "id": "a", "texto": "El estado de hidratación y la perfusión renal." },
+        { "id": "b", "texto": "La función hepática exclusivamente." },
+        { "id": "c", "texto": "El nivel de glucosa en sangre." },
+        { "id": "d", "texto": "El riesgo de desarrollar una infección urinaria." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 12,
-      "texto": "La administración de Noradrenalina a Roberto se realiza para:",
+      "texto": "Si se requiere la administración rápida de hemoderivados, ¿qué dispositivo se podría utilizar según el Tema 15 para acelerar la infusión?",
       "opciones": [
-        { "id": "a", "texto": "Disminuir la frecuencia cardíaca." },
-        { "id": "b", "texto": "Aumentar la tensión arterial mediante vasoconstricción periférica." },
-        { "id": "c", "texto": "Inducir sedación profunda." },
-        { "id": "d", "texto": "Producir broncodilatación." }
+        { "id": "a", "texto": "Una bomba de jeringa de bajo flujo." },
+        { "id": "b", "texto": "Un manguito de presión alrededor de la bolsa de sangre (presurizador)." },
+        { "id": "c", "texto": "Un calentador de fluidos simple." },
+        { "id": "d", "texto": "Un sistema de goteo con microgotero." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 13,
-      "texto": "Para la secuencia de intubación rápida de Roberto, se utiliza Rocuronio. ¿Cuál es su principal mecanismo de acción?",
+      "texto": "La preparación para una EDA urgente en un paciente con HDA como Elena incluiría, por parte de enfermería (Tema 3):",
       "opciones": [
-        { "id": "a", "texto": "Inductor hipnótico de acción corta." },
-        { "id": "b", "texto": "Analgésico opioide potente." },
-        { "id": "c", "texto": "Estimulante del centro respiratorio." },
-        { "id": "d", "texto": "Bloqueante neuromuscular no despolarizante." }
+        { "id": "a", "texto": "Administrar una dieta líquida justo antes del procedimiento." },
+        { "id": "b", "texto": "Retirar la sonda nasogástrica obligatoriamente." },
+        { "id": "c", "texto": "Asegurar que la paciente esté en ayunas (si es posible y la urgencia lo permite), verificar consentimientos y preparar material para posible sedación/monitorización." },
+        { "id": "d", "texto": "Administrar anticoagulantes para prevenir trombos durante la endoscopia." }
       ],
-      "respuestaCorrecta": "d"
+      "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 14,
-      "texto": "La colocación de una traqueostomía en Roberto se decide debido a:",
+      "texto": "La palidez, piel fría y sudorosa, y el relleno capilar >3 segundos en Elena son signos de (Tema 15):",
       "opciones": [
-        { "id": "a", "texto": "Ventilación mecánica prolongada y dificultad en el destete del tubo orotraqueal." },
-        { "id": "b", "texto": "Necesidad de administrar nutrición enteral directamente a la tráquea." },
-        { "id": "c", "texto": "Preferencia del paciente para mayor comodidad." },
-        { "id": "d", "texto": "Prevención de la NAV como primera medida." }
+        { "id": "a", "texto": "Vasoconstricción periférica y mala perfusión tisular, característicos del shock." },
+        { "id": "b", "texto": "Respuesta inflamatoria sistémica con fiebre." },
+        { "id": "c", "texto": "Hipertermia y vasodilatación." },
+        { "id": "d", "texto": "Una reacción alérgica cutánea." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 15,
-      "texto": "Durante la evolución de Roberto (Opción 2: PCR en FV), ¿cuál sería la dosis inicial de Adrenalina recomendada según las guías de SVA?",
+      "texto": "Al considerar un Catéter Venoso Central (CVC) para Elena, una de las indicaciones sería (Tema 4):",
       "opciones": [
-        { "id": "a", "texto": "0.1 mg IV cada 10 minutos." },
-        { "id": "b", "texto": "3 mg IV dosis única." },
-        { "id": "c", "texto": "1 mg IV cada 3-5 minutos." },
-        { "id": "d", "texto": "5 mg en perfusión continua." }
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
-      "idPregunta": 16,
-      "texto": "Al valorar el delirio en Roberto con la escala CAM-ICU, ¿cuál de estas características NO forma parte de la evaluación directa de dicha escala?",
-      "opciones": [
-        { "id": "a", "texto": "Alteración aguda del estado mental o curso fluctuante." },
-        { "id": "b", "texto": "Inatención." },
-        { "id": "c", "texto": "Pensamiento desorganizado o nivel de conciencia alterado (diferente de alerta)." },
-        { "id": "d", "texto": "Nivel de agitación según la escala RASS." }
+        { "id": "a", "texto": "Administración de sueroterapia de mantenimiento a bajo flujo." },
+        { "id": "b", "texto": "Extracción de una única muestra de sangre para hemograma." },
+        { "id": "c", "texto": "Monitorización no invasiva de la tensión arterial." },
+        { "id": "d", "texto": "Necesidad de infusión de fármacos vasoactivos, nutrición parenteral o múltiples infusiones incompatibles por vía periférica." }
       ],
       "respuestaCorrecta": "d"
     },
     {
-      "idPregunta": 17,
-      "texto": "En la gasometría arterial de Roberto tras la IOT (PAFI 180 mmHg, acidosis metabólica), la PAFI se calcula como:",
+      "idPregunta": 16,
+      "texto": "El término \"melenas\" describe (Tema 15):",
       "opciones": [
-        { "id": "a", "texto": "PaO2 / FiO2." },
-        { "id": "b", "texto": "PaCO2 / FiO2." },
-        { "id": "c", "texto": "Presión Arterial Media / FiO2." },
-        { "id": "d", "texto": "pH / FiO2." }
+        { "id": "a", "texto": "Heces con sangre roja fresca." },
+        { "id": "b", "texto": "Deposiciones negras, brillantes y malolientes por sangre digerida." },
+        { "id": "c", "texto": "Vómitos con sangre digerida (posos de café)." },
+        { "id": "d", "texto": "Presencia de sangre oculta en heces no visible macroscópicamente." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Si Elena desarrollara una reacción transfusional febril no hemolítica durante la administración de un concentrado de hematíes, la primera acción de enfermería sería (Tema 15):",
+      "opciones": [
+        { "id": "a", "texto": "Aumentar la velocidad de infusión para terminarla antes." },
+        { "id": "b", "texto": "Administrar un antipirético y continuar la transfusión." },
+        { "id": "c", "texto": "Cambiar la bolsa de sangre por otra del mismo grupo." },
+        { "id": "d", "texto": "Detener la transfusión inmediatamente y avisar al médico." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La monitorización ECG continua en Elena es importante en el contexto de shock hipovolémico porque:",
+      "opciones": [
+        { "id": "a", "texto": "Permite diagnosticar la causa exacta de la HDA." },
+        { "id": "b", "texto": "Es el mejor método para evaluar la respuesta a la fluidoterapia." },
+        { "id": "c", "texto": "La hipovolemia severa y la hipoxia pueden precipitar arritmias cardíacas." },
+        { "id": "d", "texto": "Indica directamente los niveles de hemoglobina." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "El objetivo de mantener una TAM (Tensión Arterial Media) > 65 mmHg en un paciente en shock es (Tema 6 y 15):",
+      "opciones": [
+        { "id": "a", "texto": "Asegurar una perfusión adecuada a los órganos vitales." },
+        { "id": "b", "texto": "Prevenir la hipertensión de rebote." },
+        { "id": "c", "texto": "Disminuir la frecuencia cardíaca por barorreflejo." },
+        { "id": "d", "texto": "Facilitar la coagulación en el punto de sangrado." }
       ],
       "respuestaCorrecta": "a"
     },
     {
-      "idPregunta": 18,
-      "texto": "Si Roberto hubiese sufrido un traumatismo torácico con neumotórax a tensión, ¿cuál sería el tratamiento de emergencia inmediato?",
-      "opciones": [
-        { "id": "a", "texto": "Colocación de un tubo de tórax en el 5º espacio intercostal." },
-        { "id": "b", "texto": "Descompresión inmediata con aguja en el 2º espacio intercostal, línea medioclavicular." },
-        { "id": "c", "texto": "Administración de analgésicos potentes." },
-        { "id": "d", "texto": "Ventilación con PEEP elevada." }
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
-      "idPregunta": 19,
-      "texto": "La decisión de iniciar nutrición enteral precoz en Roberto por SNG se basa en:",
-      "opciones": [
-        { "id": "a", "texto": "La preferencia del paciente por esta vía." },
-        { "id": "b", "texto": "Mantener la integridad de la barrera intestinal, modular la respuesta inflamatoria y cubrir los requerimientos nutricionales." },
-        { "id": "c", "texto": "La necesidad de mantener el estómago ocupado para prevenir úlceras." },
-        { "id": "d", "texto": "Ser la vía más económica y fácil de administrar exclusivamente." }
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
       "idPregunta": 20,
-      "texto": "La monitorización de la Presión Venosa Central (PVC) en Roberto proporciona información principalmente sobre:",
+      "texto": "Los cuidados de una vía venosa periférica de grueso calibre en Elena incluyen (Tema 4):",
       "opciones": [
-        { "id": "a", "texto": "La presión de perfusión cerebral." },
-        { "id": "b", "texto": "La presión arterial media sistémica." },
-        { "id": "c", "texto": "El estado de la volemia y la función del ventrículo derecho (precarga del VD)." },
-        { "id": "d", "texto": "El riesgo de arritmias ventriculares." }
+        { "id": "a", "texto": "Cambiar el catéter cada 12 horas para prevenir infecciones." },
+        { "id": "b", "texto": "Utilizarla exclusivamente para la extracción de sangre." },
+        { "id": "c", "texto": "Vigilar el punto de punción en busca de signos de flebitis o extravasación, y mantener la permeabilidad." },
+        { "id": "d", "texto": "Aplicar presión continua sobre el punto de inserción." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 21,
-      "texto": "La fractura de pelvis inestable que presenta Roberto conlleva un alto riesgo de:",
+      "texto": "La somnolencia y desorientación de Elena al ingreso son probablemente debidas a:",
       "opciones": [
-        { "id": "a", "texto": "Neumonía nosocomial." },
-        { "id": "b", "texto": "Desarrollo de diabetes insípida." },
-        { "id": "c", "texto": "Hemorragia masiva retroperitoneal y pélvica." },
-        { "id": "d", "texto": "Obstrucción de la vía aérea superior." }
+        { "id": "a", "texto": "Un efecto secundario del Naproxeno." },
+        { "id": "b", "texto": "Una hipoglucemia por su diabetes." },
+        { "id": "c", "texto": "El inicio de una infección nosocomial." },
+        { "id": "d", "texto": "Hipoperfusión cerebral secundaria al shock hipovolémico." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 22,
-      "texto": "Durante el manejo del shock séptico de Roberto, se mide el lactato sérico. Un valor elevado (4 mmol/L) indica:",
+      "texto": "La transfusión de sangre de grupo 0- a Elena antes de conocer su grupo se considera:",
       "opciones": [
-        { "id": "a", "texto": "Hipoperfusión tisular y aumento del metabolismo anaeróbico." },
-        { "id": "b", "texto": "Buena perfusión tisular y metabolismo aeróbico." },
-        { "id": "c", "texto": "Alcalosis metabólica severa." },
-        { "id": "d", "texto": "Función hepática óptima." }
+        { "id": "a", "texto": "Aceptable en situaciones de emergencia vital, ya que el grupo 0- es donante universal para concentrados de hematíes." },
+        { "id": "b", "texto": "Una práctica incorrecta, siempre se debe esperar al grupo confirmado." },
+        { "id": "c", "texto": "Solo permitida si la paciente es Rh positiva." },
+        { "id": "d", "texto": "Una medida para aumentar la hemoglobina más rápidamente que con sangre isogrupo." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 23,
-      "texto": "El uso de Propofol para la sedación de Roberto se caracteriza por:",
+      "texto": "El manejo de una HDA activa en UCI, además de la EDA y el tratamiento farmacológico, implica (Tema 3 y 15):",
       "opciones": [
-        { "id": "a", "texto": "Un inicio de acción lento y larga duración." },
-        { "id": "b", "texto": "Rápido inicio de acción y corta duración, permitiendo despertares rápidos." },
-        { "id": "c", "texto": "Potente efecto analgésico intrínseco." },
-        { "id": "d", "texto": "Ausencia de efectos hemodinámicos." }
+        { "id": "a", "texto": "Administración de dieta oral precoz para proteger la mucosa." },
+        { "id": "b", "texto": "Monitorización continua de signos vitales, balance hídrico estricto y vigilancia de resangrado." },
+        { "id": "c", "texto": "Movilización frecuente fuera de la cama para prevenir trombosis." },
+        { "id": "d", "texto": "Suspender toda la medicación antihipertensiva de base." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 24,
-      "texto": "La administración de Plasma Fresco Congelado (PFC) a Roberto durante la cirugía y el protocolo de transfusión masiva tiene como objetivo principal:",
+      "texto": "Si Elena necesitara una transfusión masiva, ¿cuál sería una posible complicación metabólica a vigilar relacionada con la sangre conservada (Tema 15)?",
       "opciones": [
-        { "id": "a", "texto": "Aumentar el transporte de oxígeno." },
-        { "id": "b", "texto": "Expandir el volumen intravascular con un coloide." },
-        { "id": "c", "texto": "Reponer factores de coagulación y controlar la coagulopatía." },
-        { "id": "d", "texto": "Prevenir infecciones." }
+        { "id": "a", "texto": "Hiperglucemia." },
+        { "id": "b", "texto": "Alcalosis metabólica severa." },
+        { "id": "c", "texto": "Hipopotasemia y acidosis respiratoria." },
+        { "id": "d", "texto": "Hipocalcemia (por el citrato de las bolsas) e Hiperpotasemia (por lisis de hematíes)." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 25,
-      "texto": "La capnografía, utilizada en la monitorización de Roberto mientras está intubado, mide:",
+      "texto": "El tiempo máximo recomendado para la infusión de una unidad de concentrados de hematíes desde que sale del banco de sangre es de (Tema 15):",
       "opciones": [
-        { "id": "a", "texto": "La saturación de oxígeno en sangre arterial (SpO2)." },
-        { "id": "b", "texto": "El volumen tidal espirado." },
-        { "id": "c", "texto": "La presión parcial de CO2 al final de la espiración (EtCO2)." },
-        { "id": "d", "texto": "La presión en la vía aérea." }
+        { "id": "a", "texto": "30 minutos." },
+        { "id": "b", "texto": "1 hora." },
+        { "id": "c", "texto": "8 horas." },
+        { "id": "d", "texto": "4 horas." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 26,
-      "texto": "En la evolución de Roberto (Opción 3), si se sospecha muerte encefálica, ¿qué reflejo del tronco encefálico se exploraría como parte del diagnóstico?",
+      "texto": "La decisión de ingresar a Elena en UCI tras la estabilización inicial en urgencias se basa en (Tema 1):",
       "opciones": [
-        { "id": "a", "texto": "Reflejo corneal y fotomotor." },
-        { "id": "b", "texto": "Reflejo rotuliano." },
-        { "id": "c", "texto": "Reflejo de Babinski." },
-        { "id": "d", "texto": "Reflejo de prensión palmar." }
+        { "id": "a", "texto": "La necesidad de monitorización continua, riesgo de resangrado y posible necesidad de soporte vital avanzado." },
+        { "id": "b", "texto": "La edad avanzada de la paciente." },
+        { "id": "c", "texto": "La falta de camas en la planta de hospitalización." },
+        { "id": "d", "texto": "La preparación para una cirugía programada al día siguiente." }
       ],
       "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 27,
-      "texto": "El collarín cervical se coloca a Roberto en la atención prehospitalaria debido a:",
+      "texto": "El aspirado en \"posos de café\" a través de la SNG indica:",
       "opciones": [
-        { "id": "a", "texto": "La presencia de trauma facial." },
-        { "id": "b", "texto": "La necesidad de facilitar la intubación." },
-        { "id": "c", "texto": "La queja de dolor en el cuello por parte del paciente." },
-        { "id": "d", "texto": "La sospecha de lesión cervical por el mecanismo de alta energía del accidente." }
+        { "id": "a", "texto": "Sangrado arterial activo y masivo en esófago." },
+        { "id": "b", "texto": "Presencia de bilis y contenido intestinal alto." },
+        { "id": "c", "texto": "Obstrucción intestinal completa." },
+        { "id": "d", "texto": "Sangre digerida, lo que sugiere que el sangrado ha estado presente durante algún tiempo o es de baja intensidad pero persistente." }
       ],
       "respuestaCorrecta": "d"
     },
     {
       "idPregunta": 28,
-      "texto": "La valoración del dolor en Roberto mientras está sedado y ventilado se realiza con la escala BPS. ¿Qué evalúa esta escala?",
+      "texto": "La taquicardia (FC 118 lpm) en Elena al ingreso es un mecanismo compensatorio para:",
       "opciones": [
-        { "id": "a", "texto": "La respuesta verbal del paciente al dolor." },
-        { "id": "b", "texto": "Comportamientos observables como expresión facial, movimientos de miembros superiores y adaptación a la ventilación mecánica." },
-        { "id": "c", "texto": "La frecuencia cardíaca y la tensión arterial." },
-        { "id": "d", "texto": "El nivel de sedación según la escala RASS." }
+        { "id": "a", "texto": "Disminuir la presión arterial." },
+        { "id": "b", "texto": "Reducir el consumo de oxígeno del miocardio." },
+        { "id": "c", "texto": "Intentar mantener el gasto cardíaco a pesar de la hipovolemia." },
+        { "id": "d", "texto": "Facilitar la digestión de la sangre en el estómago." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 29,
-      "texto": "La administración de Remifentanilo en perfusión continua a Roberto tiene como objetivo principal proporcionar:",
+      "texto": "Si la HDA de Elena fuera causada por varices esofágicas (no es el caso aquí, pero por conocimiento del Tema 15), ¿qué fármaco específico podría considerarse además del IBP?",
       "opciones": [
-        { "id": "a", "texto": "Analgesia potente de corta duración." },
-        { "id": "b", "texto": "Relajación muscular profunda." },
-        { "id": "c", "texto": "Efecto antiemético." },
-        { "id": "d", "texto": "Protección gástrica." }
+        { "id": "a", "texto": "Furosemida para reducir la presión portal." },
+        { "id": "b", "texto": "Adrenalina en perfusión para vasoconstricción generalizada." },
+        { "id": "c", "texto": "Terlipresina o Somatostatina (o análogos como Octreotide) para reducir el flujo esplácnico." },
+        { "id": "d", "texto": "Heparina para prevenir la trombosis de las varices." }
       ],
-      "respuestaCorrecta": "a"
+      "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 30,
-      "texto": "Si durante la estancia en UCI, Roberto necesitara una cardioversión eléctrica por una taquiarritmia inestable, ¿qué precaución sería fundamental por parte de enfermería?",
+      "texto": "Un cuidado de enfermería al retirar la SNG, una vez resuelta la HDA y si ya no fuera necesaria, incluiría (Tema 3):",
       "opciones": [
-        { "id": "a", "texto": "Asegurar que el paciente esté completamente despierto y colaborador." },
-        { "id": "b", "texto": "Aplicar las palas directamente sobre la piel seca sin gel conductor." },
-        { "id": "c", "texto": "Realizar la descarga con el máximo nivel de energía posible desde el inicio." },
-        { "id": "d", "texto": "Sincronizar la descarga con la onda R del ECG del paciente." }
+        { "id": "a", "texto": "Explicar el procedimiento al paciente (si está consciente), desinflar el balón si lo tuviera (no aplica a SNG estándar), pedirle que inspire profundamente y espire lentamente mientras se retira suavemente." },
+        { "id": "b", "texto": "Pinzar la sonda y tirar rápidamente sin más consideraciones." },
+        { "id": "c", "texto": "Administrar un antiemético potente justo antes de la retirada." },
+        { "id": "d", "texto": "Cortar la sonda a nivel de la nariz y dejar el resto para reabsorción." }
       ],
-      "respuestaCorrecta": "d"
+      "respuestaCorrecta": "a"
     }
   ]
 }

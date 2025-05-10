@@ -1,338 +1,338 @@
 {
-  "idExamen": "cc_descomp_resp_01",
-  "idTema": "casos_clinicos",
-  "nombreExamen": "Descompensación Respiratoria Aguda",
-  "descripcionCaso": "<p><strong>Caso Clínico Nº1: \"Descompensación Respiratoria Aguda\"</strong></p><p><strong>Situación Inicial:</strong></p><p>Un varón de 68 años, con antecedentes de Hipertensión Arterial (HTA) en tratamiento, Diabetes Mellitus tipo 2 y Enfermedad Pulmonar Obstructiva Crónica (EPOC) leve-moderada (última espirometría FEV1 65%), acude al servicio de Urgencias hospitalarias traído por su familia por un cuadro de 3 días de evolución de aumento de su disnea habitual, tos con expectoración verdosa abundante y fiebre de hasta 38.8°C. No refiere dolor torácico.</p><p><strong>Valoración en Urgencias:</strong></p><p>A su llegada, el paciente se encuentra consciente pero desorientado en tiempo, agitado y con evidente trabajo respiratorio.</p><p><em>Constantes Vitales:</em><br>Tensión Arterial (TA) 95/55 mmHg<br>Frecuencia Cardíaca (FC) 120 lpm<br>Frecuencia Respiratoria (FR) 34 rpm<br>Temperatura (Tª) 38.5°C<br>Saturación de oxígeno (SpO2) 84% con mascarilla facial con reservorio a 15 L/min.</p><p><em>Exploración Física:</em><br>Tiraje supraclavicular e intercostal.<br>A la auscultación pulmonar se aprecian roncus y sibilantes diseminados en ambos campos pulmonares, con hipoventilación en bases.<br>Piel pálida, caliente y algo sudorosa.<br>Relleno capilar de 3 segundos.</p><p><strong>Pruebas Complementarias Iniciales:</strong></p><p><em>ECG:</em> Taquicardia sinusal a 120 lpm, sin signos agudos de isquemia.</p><p><em>Radiografía de tórax:</em> Infiltrados alveolares parcheados bilaterales, más predominantes en lóbulo inferior derecho, compatibles con proceso infeccioso. Signos de hiperinsuflación pulmonar.</p><p><em>Gasometría Arterial (con O2 por mascarilla con reservorio):</em> pH 7.26, PaO2 52 mmHg, PaCO2 60 mmHg, HCO3- 27 mEq/L, SatO2 (calculada) 85%. Lactato sérico: 3.5 mmol/L.</p><p><strong>Evolución y Traslado a UCI:</strong></p><p>Se diagnostica de Exacerbación Aguda de EPOC (AEGOP) de origen infeccioso (neumonía nosocomial probable por ingresos previos) con Insuficiencia Respiratoria Aguda Global (Hipercápnica e Hipoxémica) y acidosis respiratoria no compensada.</p><p>Se inicia tratamiento con broncodilatadores nebulizados, antibioterapia intravenosa de amplio espectro y se intenta Ventilación Mecánica No Invasiva (VMNI) con BiPAP (IPAP 15 cmH2O, EPAP 5 cmH2O), pero el paciente presenta mala adaptación, agitación persistente (RASS +2) y no mejora la SpO2 ni el trabajo respiratorio. El nivel de conciencia disminuye progresivamente (Glasgow 10: O3 V3 M4).</p><p>Ante el fracaso de la VMNI y el deterioro clínico progresivo (PAFI < 100 mmHg), se decide intubación orotraqueal (IOT) y conexión a Ventilación Mecánica Invasiva (VMI). Se realiza secuencia de intubación rápida. Tras la IOT, se traslada al Servicio de Cuidados Intensivos (UCI).</p><p><strong>Estancia Inicial en UCI:</strong></p><p>En UCI, se conecta a VMI en modo controlado por volumen (CMV-VC), FiO2 0.8, PEEP 10 cmH2O. Se inicia sedoanalgesia continua con Propofol y Remifentanilo para adaptación al ventilador.</p><p>Se canaliza catéter venoso central (CVC) en vena subclavia derecha y catéter arterial en arteria radial izquierda para monitorización invasiva de TA y extracción de gasometrías.</p><p>Se coloca sonda nasogástrica (SNG) y sonda vesical (SV) para control de diuresis.</p><p><em>Monitorización:</em><br>BIS entre 40-60.<br>Monitor de constantes: FC 115 lpm, TA invasiva 90/50 mmHg (TAM 63 mmHg), SpO2 90%, EtCO2 45 mmHg.<br>PVC: 4 mmHg.<br>Diuresis en las primeras 2 horas: 40 ml.</p><p>A pesar de los ajustes ventilatorios y el soporte, el paciente persiste con hipoxemia severa (PaO2/FiO2 de 90 mmHg) y la hipotensión requiere el inicio de perfusión de Noradrenalina para mantener TAM > 65 mmHg. Se sospecha desarrollo de shock séptico y SDRA severo.</p>",
+  "idExamen": "caso01_IRAG_VM_01",
+ "idTema": "casos_clinicos",
+  "nombreExamen": "Caso 1: Insuficiencia Respiratoria Aguda Grave y Ventilación Mecánica",
+  "descripcionCaso": "<p><strong>Caso Clínico: Manejo de Insuficiencia Respiratoria Aguda Grave</strong></p><p><strong>Paciente:</strong> Antonio López, 58 años.</p><p><strong>Antecedentes:</strong> EPOC tipo bronquitis crónica, exfumador desde hace 5 años (consumo acumulado de 40 paquetes/año), HTA leve en tratamiento con Enalapril.</p><p><strong>Situación:</strong> Antonio ingresa en la UCI procedente del servicio de Urgencias debido a una insuficiencia respiratoria aguda grave (IRAG) secundaria a una neumonía bilateral extensa adquirida en la comunidad (NAC). En Urgencias, debido a hipoxemia refractaria (PaO2/FiO2 &lt; 150 mmHg), taquipnea de 40 rpm y trabajo respiratorio severo con agotamiento muscular, se procedió a intubación orotraqueal (TET nº8 fijado a 22 cm en comisura labial) y conexión a Ventilación Mecánica Invasiva (VMI).</p><p><strong>Al Ingreso en UCI:</strong></p><ul><li>Estado General: Bajo efectos de sedoanalgesia, GCS 3T.</li><li>Constantes Vitales: TA 100/60 mmHg (con perfusión de Noradrenalina a 0.05 mcg/kg/min), FC 110 lpm (ritmo sinusal), Temperatura axilar 38.5°C, SpO2 90%.</li><li>Ventilación Mecánica: Modo Asisto-Controlado por Volumen (A/C-VC); Volumen Tidal (VT) 420ml (calculado para 6 ml/kg de peso ideal estimado de 70kg); Frecuencia Respiratoria (FR) 18 rpm; PEEP 10 cmH2O; FiO2 0.6.</li><li>Gasometría Arterial (con FiO2 0.6): pH 7.25, PaCO2 50 mmHg, PaO2 70 mmHg, HCO3 20 mEq/L. (PAFI = 70 / 0.6 ≈ 116 mmHg).</li></ul><p><strong>Manejo Inicial en UCI:</strong> Se ajusta sedoanalgesia con Propofol (2 mg/kg/h) y Remifentanilo (0.1 mcg/kg/min) buscando un RASS de -4. Se toman hemocultivos y aspirado traqueal para estudio microbiológico. Se inicia antibioterapia empírica de amplio espectro. Se realizan cuidados exhaustivos del paciente intubado y ventilado, incluyendo control de la presión del neumotaponamiento del TET. Se confirma diagnóstico de Síndrome de Distrés Respiratorio Agudo (SDRA) moderado según criterios de Berlín. El equipo valora la posibilidad de iniciar ventilación en posición prono si no hay mejoría en la oxigenación.</p>",
   "preguntas": [
     {
       "idPregunta": 1,
-      "texto": "Según los datos de la valoración en Urgencias, ¿cuál es la alteración ácido-base primaria que presenta el paciente en la gasometría arterial?",
+      "texto": "La principal indicación para la intubación orotraqueal (IOT) de Antonio en Urgencias fue:",
       "opciones": [
-        {"id": "a", "texto": "Alcalosis respiratoria compensada."},
-        {"id": "b", "texto": "Acidosis metabólica no compensada."},
-        {"id": "c", "texto": "Acidosis respiratoria no compensada."},
-        {"id": "d", "texto": "Alcalosis metabólica con compensación respiratoria."}
+        { "id": "a", "texto": "Facilitar la administración de antibióticos." },
+        { "id": "b", "texto": "La presencia de fiebre alta (38.5°C)." },
+        { "id": "c", "texto": "Hipoxemia refractaria, agotamiento muscular y trabajo respiratorio severo." },
+        { "id": "d", "texto": "Su antecedente de EPOC." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 2,
-      "texto": "La SpO2 del paciente al ingreso es del 84% con mascarilla con reservorio a 15 L/min. Esto indica:",
+      "texto": "Según el Tema 7, ¿cuál es el rango de presión recomendado para el neumotaponamiento (balón) del tubo endotraqueal (TET) para prevenir la isquemia traqueal y la microaspiración?",
       "opciones": [
-        {"id": "a", "texto": "Una oxigenación adecuada para su patología de base."},
-        {"id": "b", "texto": "Hipoxemia severa a pesar de un alto flujo de oxígeno suplementario."},
-        {"id": "c", "texto": "Un posible error en la medición del pulsioxímetro."},
-        {"id": "d", "texto": "Necesidad de disminuir el flujo de oxígeno para evitar toxicidad."}
+        { "id": "a", "texto": "5-10 cmH2O." },
+        { "id": "b", "texto": "10-15 cmH2O." },
+        { "id": "c", "texto": "40-50 cmH2O." },
+        { "id": "d", "texto": "20-30 cmH2O." }
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "El modo ventilatorio Asisto-Controlado por Volumen (A/C-VC) al que está conectado Antonio implica que (Tema 9):",
+      "opciones": [
+        { "id": "a", "texto": "El paciente controla totalmente la frecuencia y el volumen de cada respiración." },
+        { "id": "b", "texto": "El ventilador entrega un volumen tidal preestablecido tanto en las respiraciones iniciadas por el paciente como en las controladas por tiempo." },
+        { "id": "c", "texto": "Solo se entrega soporte de presión cuando el paciente inicia el esfuerzo inspiratorio." },
+        { "id": "d", "texto": "Se mantiene una presión positiva continua sin entregar volúmenes específicos." }
       ],
       "respuestaCorrecta": "b"
     },
     {
-      "idPregunta": 3,
-      "texto": "El diagnóstico de Insuficiencia Respiratoria Aguda Global se establece porque el paciente presenta:",
-      "opciones": [
-        {"id": "a", "texto": "Únicamente hipoxemia (PaO2 baja)."},
-        {"id": "b", "texto": "Únicamente hipercapnia (PaCO2 alta)."},
-        {"id": "c", "texto": "Hipoxemia (PaO2 52 mmHg) e hipercapnia (PaCO2 60 mmHg) simultáneamente."},
-        {"id": "d", "texto": "Un pH arterial normal con alteraciones en los gases."}
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
       "idPregunta": 4,
-      "texto": "La mala adaptación a la VMNI con BiPAP (IPAP 15, EPAP 5) y la agitación (RASS +2) en este paciente, ¿qué implicación tiene según el Tema 9 (VMNI)?",
+      "texto": "El cálculo del Volumen Tidal (VT) a 6 ml/kg de peso ideal en Antonio es una estrategia de (Tema 9):",
       "opciones": [
-        {"id": "a", "texto": "Es una respuesta esperada y se debe insistir con los mismos parámetros."},
-        {"id": "b", "texto": "La intolerancia a la mascarilla y la agitación son factores que pueden llevar al fracaso de la VMNI y considerar IOT."},
-        {"id": "c", "texto": "Se debe aumentar la IPAP a 25 cmH2O para mejorar la adaptación."},
-        {"id": "d", "texto": "Indica que el paciente no necesita soporte ventilatorio."}
+        { "id": "a", "texto": "Ventilación para máximo reclutamiento alveolar." },
+        { "id": "b", "texto": "Ventilación protectora para minimizar la lesión pulmonar inducida por la ventilación (VILI)." },
+        { "id": "c", "texto": "Destete rápido de la ventilación mecánica." },
+        { "id": "d", "texto": "Hiperventilación controlada para reducir la PaCO2." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 5,
-      "texto": "Se decide IOT ante el 'deterioro clínico progresivo (PAFI < 100 mmHg)'. ¿Qué significa un PAFI (PaO2/FiO2) menor de 100 mmHg en un paciente ventilado?",
+      "texto": "La PEEP (Presión Positiva al Final de la Espiración) de 10 cmH2O en Antonio tiene como objetivo principal (Tema 9):",
       "opciones": [
-        {"id": "a", "texto": "Lesión pulmonar leve o riesgo de lesión."},
-        {"id": "b", "texto": "Oxigenación normal para un paciente crítico."},
-        {"id": "c", "texto": "SDRA leve."},
-        {"id": "d", "texto": "SDRA severo (según la definición de Berlín, <100 mmHg con PEEP >=5 cmH2O)."}
+        { "id": "a", "texto": "Disminuir el trabajo cardíaco." },
+        { "id": "b", "texto": "Aumentar la PaCO2 para estimular el centro respiratorio." },
+        { "id": "c", "texto": "Prevenir el colapso alveolar al final de la espiración y mejorar la oxigenación." },
+        { "id": "d", "texto": "Facilitar la aspiración de secreciones." }
       ],
-      "respuestaCorrecta": "d"
+      "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 6,
-      "texto": "En la UCI, se inicia sedoanalgesia con Propofol y Remifentanilo. ¿Cuál es el objetivo principal de la sedoanalgesia en un paciente con VMI y SDRA severo?",
+      "texto": "El valor de PAFI (PaO2/FiO2) de Antonio al ingreso en UCI es aproximadamente 116 mmHg. Según los criterios de Berlín para el SDRA (mencionado en la sección final del Tema 4), esto clasificaría su SDRA como:",
       "opciones": [
-        {"id": "a", "texto": "Mantener al paciente despierto y colaborador."},
-        {"id": "b", "texto": "Facilitar la adaptación al ventilador, disminuir el consumo de oxígeno, reducir la ansiedad y el dolor, y permitir maniobras terapéuticas."},
-        {"id": "c", "texto": "Inducir un coma profundo para proteger el cerebro."},
-        {"id": "d", "texto": "Prevenir exclusivamente el delirio en UCI."}
+        { "id": "a", "texto": "Leve (PAFI entre 201-300 mmHg)." },
+        { "id": "b", "texto": "Moderado (PAFI entre 101-200 mmHg)." },
+        { "id": "c", "texto": "Grave (PAFI ≤ 100 mmHg)." },
+        { "id": "d", "texto": "Ausencia de SDRA (PAFI > 300 mmHg)." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 7,
-      "texto": "La monitorización con BIS entre 40-60 en UCI para este paciente indica:",
+      "texto": "La ventilación en posición prono se considera en pacientes con SDRA moderado-severo porque (Tema 4, sección final):",
       "opciones": [
-        {"id": "a", "texto": "Paciente despierto y alerta."},
-        {"id": "b", "texto": "Sedación ligera, con riesgo de agitación."},
-        {"id": "c", "texto": "Un nivel de sedación adecuado para anestesia general o sedación profunda en UCI, compatible con la adaptación a VMI."},
-        {"id": "d", "texto": "Supresión completa del EEG, indicando un coma muy profundo."}
+        { "id": "a", "texto": "Reduce la necesidad de sedación." },
+        { "id": "b", "texto": "Disminuye el riesgo de neumonía asociada a la ventilación (NAVM)." },
+        { "id": "c", "texto": "Mejora la relación ventilación-perfusión (V/Q) y el reclutamiento de áreas pulmonares dorsales." },
+        { "id": "d", "texto": "Permite una extubación más temprana." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 8,
-      "texto": "Se canaliza un CVC en vena subclavia derecha. ¿Cuál es una ventaja de la vía subclavia para CVC según el Tema 4 (Accesos Vasculares)?",
+      "texto": "El objetivo de RASS -4 para la sedoanalgesia de Antonio con Propofol y Remifentanilo indica (Tema 5):",
       "opciones": [
-        {"id": "a", "texto": "Mayor riesgo de infección comparado con la femoral."},
-        {"id": "b", "texto": "Menor riesgo de complicaciones mecánicas como el neumotórax."},
-        {"id": "c", "texto": "Menor riesgo de infección y mayor comodidad para el enfermo."},
-        {"id": "d", "texto": "Es la vía de elección si se sospecha trombosis en miembros superiores."}
+        { "id": "a", "texto": "Paciente alerta y tranquilo." },
+        { "id": "b", "texto": "Sedación ligera, despierta con la voz." },
+        { "id": "c", "texto": "Sedación profunda, sin respuesta a la voz pero con movimiento al estímulo físico." },
+        { "id": "d", "texto": "Paciente combativo o agitado." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 9,
-      "texto": "La monitorización de la Presión Venosa Central (PVC) a través del CVC da un valor de 4 mmHg. Este valor, en un paciente hipotenso, ¿qué podría sugerir inicialmente?",
+      "texto": "Según el Tema 5, ¿cuál es una herramienta recomendada para valorar el dolor en un paciente sedado y ventilado como Antonio, incapaz de comunicarse verbalmente?",
       "opciones": [
-        {"id": "a", "texto": "Sobrecarga hídrica severa."},
-        {"id": "b", "texto": "Una PVC en rango normal-bajo, que en un contexto de shock podría indicar hipovolemia relativa o absoluta, o vasoplejia."},
-        {"id": "c", "texto": "Taponamiento cardíaco inminente."},
-        {"id": "d", "texto": "Hipertensión pulmonar grave."}
+        { "id": "a", "texto": "Escala Visual Analógica (EVA)." },
+        { "id": "b", "texto": "Escala de Comportamientos asociados al Dolor (BPS) o CPOT." },
+        { "id": "c", "texto": "Interrogatorio directo a la familia sobre el dolor habitual del paciente." },
+        { "id": "d", "texto": "Escala de Ramsay." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 10,
-      "texto": "La diuresis del paciente en las primeras 2 horas en UCI es de 40 ml (20 ml/h). Si el paciente pesa aproximadamente 70 Kg, ¿cómo se clasificaría este ritmo de diuresis según el Tema 1 (Monitorización)?",
+      "texto": "La aspiración de secreciones en un paciente intubado (Tema 7) es un procedimiento que requiere:",
       "opciones": [
-        {"id": "a", "texto": "Poliuria, indicando buena respuesta a fluidos."},
-        {"id": "b", "texto": "Diuresis normal para un paciente crítico."},
-        {"id": "c", "texto": "Oliguria (menos de 0.5 mL/Kg/hora)."},
-        {"id": "d", "texto": "Anuria."}
+        { "id": "a", "texto": "Realizarse cada 15 minutos de forma rutinaria, independientemente de la auscultación." },
+        { "id": "b", "texto": "Instilar siempre suero salino para fluidificar las secreciones." },
+        { "id": "c", "texto": "Técnica estéril (sistema abierto) o limpia (sistema cerrado), preoxigenación y limitación del tiempo de succión." },
+        { "id": "d", "texto": "Utilizar la máxima presión de succión posible para asegurar la limpieza." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 11,
-      "texto": "La persistencia de un PAFI de 90 mmHg en UCI, a pesar de FiO2 0.8 y PEEP 10 cmH2O, es compatible con el diagnóstico de:",
+      "texto": "Una medida fundamental para prevenir la Neumonía Asociada a la Ventilación Mecánica (NAVM) en Antonio es (Tema 7):",
       "opciones": [
-        {"id": "a", "texto": "SDRA severo."},
-        {"id": "b", "texto": "Mejoría de la función pulmonar."},
-        {"id": "c", "texto": "Edema agudo de pulmón cardiogénico."},
-        {"id": "d", "texto": "Neumonía leve sin compromiso de la oxigenación."}
+        { "id": "a", "texto": "Mantener la cabecera de la cama a 0 grados." },
+        { "id": "b", "texto": "Realizar cambios frecuentes del circuito del ventilador (cada 24h)." },
+        { "id": "c", "texto": "La higiene oral con clorhexidina y la elevación de la cabecera a 30-45º." },
+        { "id": "d", "texto": "Evitar la aspiración de secreciones para no introducir gérmenes." }
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Si la ventilación mecánica de Antonio se prolongara más de 10-14 días con dificultades para el destete, ¿qué procedimiento podría considerarse según el Tema 7?",
+      "opciones": [
+        { "id": "a", "texto": "Ventilación con mascarilla facial de forma intermitente." },
+        { "id": "b", "texto": "Traqueostomía." },
+        { "id": "c", "texto": "Aumentar la sedación para mejorar la adaptación al tubo." },
+        { "id": "d", "texto": "Retirada del tubo y observación." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El uso de Propofol como sedante en Antonio (Tema 5 y 6) tiene la ventaja de:",
+      "opciones": [
+        { "id": "a", "texto": "Poseer una potente acción analgésica intrínseca." },
+        { "id": "b", "texto": "Tener un inicio de acción rápido y una vida media corta, permitiendo despertares ágiles." },
+        { "id": "c", "texto": "No producir hipotensión arterial." },
+        { "id": "d", "texto": "Ser compatible con su administración en la misma vía que el Ringer Lactato." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "El delirio es una complicación frecuente en UCI. ¿Cuál de las siguientes NO es una medida de prevención del delirio en un paciente como Antonio (Tema 5)?",
+      "opciones": [
+        { "id": "a", "texto": "Mantener una sedación lo más profunda posible durante toda la estancia." },
+        { "id": "b", "texto": "Orientación frecuente del paciente (si el nivel de sedación lo permite)." },
+        { "id": "c", "texto": "Promoción del sueño nocturno y reducción de ruidos." },
+        { "id": "d", "texto": "Movilización precoz y manejo adecuado del dolor." }
       ],
       "respuestaCorrecta": "a"
     },
     {
-      "idPregunta": 12,
-      "texto": "La hipotensión (TAM 63 mmHg, luego 85/45 mmHg) refractaria a fluidos que requiere Noradrenalina sugiere fuertemente:",
-      "opciones": [
-        {"id": "a", "texto": "Shock hipovolémico puro por deshidratación."},
-        {"id": "b", "texto": "Shock cardiogénico primario."},
-        {"id": "c", "texto": "Desarrollo de shock distributivo (vasopléjico), probablemente séptico, dado el contexto infeccioso."},
-        {"id": "d", "texto": "Una reacción adversa a la sedación."}
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
-      "idPregunta": 13,
-      "texto": "La Noradrenalina se inicia para mantener TAM > 65 mmHg. ¿Cuál es el principal efecto de la Noradrenalina que ayuda a lograr este objetivo en el shock séptico?",
-      "opciones": [
-        {"id": "a", "texto": "Potente efecto broncodilatador."},
-        {"id": "b", "texto": "Aumento de la diuresis por efecto diurético directo."},
-        {"id": "c", "texto": "Acción agonista alfa-adrenérgica predominante, causando vasoconstricción y aumento de las resistencias vasculares sistémicas."},
-        {"id": "d", "texto": "Efecto cronotrópico negativo, disminuyendo la frecuencia cardíaca."}
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
-      "idPregunta": 14,
-      "texto": "El lactato sérico elevado (3.5 mmol/L) en urgencias es un indicador de:",
-      "opciones": [
-        {"id": "a", "texto": "Buena perfusión tisular y metabolismo aeróbico."},
-        {"id": "b", "texto": "Alcalosis metabólica."},
-        {"id": "c", "texto": "Hipoperfusión tisular y metabolismo anaeróbico."},
-        {"id": "d", "texto": "Función hepática normal."}
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
       "idPregunta": 15,
-      "texto": "El uso de un catéter arterial en este paciente permite, además de la monitorización continua de TA:",
+      "texto": "Si se utilizara la escala CAM-ICU para valorar el delirio en Antonio (una vez que el nivel de sedación lo permitiera), ¿qué característica es fundamental para el diagnóstico de delirio con esta herramienta (Tema 5)?",
       "opciones": [
-        {"id": "a", "texto": "La administración de grandes volúmenes de fluidos."},
-        {"id": "b", "texto": "La medición directa de la Presión Venosa Central."},
-        {"id": "c", "texto": "La extracción frecuente y fácil de muestras de sangre arterial para gasometrías y otros análisis."},
-        {"id": "d", "texto": "La infusión de nutrición parenteral."}
+        { "id": "a", "texto": "La presencia de agitación exclusivamente." },
+        { "id": "b", "texto": "Un GCS menor de 10." },
+        { "id": "c", "texto": "La alteración aguda del estado mental o curso fluctuante Y la inatención." },
+        { "id": "d", "texto": "Antecedentes de enfermedad psiquiátrica." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 16,
-      "texto": "El modo ventilatorio CMV-VC (Ventilación Mandatoria Controlada por Volumen) implica que el ventilador entrega:",
+      "texto": "Una complicación potencial de la VMI con PEEP elevada en un paciente con EPOC y pulmones hiperinsuflados podría ser (Tema 9):",
       "opciones": [
-        {"id": "a", "texto": "Una presión inspiratoria fija, variando el volumen según la mecánica pulmonar."},
-        {"id": "b", "texto": "Un volumen tidal preestablecido en cada respiración mandatoria, independientemente de la presión generada (hasta un límite de seguridad)."},
-        {"id": "c", "texto": "Soporte solo cuando el paciente inicia el esfuerzo inspiratorio."},
-        {"id": "d", "texto": "Presión positiva continua en la vía aérea sin ciclos mandatorios."}
+        { "id": "a", "texto": "Mejora automática de la PaCO2." },
+        { "id": "b", "texto": "Barotrauma (ej. neumotórax)." },
+        { "id": "c", "texto": "Disminución del espacio muerto fisiológico." },
+        { "id": "d", "texto": "Reducción del riesgo de NAVM." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 17,
-      "texto": "La PEEP (Presión Positiva al Final de la Espiración) de 10 cmH2O en este paciente con SDRA tiene como objetivo principal:",
+      "texto": "El destete de la ventilación mecánica (Tema 9) es un proceso que se inicia cuando:",
       "opciones": [
-        {"id": "a", "texto": "Disminuir el trabajo respiratorio del paciente."},
-        {"id": "b", "texto": "Evitar el colapso alveolar al final de la espiración, mejorar el reclutamiento alveolar y la oxigenación."},
-        {"id": "c", "texto": "Aumentar la presión arterial media."},
-        {"id": "d", "texto": "Facilitar la aspiración de secreciones."}
+        { "id": "a", "texto": "El paciente lo solicita verbalmente." },
+        { "id": "b", "texto": "Se cumplen criterios de mejoría de la causa subyacente, estabilidad hemodinámica y adecuada oxigenación con bajo soporte." },
+        { "id": "c", "texto": "Han transcurrido 72 horas de VMI, independientemente del estado del paciente." },
+        { "id": "d", "texto": "La PaCO2 es inferior a 30 mmHg." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 18,
-      "texto": "La monitorización del EtCO2 (45 mmHg) en el paciente intubado es útil para valorar:",
+      "texto": "La fijación del tubo endotraqueal de Antonio a 22 cm en la comisura labial (Tema 7) debe ser:",
       "opciones": [
-        {"id": "a", "texto": "El nivel de oxigenación arterial exclusivamente."},
-        {"id": "b", "texto": "La correcta colocación del tubo endotraqueal (inicialmente) y la ventilación alveolar (tendencia de PaCO2)."},
-        {"id": "c", "texto": "La presión de perfusión cerebral."},
-        {"id": "d", "texto": "El grado de bloqueo neuromuscular."}
-      ],
-      "respuestaCorrecta": "b"
-    },
-    {
-      "idPregunta": 19,
-      "texto": "Si durante la estancia en UCI, este paciente desarrollara una neumonía asociada a la ventilación mecánica (NAVM), ¿cuál de las siguientes medidas preventivas (Tema 7) es fundamental para reducir su incidencia?",
-      "opciones": [
-        {"id": "a", "texto": "Cambio diario de los circuitos del ventilador."},
-        {"id": "b", "texto": "Mantener al paciente en posición supina estricta."},
-        {"id": "c", "texto": "Higiene bucal con clorhexidina y mantenimiento de la cabecera elevada (30-45º)."},
-        {"id": "d", "texto": "Instilación rutinaria de suero salino en el tubo endotraqueal antes de aspirar."}
+        { "id": "a", "texto": "Lo más holgada posible para permitir movimientos de la cabeza." },
+        { "id": "b", "texto": "Verificada y reajustada solo una vez al día." },
+        { "id": "c", "texto": "Segura para evitar desplazamientos o extubación accidental, y se debe alternar el punto de apoyo para prevenir úlceras." },
+        { "id": "d", "texto": "Realizada exclusivamente con esparadrapo de tela." }
       ],
       "respuestaCorrecta": "c"
     },
     {
-      "idPregunta": 20,
-      "texto": "La Escala de Glasgow del paciente en urgencias fue de 10 (O3 V3 M4). ¿Qué indica una respuesta motora M4 (Retirada al dolor)?",
+      "idPregunta": 19,
+      "texto": "La aspiración de secreciones subglóticas, si el TET de Antonio lo permitiera, es una medida para (Tema 7):",
       "opciones": [
-        {"id": "a", "texto": "Obedece órdenes simples."},
-        {"id": "b", "texto": "Localiza el estímulo doloroso."},
-        {"id": "c", "texto": "Presenta una flexión anormal (decorticación)."},
-        {"id": "d", "texto": "Realiza un movimiento de retirada inespecífico ante un estímulo doloroso."}
+        { "id": "a", "texto": "Administrar medicación directamente a la tráquea." },
+        { "id": "b", "texto": "Reducir la cantidad de secreciones que pueden pasar al pulmón y causar NAVM." },
+        { "id": "c", "texto": "Evaluar la presión del neumotaponamiento." },
+        { "id": "d", "texto": "Humidificar la vía aérea inferior." }
       ],
-      "respuestaCorrecta": "d"
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La toxicidad por FiO2 elevada y prolongada en VMI puede causar (Tema 9):",
+      "opciones": [
+        { "id": "a", "texto": "Alcalosis respiratoria." },
+        { "id": "b", "texto": "Daño pulmonar, similar al SDRA, por formación de radicales libres de oxígeno." },
+        { "id": "c", "texto": "Mejora de la compliancia pulmonar." },
+        { "id": "d", "texto": "Broncodilatación excesiva." }
+      ],
+      "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 21,
-      "texto": "El diagnóstico inicial del paciente es 'Exacerbación Aguda de EPOC'. ¿Cuál es el factor desencadenante más común de estas exacerbaciones?",
+      "texto": "El antecedente de EPOC de Antonio es relevante porque (Tema 4 y 9):",
       "opciones": [
-        {"id": "a", "texto": "Infecciones respiratorias (virales o bacterianas)."},
-        {"id": "b", "texto": "Exposición a alérgenos ambientales."},
-        {"id": "c", "texto": "Ejercicio físico intenso."},
-        {"id": "d", "texto": "Cambios bruscos de temperatura."}
+        { "id": "a", "texto": "Garantiza una mejor respuesta a la VMI." },
+        { "id": "b", "texto": "Lo hace más propenso a la retención de CO2 y puede dificultar el destete ventilatorio." },
+        { "id": "c", "texto": "Contraindica el uso de PEEP." },
+        { "id": "d", "texto": "Disminuye el riesgo de SDRA." }
       ],
-      "respuestaCorrecta": "a"
+      "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 22,
-      "texto": "La colocación de una Sonda Nasogástrica (SNG) en este paciente sedado y ventilado en UCI tendría como objetivo principal inicial:",
+      "texto": "La monitorización del paciente en VMI incluye la observación de la mecánica respiratoria. Un aumento súbito de las presiones en la vía aérea podría indicar (Tema 9):",
       "opciones": [
-        {"id": "a", "texto": "Permitir el lavado gástrico para eliminar toxinas."},
-        {"id": "b", "texto": "Administrar medicación oral de forma inmediata."},
-        {"id": "c", "texto": "Prevenir la distensión gástrica, facilitar la descompresión y permitir el inicio precoz de nutrición enteral si procede."},
-        {"id": "d", "texto": "Monitorizar la presión intraabdominal."}
+        { "id": "a", "texto": "Una fuga en el circuito del ventilador." },
+        { "id": "b", "texto": "Mejoría de la compliancia pulmonar." },
+        { "id": "c", "texto": "Obstrucción del TET, acodamiento, secreciones abundantes, broncoespasmo o neumotórax." },
+        { "id": "d", "texto": "Necesidad de disminuir la FiO2." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 23,
-      "texto": "El paciente presenta 'piel pálida, caliente y algo sudorosa' y TA 95/55 mmHg en urgencias. Estos signos, en el contexto de una infección, son compatibles con una fase inicial de:",
+      "texto": "En el contexto del SDRA, la PaO2 de 70 mmHg con FiO2 de 0.6 (PAFI ≈ 116 mmHg) refleja:",
       "opciones": [
-        {"id": "a", "texto": "Shock hipovolémico frío."},
-        {"id": "b", "texto": "Shock cardiogénico con vasoconstricción periférica."},
-        {"id": "c", "texto": "Shock distributivo caliente o hiperdinámico (fase temprana del shock séptico)."},
-        {"id": "d", "texto": "Reacción anafiláctica."}
+        { "id": "a", "texto": "Una alteración severa del intercambio gaseoso a nivel alveolo-capilar." },
+        { "id": "b", "texto": "Una adecuada oxigenación para un paciente con neumonía." },
+        { "id": "c", "texto": "Principalmente un problema de hipoventilación alveolar." },
+        { "id": "d", "texto": "Un shunt intrapulmonar mínimo o inexistente." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "a"
     },
     {
       "idPregunta": 24,
-      "texto": "Considerando el antecedente de Diabetes Mellitus tipo 2 del paciente, ¿qué cuidado de enfermería relacionado con la glucemia sería importante en UCI?",
+      "texto": "Los cuidados de la piel y mucosas en un paciente sedado, intubado y con VMI prolongada como Antonio son cruciales para prevenir (Tema 7):",
       "opciones": [
-        {"id": "a", "texto": "Suspender toda monitorización de glucemia ya que está sedado."},
-        {"id": "b", "texto": "Administrar glucosa intravenosa de forma continua para prevenir hipoglucemia."},
-        {"id": "c", "texto": "Realizar controles glucémicos frecuentes y manejar la hiperglucemia de estrés o descompensación diabética según protocolo (ej. con insulina IV)."},
-        {"id": "d", "texto": "Permitir hiperglucemias leves ya que son protectoras en el paciente crítico."}
+        { "id": "a", "texto": "El desarrollo de hipertensión arterial." },
+        { "id": "b", "texto": "Úlceras por presión, lesiones en la mucosa oral y sequedad ocular." },
+        { "id": "c", "texto": "La necesidad de nutrición enteral." },
+        { "id": "d", "texto": "Alteraciones hidroelectrolíticas." }
       ],
-      "respuestaCorrecta": "c"
+      "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 25,
-      "texto": "Si la situación del paciente evolucionara a un paro cardiorrespiratorio (PCR) en la UCI, y el ritmo inicial fuese Fibrilación Ventricular (FV), ¿cuál sería la primera acción del Soporte Vital Avanzado (SVA) según el Tema 10?",
+      "texto": "Si Antonio presentara agitación a pesar de la sedoanalgesia pautada, ¿cuál sería el primer paso a seguir por enfermería (Tema 5)?",
       "opciones": [
-        {"id": "a", "texto": "Administrar 1 mg de Adrenalina IV."},
-        {"id": "b", "texto": "Realizar 2 minutos de RCP antes de cualquier otra medida."},
-        {"id": "c", "texto": "Administrar una descarga eléctrica no sincronizada."},
-        {"id": "d", "texto": "Canalizar una vía intraósea si no se dispone de CVC."}
+        { "id": "a", "texto": "Aumentar inmediatamente todas las dosis de sedantes al máximo." },
+        { "id": "b", "texto": "Administrar un bloqueante neuromuscular sin valoración previa." },
+        { "id": "c", "texto": "Evaluar posibles causas reversibles de agitación (dolor, hipoxia, obstrucción TET, delirio, etc.) y comunicarlo." },
+        { "id": "d", "texto": "Restringir físicamente al paciente como primera medida." }
       ],
       "respuestaCorrecta": "c"
     },
     {
       "idPregunta": 26,
-      "texto": "El uso de Propofol y Remifentanilo para la sedoanalgesia en este paciente tiene como ventaja combinada:",
+      "texto": "El Remifentanilo, usado en la sedoanalgesia de Antonio, es un opioide que se caracteriza por (Tema 6):",
       "opciones": [
-        {"id": "a", "texto": "Larga duración de acción, permitiendo infusiones intermitentes."},
-        {"id": "b", "texto": "Mínimo impacto hemodinámico y ausencia de depresión respiratoria."},
-        {"id": "c", "texto": "Inicio y fin de acción rápidos, permitiendo una fácil titulación y valoraciones neurológicas si se interrumpe (ventana de sedación)."},
-        {"id": "d", "texto": "Potente efecto antiinflamatorio además de sedante y analgésico."}
-      ],
-      "respuestaCorrecta": "c"
-    },
-    {
-      "idPregunta": 27,
-      "texto": "La 'secuencia de intubación rápida' se menciona en el caso. ¿Cuál es el objetivo principal de esta técnica?",
-      "opciones": [
-        {"id": "a", "texto": "Realizar la intubación sin necesidad de medicación para evaluar mejor el estado neurológico."},
-        {"id": "b", "texto": "Asegurar la vía aérea de la forma más rápida y segura posible, minimizando el riesgo de aspiración en pacientes con estómago lleno o reflejos disminuidos."},
-        {"id": "c", "texto": "Utilizar exclusivamente palas de laringoscopio curvas para una mejor visualización."},
-        {"id": "d", "texto": "Priorizar la relajación muscular sobre la sedación y analgesia."}
+        { "id": "a", "texto": "Vida media muy larga, ideal para sedación prolongada sin perfusión continua." },
+        { "id": "b", "texto": "Metabolismo independiente de la función renal y hepática, y vida media ultracorta." },
+        { "id": "c", "texto": "Potente efecto hipnótico pero escasa analgesia." },
+        { "id": "d", "texto": "Administración exclusivamente por vía oral." }
       ],
       "respuestaCorrecta": "b"
     },
     {
-      "idPregunta": 28,
-      "texto": "Un relleno capilar de 3 segundos en el paciente en urgencias, junto con otros signos, sugiere:",
+      "idPregunta": 27,
+      "texto": "Mantener una adecuada higiene de manos por parte del personal sanitario es una medida transversal y fundamental, especialmente relevante en la prevención de (Tema 4 y 7):",
       "opciones": [
-        {"id": "a", "texto": "Una perfusión periférica óptima."},
-        {"id": "b", "texto": "Vasodilatación periférica severa."},
-        {"id": "c", "texto": "Compromiso de la perfusión tisular periférica."},
-        {"id": "d", "texto": "Un hallazgo normal en pacientes mayores de 65 años."}
+        { "id": "a", "texto": "Caídas del paciente." },
+        { "id": "b", "texto": "Errores de medicación." },
+        { "id": "c", "texto": "Infecciones nosocomiales, incluyendo NAVM y bacteriemia relacionada con catéter." },
+        { "id": "d", "texto": "Desarrollo de úlceras por presión." }
       ],
       "respuestaCorrecta": "c"
     },
     {
-      "idPregunta": 29,
-      "texto": "El diagnóstico de 'neumonía nosocomial probable por ingresos previos' implica que la infección fue adquirida:",
+      "idPregunta": 28,
+      "texto": "Un objetivo al ajustar los parámetros de VMI en un paciente con SDRA como Antonio es mantener una 'driving pressure' (Presión Meseta - PEEP) lo más baja posible, idealmente (Tema 9 y 4):",
       "opciones": [
-        {"id": "a", "texto": "En la comunidad antes de cualquier contacto hospitalario."},
-        {"id": "b", "texto": "Durante una estancia hospitalaria anterior o como resultado de procedimientos sanitarios recientes."},
-        {"id": "c", "texto": "Exclusivamente por aspiración de contenido gástrico."},
-        {"id": "d", "texto": "Debido a una inmunosupresión congénita del paciente."}
+        { "id": "a", "texto": "> 25 cmH2O." },
+        { "id": "b", "texto": "< 15 cmH2O." },
+        { "id": "c", "texto": "Exactamente igual a la PEEP." },
+        { "id": "d", "texto": "Siempre negativa para facilitar la espiración." }
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 29,
+      "texto": "La presencia de Noradrenalina para mantener la TA de Antonio, incluso a dosis bajas, indica:",
+      "opciones": [
+        { "id": "a", "texto": "Que el paciente está cursando un shock hipovolémico." },
+        { "id": "b", "texto": "Un cierto grado de vasoplejia o inestabilidad hemodinámica que requiere soporte vasopresor." },
+        { "id": "c", "texto": "Que la sedación es insuficiente." },
+        { "id": "d", "texto": "Una respuesta alérgica a la antibioterapia." }
       ],
       "respuestaCorrecta": "b"
     },
     {
       "idPregunta": 30,
-      "texto": "La Presión Positiva al Final de la Espiración (PEEP) en VMI, además de sus beneficios en el SDRA, puede tener como efecto adverso hemodinámico si es muy elevada:",
+      "texto": "La comunicación efectiva con la familia de un paciente crítico como Antonio, que está sedado y ventilado, es un aspecto importante del cuidado (Tema 1 y 5). Esta comunicación debe ser:",
       "opciones": [
-        {"id": "a", "texto": "Aumento significativo de la presión arterial sistémica."},
-        {"id": "b", "texto": "Disminución del retorno venoso al corazón y caída del gasto cardíaco, especialmente en pacientes hipovolémicos."},
-        {"id": "c", "texto": "Bradicardia refleja por estimulación vagal."},
-        {"id": "d", "texto": "Mejora de la perfusión renal."}
+        { "id": "a", "texto": "Limitada para no generarles ansiedad." },
+        { "id": "b", "texto": "Realizada exclusivamente por el personal médico." },
+        { "id": "c", "texto": "Regular, clara, honesta y empática, ofreciendo información comprensible sobre el estado y pronóstico." },
+        { "id": "d", "texto": "Enfocada en asegurarles una recuperación completa e inminente." }
       ],
-      "respuestaCorrecta": "b"
+      "respuestaCorrecta": "c"
     }
   ]
 }
