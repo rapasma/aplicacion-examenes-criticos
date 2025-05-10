@@ -1,14 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-
-    // -------- INICIO DE LA ALERTA A AÑADIR --------
-    const mensajeAlerta = "AVISO IMPORTANTE:\n\n" +
-                          "Todos los tests y contenidos de esta aplicación han sido generados con Inteligencia Artificial (IA).\n\n" +
-                          "Es posible que existan errores.\n\n" +
-                          "Si detectas algún fallo o contenido incorrecto , por favor, comunícaselo a tus compañeras para que pueda ser corregido.\n\n" +
-                          
-
-    alert(mensajeAlerta);
-    // -------- FIN DE LA ALERTA A AÑADIR --------
+    
      const vistas = {
         listaExamenes: document.getElementById('lista-temas-examenes'),
         examen: document.getElementById('vista-examen'),
