@@ -2,7 +2,7 @@
   {
     "id": "casos_clinicos",
     "nombre": "Casos Clínicos",
-    "cantidadExamenes": 5 
+    "cantidadExamenes": 10
   },
   {
     "id": "tema1",
