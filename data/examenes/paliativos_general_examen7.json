@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen7",
+  "nombreExamen": "Paliativos General - Examen 7 (Intermedio)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "El trabajo en equipo interdisciplinar es fundamental en cuidados paliativos. ¿Cuál es una de las ventajas mencionadas en el temario para los profesionales que forman parte de estos equipos?",
+      "opciones": [
+        {"id": "a", "texto": "Reduce la necesidad de comunicación entre los miembros del equipo."},
+        {"id": "b", "texto": "Sirve para reducir el estrés y el sufrimiento de sus integrantes al poder compartir y hablar abiertamente de los problemas."},
+        {"id": "c", "texto": "Permite que cada profesional trabaje de forma completamente aislada en su especialidad."},
+        {"id": "d", "texto": "Aumenta la competencia entre las diferentes disciplinas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "En el manejo de la xerostomía (boca seca), ¿qué recomendación es adecuada según el material de estudio?",
+      "opciones": [
+        {"id": "a", "texto": "Evitar la higiene oral para no irritar más la mucosa."},
+        {"id": "b", "texto": "Utilizar enjuagues con alcohol para una mayor desinfección."},
+        {"id": "c", "texto": "Estimular la salivación con chicles sin azúcar, trozos de piña fresca (si no hay mucositis) o el uso de saliva artificial."},
+        {"id": "d", "texto": "Limitar drásticamente la ingesta de líquidos para reducir la sequedad."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "¿Cuál de las siguientes afirmaciones sobre la vía subcutánea en cuidados paliativos es correcta, según lo expuesto en el temario?",
+      "opciones": [
+        {"id": "a", "texto": "Requiere siempre hospitalización para su manejo."},
+        {"id": "b", "texto": "Presenta un alto riesgo de complicaciones sistémicas graves."},
+        {"id": "c", "texto": "Es una vía de elección cuando la vía oral no es posible, siendo poco agresiva y de fácil manejo, favoreciendo la autonomía."},
+        {"id": "d", "texto": "Solo es útil para la administración de antibióticos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Ante un paciente con tos productiva que está demasiado débil para expectorar eficazmente, ¿cuál sería una intervención adecuada?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar siempre antitusígenos potentes para suprimir la tos por completo."},
+        {"id": "b", "texto": "Fomentar la ingesta abundante de alimentos secos."},
+        {"id": "c", "texto": "Realizar aspiraciones profundas y frecuentes de forma rutinaria."},
+        {"id": "d", "texto": "Considerar fármacos como la hioscina para reducir secreciones, limitar la aspiración a casos muy necesarios y explicar la situación a la familia."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "Según el temario, en la comunicación con un paciente en situación terminal, ¿qué actitud NO es recomendable por parte del profesional?",
+      "opciones": [
+        {"id": "a", "texto": "Minimizar el sufrimiento del paciente con frases hechas como 'no te preocupes, todo saldrá bien'."},
+        {"id": "b", "texto": "Escuchar activamente las preocupaciones y miedos del paciente."},
+        {"id": "c", "texto": "Ofrecer información clara y honesta, adaptada a lo que el paciente pueda y quiera saber."},
+        {"id": "d", "texto": "Mostrar empatía y respeto por sus valores y decisiones."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La astenia es un síntoma muy prevalente en pacientes paliativos. ¿Cuál de los siguientes factores puede contribuir a la astenia?",
+      "opciones": [
+        {"id": "a", "texto": "Un excelente estado nutricional."},
+        {"id": "b", "texto": "Dolor crónico mal controlado, anemia o depresión."},
+        {"id": "c", "texto": "Ejercicio físico vigoroso diario."},
+        {"id": "d", "texto": "Un sueño nocturno reparador y prolongado."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "En el abordaje del insomnio en un paciente paliativo, una medida de higiene del sueño incluye:",
+      "opciones": [
+        {"id": "a", "texto": "Ver la televisión en la cama hasta quedarse dormido."},
+        {"id": "b", "texto": "Tomar bebidas estimulantes como café justo antes de acostarse."},
+        {"id": "c", "texto": "Facilitar un entorno de descanso (control de ruidos, luz, temperatura) y colocar al paciente en postura cómoda."},
+        {"id": "d", "texto": "Realizar siestas largas y frecuentes durante el día."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Cuando un paciente en cuidados paliativos presenta náuseas y vómitos, una recomendación para el manejo dietético es:",
+      "opciones": [
+        {"id": "a", "texto": "Ofrecer comidas copiosas y muy condimentadas para estimular el apetito."},
+        {"id": "b", "texto": "Insistir en que coma grandes cantidades aunque no tenga apetito."},
+        {"id": "c", "texto": "Presentar los alimentos muy calientes para mejorar su sabor."},
+        {"id": "d", "texto": "Ofrecer pequeñas cantidades de comida a demanda, dietas pastosas o de fácil masticación y evitar olores fuertes."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "El uso de la Escala de Karnofsky en cuidados paliativos permite principalmente:",
+      "opciones": [
+        {"id": "a", "texto": "Evaluar la capacidad funcional del paciente para realizar actividades cotidianas, siendo un predictor de mortalidad."},
+        {"id": "b", "texto": "Medir exclusivamente la intensidad del dolor neuropático."},
+        {"id": "c", "texto": "Diagnosticar el tipo de cáncer que padece el paciente."},
+        {"id": "d", "texto": "Determinar el nivel de apoyo familiar disponible."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "Una característica del dolor neuropático es que frecuentemente se describe como:",
+      "opciones": [
+        {"id": "a", "texto": "Un dolor opresivo localizado en el pecho."},
+        {"id": "b", "texto": "Sensaciones de quemazón, hormigueo, calambres o descargas eléctricas."},
+        {"id": "c", "texto": "Un dolor sordo y profundo en una articulación."},
+        {"id": "d", "texto": "Un dolor tipo cólico en el abdomen."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En el tratamiento del dolor según la escalera analgésica de la OMS, los fármacos coadyuvantes (ej. antidepresivos, anticonvulsivantes):",
+      "opciones": [
+        {"id": "a", "texto": "Solo se utilizan si el paciente rechaza los opioides."},
+        {"id": "b", "texto": "Reemplazan completamente la necesidad de analgésicos opioides y no opioides."},
+        {"id": "c", "texto": "Pueden ser útiles en cualquier escalón para tratar tipos específicos de dolor (ej. neuropático) o síntomas asociados, potenciando la analgesia."},
+        {"id": "d", "texto": "Están indicados únicamente para el dolor agudo postoperatorio."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "¿Cuál es una consideración importante al tratar la depresión en un paciente terminal?",
+      "opciones": [
+        {"id": "a", "texto": "La depresión siempre se debe a una debilidad de carácter del paciente."},
+        {"id": "b", "texto": "Los antidepresivos no tienen ningún papel en cuidados paliativos."},
+        {"id": "c", "texto": "Se debe evitar cualquier conversación sobre los sentimientos del paciente para no empeorar su estado."},
+        {"id": "d", "texto": "Es fundamental un adecuado apoyo psicológico, comunicación terapéutica y, si es necesario, tratamiento farmacológico, reconociendo que la depresión puede ser reactiva a la situación."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El principal objetivo de los Equipos de Soporte de Atención Domiciliaria (ESAD) en cuidados paliativos es:",
+      "opciones": [
+        {"id": "a", "texto": "Proporcionar atención especializada a pacientes terminales y sus familias en su domicilio."},
+        {"id": "b", "texto": "Realizar exclusivamente intervenciones quirúrgicas paliativas."},
+        {"id": "c", "texto": "Gestionar el ingreso hospitalario de todos los pacientes paliativos."},
+        {"id": "d", "texto": "Ofrecer únicamente apoyo espiritual a través de voluntarios."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "La 'Teoría General del Déficit de Autocuidado' de Dorothea Orem, aplicada a los cuidados paliativos, sugiere que la intervención enfermera es necesaria cuando:",
+      "opciones": [
+        {"id": "a", "texto": "El paciente es completamente independiente para todas sus actividades."},
+        {"id": "b", "texto": "La enfermedad y su progresión limitan la capacidad del paciente para cubrir sus propias necesidades de autocuidado."},
+        {"id": "c", "texto": "La familia del paciente se niega a participar en los cuidados."},
+        {"id": "d", "texto": "El paciente solicita exclusivamente tratamientos alternativos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "En el contexto de las urgencias en cuidados paliativos, el síndrome de compresión medular se considera una emergencia porque:",
+      "opciones": [
+        {"id": "a", "texto": "Siempre es mortal en cuestión de minutos."},
+        {"id": "b", "texto": "Solo causa síntomas leves y transitorios."},
+        {"id": "c", "texto": "Precisa un diagnóstico y tratamiento rápidos para evitar un daño neurológico irreversible."},
+        {"id": "d", "texto": "Su único tratamiento es la administración de analgésicos potentes."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La hipercalcemia maligna es una complicación metabólica que puede ocurrir en pacientes con cáncer avanzado. Un síntoma neuropsiquiátrico característico puede ser:",
+      "opciones": [
+        {"id": "a", "texto": "Euforia y aumento de la energía."},
+        {"id": "b", "texto": "Mejora de la memoria y la concentración."},
+        {"id": "c", "texto": "Mayor agilidad física y coordinación."},
+        {"id": "d", "texto": "Debilidad, delirio, desorientación o estupor."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Al acompañar a una familia durante el proceso de duelo, una tarea fundamental del doliente, según el modelo de Worden, es:",
+      "opciones": [
+        {"id": "a", "texto": "Aceptar la realidad de la pérdida."},
+        {"id": "b", "texto": "Evitar hablar del fallecido para superar el dolor más rápido."},
+        {"id": "c", "texto": "Deshacerse inmediatamente de todos los recuerdos del ser querido."},
+        {"id": "d", "texto": "Mantener la habitación del fallecido intacta indefinidamente."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "En la situación de últimos días o agonía, si un paciente presenta estertores por acúmulo de secreciones, ¿qué medida farmacológica se podría considerar para disminuirlas?",
+      "opciones": [
+        {"id": "a", "texto": "Mucolíticos potentes para facilitar la expectoración."},
+        {"id": "b", "texto": "Fármacos antimuscarínicos (ej. hioscina) para reducir la producción de secreciones."},
+        {"id": "c", "texto": "Antibióticos de forma sistemática."},
+        {"id": "d", "texto": "Diuréticos para eliminar el exceso de fluidos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "El genograma es una herramienta útil en la atención familiar. ¿Qué tipo de información principal registra?",
+      "opciones": [
+        {"id": "a", "texto": "Únicamente el historial laboral de los miembros de la familia."},
+        {"id": "b", "texto": "Solo las preferencias alimentarias de la familia."},
+        {"id": "c", "texto": "La estructura, composición y las relaciones entre los miembros de una familia a lo largo de varias generaciones."},
+        {"id": "d", "texto": "El listado de medicamentos que toma cada miembro de la familia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "¿Cuál de las siguientes NO es una necesidad espiritual común en pacientes al final de la vida, según el temario?",
+      "opciones": [
+        {"id": "a", "texto": "La necesidad de encontrar sentido a su existencia y a lo vivido."},
+        {"id": "b", "texto": "La necesidad de amar y ser amado, y de reconciliación."},
+        {"id": "c", "texto": "La necesidad de adquirir nuevos bienes materiales."},
+        {"id": "d", "texto": "La necesidad de ser reconocido como persona y de expresar creencias religiosas o trascendentes."}
+      ],
+      "respuestaCorrecta": "d"
+    }
+  ]
+}

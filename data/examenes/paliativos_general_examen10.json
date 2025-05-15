@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen10",
+  "nombreExamen": "Paliativos General - Examen 10 (Dificil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "La 'muerte doméstica' característica de la alta Edad Media, según el temario, implicaba un 'rito de la habitación'. ¿Cuál era la esencia de este rito y qué se consideraba una 'buena muerte' en ese contexto?",
+      "opciones": [
+        {"id": "a", "texto": "Un proceso solitario donde el moribundo se aislaba para no causar molestias a la familia, considerando buena muerte la que ocurría rápidamente."},
+        {"id": "b", "texto": "Una ceremonia dirigida por el clero en un espacio sagrado, donde la 'buena muerte' dependía de la confesión de todos los pecados."},
+        {"id": "c", "texto": "Un evento donde el moribundo, consciente de su deceso, reunía a sus seres queridos, dirigía la ceremonia y podía disponer de tiempo para asuntos personales, sociales y espirituales."},
+        {"id": "d", "texto": "Un ritual secreto realizado por curanderos para intentar revertir la enfermedad, siendo la 'buena muerte' aquella que se lograba evitar."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "El temario discute los criterios de terminalidad para enfermedades no oncológicas según la Guía de Cuidados Paliativos de Madrid 2005-2008. Una diferencia clave respecto a los criterios de la SECPAL para estas enfermedades es:",
+      "opciones": [
+        {"id": "a", "texto": "Se establece un pronóstico de vida exacto de menos de 3 meses."},
+        {"id": "b", "texto": "El impacto emocional en la familia no se considera un criterio relevante."},
+        {"id": "c", "texto": "El pronóstico de vida es limitado pero no establece una duración exacta, y los síntomas persisten a pesar del tratamiento adecuado."},
+        {"id": "d", "texto": "Se suspende todo tratamiento específico de la enfermedad de base al iniciar los cuidados paliativos."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "En la valoración funcional de un paciente no oncológico para definir la situación de terminalidad, se mencionan varios instrumentos. Si un paciente presenta un Índice de Karnofsky (IK) < 30 y/o un ECOG > 4, ¿qué implicación pronóstica principal tiene según el temario?",
+      "opciones": [
+        {"id": "a", "texto": "Una sobrevida esperada superior a un año, con buena respuesta a tratamientos paliativos."},
+        {"id": "b", "texto": "Una situación de fragilidad leve que no requiere intervención paliativa inmediata."},
+        {"id": "c", "texto": "Una sobrevida generalmente menor a 3 meses, indicando una fase avanzada."},
+        {"id": "d", "texto": "La necesidad prioritaria de iniciar rehabilitación física intensiva para mejorar el IK."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Al administrar opioides por vía subcutánea, el temario resalta una ventaja importante relacionada con la autonomía del paciente. ¿A qué se refiere específicamente?",
+      "opciones": [
+        {"id": "a", "texto": "A que la vía subcutánea permite administrar dosis mucho más altas que la vía oral, logrando un control del dolor más rápido."},
+        {"id": "b", "texto": "A que, al ser una técnica poco agresiva y de fácil manejo, puede ser gestionada (con la debida formación) por el paciente o su cuidador principal en domicilio, aumentando su independencia."},
+        {"id": "c", "texto": "A que la vía subcutánea elimina por completo el riesgo de efectos secundarios comunes de los opioides, como el estreñimiento."},
+        {"id": "d", "texto": "A que la absorción por esta vía es tan lenta que reduce la necesidad de dosis de rescate."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "El concepto de 'Dolor Total' de Cicely Saunders implica que el sufrimiento va más allá de lo físico. Si un paciente expresa frases como '¿Por qué a mí?' o '¿Qué sentido tiene mi vida ahora?', ¿a qué dimensión del Dolor Total se está refiriendo principalmente?",
+      "opciones": [
+        {"id": "a", "texto": "A la dimensión física, por la intensidad del dolor somático."},
+        {"id": "b", "texto": "A la dimensión social, por la pérdida de su rol laboral."},
+        {"id": "c", "texto": "A la dimensión espiritual, que abarca preguntas sobre el sentido, el propósito y la trascendencia."},
+        {"id": "d", "texto": "A la dimensión emocional, exclusivamente como una manifestación de ansiedad."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "En el manejo de la disnea por obstrucción de la vía aérea superior debida a un tumor, además de medidas generales y opioides, ¿qué tipo de fármaco puede ser crucial para reducir el edema y la inflamación local, mejorando el calibre de la vía aérea?",
+      "opciones": [
+        {"id": "a", "texto": "Antibióticos profilácticos."},
+        {"id": "b", "texto": "Corticoides sistémicos (ej. dexametasona)."},
+        {"id": "c", "texto": "Diuréticos de asa a dosis elevadas."},
+        {"id": "d", "texto": "Benzodiacepinas de acción corta."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La halitosis en un paciente con xerostomía y cuidados orales deficientes puede generar un importante rechazo social. ¿Cuál es la causa principal de la halitosis en este contexto?",
+      "opciones": [
+        {"id": "a", "texto": "El uso excesivo de saliva artificial."},
+        {"id": "b", "texto": "La proliferación bacteriana aumentada debido a la disminución del flujo salival y la higiene inadecuada."},
+        {"id": "c", "texto": "Una reacción adversa a los analgésicos opioides."},
+        {"id": "d", "texto": "El consumo de alimentos muy condimentados exclusivamente."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Un paciente con metástasis cerebrales presenta un episodio de crisis convulsiva tónico-clónica generalizada en domicilio. Según las recomendaciones de la SECPAL citadas, si la crisis es la primera y se controla, ¿cuál es el manejo posterior habitual respecto a los fármacos antiepilépticos?",
+      "opciones": [
+        {"id": "a", "texto": "No se pautan antiepilépticos de mantenimiento tras una primera crisis controlada."},
+        {"id": "b", "texto": "Se inicia tratamiento profiláctico con benzodiacepinas orales a largo plazo."},
+        {"id": "c", "texto": "Se emplean anticonvulsivantes en dosis suficientes para mantener niveles plasmáticos terapéuticos (ej. difenilhidantoína, valproato) para prevenir recurrencias."},
+        {"id": "d", "texto": "Se administran corticoides a dosis bajas como única medida preventiva."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La 'claudicación familiar' puede ser desencadenada por múltiples factores. ¿Cuál de los siguientes escenarios describe mejor un factor de riesgo intrínseco a la dinámica familiar que puede precipitarla?",
+      "opciones": [
+        {"id": "a", "texto": "Una excelente red de apoyo social y comunitario para la familia."},
+        {"id": "b", "texto": "Un control óptimo de todos los síntomas del paciente por parte del equipo paliativo."},
+        {"id": "c", "texto": "Una familia desestructurada con conflictos previos no resueltos o ausencia de un cuidador principal claramente definido y apoyado."},
+        {"id": "d", "texto": "La aceptación plena y compartida de la enfermedad y el pronóstico por todos los miembros de la familia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "En la atención al duelo, el modelo de Worden propone cuatro tareas. Si un doliente evita constantemente cualquier recordatorio del fallecido y se niega a hablar de la pérdida, ¿qué tarea del duelo está teniendo más dificultad en afrontar?",
+      "opciones": [
+        {"id": "a", "texto": "Recolocar emocionalmente al fallecido y continuar viviendo."},
+        {"id": "b", "texto": "Adaptarse a un medio en el que el ser querido está ausente."},
+        {"id": "c", "texto": "Aceptar la realidad de la pérdida y elaborar las emociones y el dolor asociado."},
+        {"id": "d", "texto": "Establecer nuevas relaciones sociales inmediatamente después del fallecimiento."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "La quimioterapia paliativa, a diferencia de la adyuvante, se administra cuando la enfermedad está avanzada y la curación es improbable. ¿Cuál es el factor determinante para valorar su continuidad o interrupción?",
+      "opciones": [
+        {"id": "a", "texto": "La reducción del tamaño tumoral en más de un 90% en pruebas de imagen."},
+        {"id": "b", "texto": "El deseo expreso del oncólogo de completar un número fijo de ciclos."},
+        {"id": "c", "texto": "El balance individualizado entre el beneficio sintomático y la mejora de calidad de vida percibida por el paciente, frente a la toxicidad y carga del tratamiento."},
+        {"id": "d", "texto": "La disponibilidad de nuevos fármacos experimentales, independientemente del estado del paciente."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "En el manejo del dolor irruptivo en un paciente con dolor basal bien controlado con opioides, la medicación de rescate debe tener idealmente la siguiente característica:",
+      "opciones": [
+        {"id": "a", "texto": "Un inicio de acción lento y una duración muy prolongada para evitar dosis frecuentes."},
+        {"id": "b", "texto": "Un inicio de acción rápido y una duración relativamente corta, para aliviar el pico de dolor sin causar sedación excesiva prolongada."},
+        {"id": "c", "texto": "Ser administrada siempre por vía intravenosa para asegurar la máxima potencia."},
+        {"id": "d", "texto": "Ser un fármaco de un grupo farmacológico completamente diferente al opioide basal."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El delirio hipoactivo puede ser más difícil de diagnosticar que el hiperactivo porque:",
+      "opciones": [
+        {"id": "a", "texto": "Sus síntomas (apatía, somnolencia, enlentecimiento) pueden confundirse con depresión, fatiga o el proceso natural de morir, y no genera tanta alarma como la agitación."},
+        {"id": "b", "texto": "Los pacientes con delirio hipoactivo siempre niegan tener ningún problema cognitivo."},
+        {"id": "c", "texto": "Las escalas de valoración como el CAM no son sensibles a este tipo de delirio."},
+        {"id": "d", "texto": "Solo se presenta en pacientes muy jóvenes, donde no se sospecha deterioro cognitivo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "En el contexto de los cuidados paliativos pediátricos, la comunicación con el niño sobre su enfermedad y la muerte debe:",
+      "opciones": [
+        {"id": "a", "texto": "Evitarse por completo para protegerlo del sufrimiento emocional."},
+        {"id": "b", "texto": "Ser manejada exclusivamente por los padres sin intervención del equipo sanitario."},
+        {"id": "c", "texto": "Adaptarse a su edad y nivel de comprensión, permitiéndole expresar sus miedos y preguntas, y ofreciendo información honesta y sensible."},
+        {"id": "d", "texto": "Centrarse en promesas de curación, incluso si el pronóstico es malo, para mantener su esperanza."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "La evaluación del riesgo de 'burnout' o 'desgaste por empatía' en los profesionales de cuidados paliativos es importante porque:",
+      "opciones": [
+        {"id": "a", "texto": "Indica una falta de vocación o compromiso del profesional con su trabajo."},
+        {"id": "b", "texto": "Permite identificar a los profesionales que no son aptos para trabajar en este campo."},
+        {"id": "c", "texto": "Reconoce que la exposición prolongada al sufrimiento puede tener un coste emocional y físico, y permite implementar estrategias preventivas y de apoyo para el bienestar del equipo."},
+        {"id": "d", "texto": "Es un problema exclusivo de los médicos y no afecta al personal de enfermería o trabajo social."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Un paciente con caquexia tumoral avanzada presenta anorexia significativa. Desde un enfoque paliativo, ¿cuál sería la actitud más adecuada respecto a la alimentación?",
+      "opciones": [
+        {"id": "a", "texto": "Implementar nutrición parenteral total agresiva para revertir la pérdida de peso, independientemente del pronóstico y confort."},
+        {"id": "b", "texto": "Priorizar el confort del paciente, ofrecer alimentos que le apetezcan en pequeñas cantidades, sin forzar la ingesta, y centrarse en el alivio de síntomas asociados como la xerostomía o las náuseas."},
+        {"id": "c", "texto": "Establecer un horario de comidas estricto y supervisar que el paciente consuma todas las calorías calculadas."},
+        {"id": "d", "texto": "Utilizar estimulantes del apetito potentes como única medida, sin considerar otros aspectos del bienestar."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "La 'planificación anticipada de decisiones' (o voluntades anticipadas) en el contexto de los cuidados paliativos tiene como objetivo principal:",
+      "opciones": [
+        {"id": "a", "texto": "Permitir que la familia tome todas las decisiones médicas una vez que el paciente pierde la capacidad."},
+        {"id": "b", "texto": "Asegurar que se apliquen todas las medidas de soporte vital posibles hasta el último momento."},
+        {"id": "c", "texto": "Que el paciente pueda expresar sus valores, deseos y preferencias sobre los tratamientos y cuidados futuros, en caso de no poder comunicarlos más adelante, facilitando una atención coherente con su voluntad."},
+        {"id": "d", "texto": "Liberar al equipo médico de la responsabilidad de tomar decisiones difíciles al final de la vida."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "El uso de placebos en el manejo del dolor en cuidados paliativos, según los principios éticos y las recomendaciones del temario, es:",
+      "opciones": [
+        {"id": "a", "texto": "Una estrategia válida para evaluar si el dolor del paciente es 'real' o psicológico."},
+        {"id": "b", "texto": "Aceptable si el paciente consiente su uso para reducir el consumo de opioides."},
+        {"id": "c", "texto": "Generalmente considerado inapropiado y éticamente cuestionable, ya que puede minar la confianza y no aborda el sufrimiento real del paciente."},
+        {"id": "d", "texto": "Recomendado como primera línea de tratamiento para el dolor leve antes de usar analgésicos."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Si un paciente con una enfermedad avanzada y pronóstico de vida limitado desarrolla una infección intercurrente (ej. neumonía), la decisión de tratarla con antibióticos en el marco de los cuidados paliativos dependerá fundamentalmente de:",
+      "opciones": [
+        {"id": "a", "texto": "La disponibilidad del antibiótico más potente, independientemente de sus efectos secundarios."},
+        {"id": "b", "texto": "La edad del paciente, siendo el tratamiento antibiótico obligatorio en pacientes jóvenes."},
+        {"id": "c", "texto": "Una valoración individualizada que considere el beneficio esperado del tratamiento antibiótico en términos de calidad de vida y alivio sintomático, las posibles cargas y efectos adversos, y los objetivos globales de cuidado acordados con el paciente y su familia."},
+        {"id": "d", "texto": "La política del hospital, que puede prohibir el uso de antibióticos en pacientes paliativos."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La evaluación de la efectividad de las intervenciones en cuidados paliativos (farmacológicas y no farmacológicas) debe ser:",
+      "opciones": [
+        {"id": "a", "texto": "Realizada únicamente al alta del paciente o tras el fallecimiento."},
+        {"id": "b", "texto": "Un proceso continuo y dinámico, con reevaluaciones frecuentes para ajustar el plan de cuidados a las necesidades cambiantes del paciente."},
+        {"id": "c", "texto": "Basada exclusivamente en pruebas de laboratorio y estudios de imagen."},
+        {"id": "d", "texto": "Responsabilidad única del médico especialista, sin implicación del resto del equipo."}
+      ],
+      "respuestaCorrecta": "b"
+    }
+  ]
+}

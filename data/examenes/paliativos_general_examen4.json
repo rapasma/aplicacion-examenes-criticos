@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen4",
+  "nombreExamen": "Paliativos General - Examen 4 (Intermedio)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "La 'Teoría del final tranquilo de la vida' de Ruland y Moore se fundamenta en cinco conceptos prioritarios. ¿Cuál de los siguientes describe mejor el concepto de 'Experiencia de dignidad y respeto'?",
+      "opciones": [
+        {"id": "a", "texto": "Asegurar que el paciente no sienta ningún tipo de dolor físico."},
+        {"id": "b", "texto": "Permitir que el paciente esté siempre acompañado por sus familiares."},
+        {"id": "c", "texto": "Tratar al ser humano como persona hasta el final, sin vulnerar los principios fundamentales de la Bioética."},
+        {"id": "d", "texto": "Lograr que el paciente alcance un estado de calma y satisfacción plenas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "En la perspectiva histórica sobre el proceso de morir, se menciona la 'muerte prohibida' que comienza con la Primera Guerra Mundial. ¿Qué característica principal define este periodo?",
+      "opciones": [
+        {"id": "a", "texto": "La muerte se convierte en un evento público y celebrado."},
+        {"id": "b", "texto": "El moribundo toma control total sobre las decisiones de su final de vida."},
+        {"id": "c", "texto": "La muerte es apartada de la vida cotidiana, eliminada del lenguaje y vista como un fenómeno extraño y vergonzoso."},
+        {"id": "d", "texto": "Los rituales fúnebres se vuelven más elaborados y extensos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Cicely Saunders es una figura clave en el movimiento Hospice. ¿Qué aspecto fundamental demostró con su trabajo en el St. Christopher's Hospice?",
+      "opciones": [
+        {"id": "a", "texto": "Que la curación del cáncer era posible en todos los estadios."},
+        {"id": "b", "texto": "Que los cuidados paliativos debían centrarse exclusivamente en el tratamiento farmacológico."},
+        {"id": "c", "texto": "Cómo se podía lograr una significativa mejoría de la calidad de vida prestando atención a síntomas molestos y a los aspectos psicológicos, sociales y espirituales."},
+        {"id": "d", "texto": "La importancia de prolongar la supervivencia a toda costa."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "La quimioterapia, según el PDF 'Nociones de quimioterapia', actúa interrumpiendo el ciclo de crecimiento de las células neoplásicas. ¿Por qué sus efectos indeseables son, por ahora, inevitables?",
+      "opciones": [
+        {"id": "a", "texto": "Porque los fármacos son de baja calidad."},
+        {"id": "b", "texto": "Debido a que su acción es inespecífica y daña también las células sanas que se encuentran en crecimiento."},
+        {"id": "c", "texto": "Porque no se administran suficientes medicamentos para atenuar los efectos secundarios."},
+        {"id": "d", "texto": "Únicamente por el componente psicológico y el miedo del paciente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "En la valoración de la respuesta a la quimioterapia radical, ¿qué significa 'Respuesta Parcial (RP)'?",
+      "opciones": [
+        {"id": "a", "texto": "Ha desaparecido toda enfermedad visible."},
+        {"id": "b", "texto": "La enfermedad ha progresado a pesar del tratamiento."},
+        {"id": "c", "texto": "El tumor se ha reducido al menos un 50%."},
+        {"id": "d", "texto": "La reducción del tumor es menor al 10% o no hay cambios."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "Los vómitos anticipatorios en pacientes que reciben quimioterapia tienen un fuerte componente:",
+      "opciones": [
+        {"id": "a", "texto": "Farmacológico, debido a la acumulación del citostático."},
+        {"id": "b", "texto": "Psicológico, de revulsión frente a una experiencia previa negativa."},
+        {"id": "c", "texto": "Digestivo, por irritación directa del estómago."},
+        {"id": "d", "texto": "Neurológico central, por afectación directa del centro del vómito."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Según el Bloque 2, Tema 3, ¿por qué es importante proporcionar la mejor adaptación posible del enfermo a síntomas difíciles de controlar como la debilidad o la anorexia?",
+      "opciones": [
+        {"id": "a", "texto": "Porque estos síntomas no tienen ningún impacto en la calidad de vida."},
+        {"id": "b", "texto": "Para que el paciente no se queje y facilite el trabajo del equipo."},
+        {"id": "c", "texto": "Porque aunque no se puedan eliminar completamente, ayudar al paciente a adaptarse mejora su confort y bienestar general."},
+        {"id": "d", "texto": "Para poder suspender todos los tratamientos farmacológicos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Al explicar las causas de los síntomas y las medidas terapéuticas, ¿por qué es trascendental hacerlo tanto al paciente como a la familia, especialmente si el cuidado es domiciliario?",
+      "opciones": [
+        {"id": "a", "texto": "Para que la familia pueda tomar todas las decisiones médicas."},
+        {"id": "b", "texto": "Porque la familia asumirá la mayor parte del peso de los cuidados y necesita comprender para actuar correctamente."},
+        {"id": "c", "texto": "Únicamente para cumplir con un requisito legal de información."},
+        {"id": "d", "texto": "Para que el paciente se sienta menos responsable de su cuidado."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La escala de Karnofsky (KPS) se utiliza para valorar la capacidad del paciente para realizar actividades cotidianas. Un KPS de 50 o inferior indica:",
+      "opciones": [
+        {"id": "a", "texto": "Actividad completamente normal, sin evidencias de enfermedad."},
+        {"id": "b", "texto": "Capacidad para cuidar de sí mismo, pero no para trabajar."},
+        {"id": "c", "texto": "Elevado riesgo de muerte durante los seis meses siguientes; el paciente requiere atención considerable y supervisión."},
+        {"id": "d", "texto": "Que el paciente es moribundo y la enfermedad progresa muy rápidamente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "El dolor visceral se describe como 'referido a un área de la superficie corporal'. Un ejemplo clásico de dolor visceral referido es:",
+      "opciones": [
+        {"id": "a", "texto": "El dolor de una herida cutánea en el brazo."},
+        {"id": "b", "texto": "El dolor de una quemadura solar en la espalda."},
+        {"id": "c", "texto": "El dolor en el hombro izquierdo durante un infarto de miocardio."},
+        {"id": "d", "texto": "El dolor por una fractura de tobillo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En la valoración del dolor según el PDF 'Tema 7' (Dolor y Síntomas Neuropsicológicos), ¿por qué es importante registrar las palabras exactas que el paciente utiliza para describir su dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Para evaluar el nivel cultural del paciente."},
+        {"id": "b", "texto": "Porque las palabras del paciente son más precisas y pueden ser importantes para el diagnóstico y la elección del tratamiento."},
+        {"id": "c", "texto": "Solo si el paciente utiliza terminología médica correcta."},
+        {"id": "d", "texto": "Para tener un registro por si hay quejas legales posteriores."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Si un paciente en tratamiento con opioides potentes (tercer escalón OMS) experimenta dolor irruptivo, ¿cuál es la estrategia analgésica recomendada?",
+      "opciones": [
+        {"id": "a", "texto": "Aumentar la dosis del AINE o Paracetamol que toma de base."},
+        {"id": "b", "texto": "Administrar una dosis de 'rescate' de un opioide de acción rápida, además de su pauta analgésica regular."},
+        {"id": "c", "texto": "Suspender el opioide de base y cambiar a uno más débil."},
+        {"id": "d", "texto": "Utilizar únicamente medidas no farmacológicas para el dolor irruptivo."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El delirium hipoactivo se caracteriza por:",
+      "opciones": [
+        {"id": "a", "texto": "Agitación psicomotriz, hipervigilancia y agresividad."},
+        {"id": "b", "texto": "Un curso estable sin fluctuaciones a lo largo del día."},
+        {"id": "c", "texto": "Apatía, somnolencia, enlentecimiento psicomotor y disminución de la atención."},
+        {"id": "d", "texto": "Alucinaciones exclusivamente visuales y placenteras."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "Para el tratamiento farmacológico del delirium muy agitado en un paciente paliativo, si el haloperidol no es suficiente o se busca un efecto más sedante, se podría considerar:",
+      "opciones": [
+        {"id": "a", "texto": "Suspender toda medicación neuroléptica."},
+        {"id": "b", "texto": "Administrar un psicoestimulante como el metilfenidato."},
+        {"id": "c", "texto": "Neurolépticos más sedantes como la levomepromazina o la clorpromazina."},
+        {"id": "d", "texto": "Aumentar la dosis de corticoides."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Una de las causas de insomnio en pacientes terminales es la alteración del patrón del sueño por dormitar frecuentemente durante el día. ¿Qué medida de higiene del sueño ayudaría en este caso?",
+      "opciones": [
+        {"id": "a", "texto": "Fomentar la actividad física intensa justo antes de dormir."},
+        {"id": "b", "texto": "Administrar cafeína por la tarde para evitar las siestas."},
+        {"id": "c", "texto": "Intentar mantener al paciente despierto y activo durante el día (según tolerancia) y establecer rutinas regulares para acostarse."},
+        {"id": "d", "texto": "Permitir que el paciente duerma todo lo que quiera durante el día para que esté descansado."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Según el PDF 'Tema 7', el hecho de finalizar o suspender un tratamiento activo contra el cáncer (ej. quimioterapia) puede generar ansiedad en el paciente porque:",
+      "opciones": [
+        {"id": "a", "texto": "Implica que el paciente está completamente curado y no necesita más seguimiento."},
+        {"id": "b", "texto": "Puede surgir el miedo a que la enfermedad progrese sin freno y un sentimiento de desprotección o abandono."},
+        {"id": "c", "texto": "Significa que el paciente ya no experimentará ningún efecto secundario."},
+        {"id": "d", "texto": "Siempre se sustituye por otro tratamiento curativo más potente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "El tratamiento de la depresión en el paciente terminal debe ser multimodal. Los antidepresivos tricíclicos, aunque con efectos secundarios, pueden ser útiles porque, además de su efecto antidepresivo, tienen capacidad:",
+      "opciones": [
+        {"id": "a", "texto": "Estimulante y energizante inmediata."},
+        {"id": "b", "texto": "Ansiolítica, favorecen el sueño y son coadyuvantes en el control del dolor (especialmente neuropático)."},
+        {"id": "c", "texto": "Para inducir una rápida pérdida de peso en pacientes con caquexia."},
+        {"id": "d", "texto": "De revertir la progresión tumoral."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "Los psicoestimulantes como el metilfenidato pueden usarse en depresión en pacientes paliativos con una expectativa de vida breve debido a su:",
+      "opciones": [
+        {"id": "a", "texto": "Efecto sedante profundo que mejora el descanso."},
+        {"id": "b", "texto": "Ausencia total de efectos secundarios."},
+        {"id": "c", "texto": "Efecto antidepresivo de inicio rápido (inferior a 24 horas)."},
+        {"id": "d", "texto": "Capacidad para curar la enfermedad de base."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "La quimioterapia puede inducir esterilidad. En varones jóvenes que van a recibir quimioterápicos con alto riesgo de esterilidad, ¿qué medida preventiva se suele plantear?",
+      "opciones": [
+        {"id": "a", "texto": "Un ciclo corto de testosterona para proteger los testículos."},
+        {"id": "b", "texto": "La criopreservación de esperma en un banco de semen antes de iniciar la quimioterapia."},
+        {"id": "c", "texto": "Evitar la hidratación durante los ciclos de quimioterapia."},
+        {"id": "d", "texto": "Administrar la quimioterapia a dosis más bajas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La 'Escala Analgésica de la OMS' es un marco para el tratamiento farmacológico del dolor. Si un paciente con dolor moderado no se alivia con AINEs (primer escalón), el siguiente paso sería considerar:",
+      "opciones": [
+        {"id": "a", "texto": "Medidas invasivas como bloqueos nerviosos."},
+        {"id": "b", "texto": "Aumentar la dosis del AINE indefinidamente."},
+        {"id": "c", "texto": "Añadir o cambiar a un opioide débil (segundo escalón), pudiendo asociarlo a fármacos del primer escalón."},
+        {"id": "d", "texto": "Suspender toda medicación y probar solo terapias no farmacológicas."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}

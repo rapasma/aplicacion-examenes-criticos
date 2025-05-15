@@ -53,36 +53,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error(`El archivo temas.json no es un JSON válido: ${e.message}. Contenido recibido: "${textoError}"`);
             }
             
-            const todosLosNombresArchivosExamenes = [];
+           const todosLosNombresArchivosExamenes = [];
 temasData.forEach(tema => {
-    // Es buena idea verificar que 'cantidadExamenes' exista y sea un número válido
-    if (tema.cantidadExamenes && typeof tema.cantidadExamenes === 'number' && tema.cantidadExamenes > 0) {
-        if (tema.id === "casos_clinicos") {
-            for (let i = 1; i <= tema.cantidadExamenes; i++) {
-                todosLosNombresArchivosExamenes.push(`data/examenes/caso_clinico_${i}.json`);
-            }
-        } else if (tema.id !== 'global') {
-            for (let i = 1; i <= tema.cantidadExamenes; i++) {
-                todosLosNombresArchivosExamenes.push(`data/examenes/${tema.id}_examen${i}.json`);
-            }
-        } else { // Para el tema "global"
-            for (let i = 1; i <= tema.cantidadExamenes; i++) {
-                todosLosNombresArchivosExamenes.push(`data/examenes/global_examen${i}.json`);
-            }
+    if (tema.id === "paliativos_general") {
+        // Vamos a cargar los 10 exámenes generales de paliativos
+        for (let i = 1; i <= 11; i++) { 
+            todosLosNombresArchivosExamenes.push(`data/examenes/paliativos_general_examen${i}.json`);
         }
-    } else if (tema.id !== 'global' && tema.id !== 'casos_clinicos' && (!tema.cantidadExamenes || tema.cantidadExamenes <= 0)) {
-        // Si es un tema regular y no tiene cantidadExamenes, podrías tener un default o loggear un aviso
-        // Por ejemplo, si por defecto los temas regulares sin especificar tienen 3 exámenes:
-        const cantidadDefaultParaRegulares = 3; // O el valor que consideres
-        console.warn(`Tema '${tema.id}' sin 'cantidadExamenes' definida, usando default de ${cantidadDefaultParaRegulares}.`);
-        for (let i = 1; i <= cantidadDefaultParaRegulares; i++) {
-             todosLosNombresArchivosExamenes.push(`data/examenes/${tema.id}_examen${i}.json`);
-        }
-    } else if (tema.id === 'casos_clinicos' && (!tema.cantidadExamenes || tema.cantidadExamenes <= 0)) {
-        console.warn(`Tema 'casos_clinicos' sin 'cantidadExamenes' definida o es cero.`);
-    } else if (tema.id === 'global' && (!tema.cantidadExamenes || tema.cantidadExamenes <= 0)) {
-        console.warn(`Tema 'global' sin 'cantidadExamenes' definida o es cero.`);
     }
+    // Puedes eliminar la lógica 'else if (tema.id !== 'global')' y el 'else' para globales
+    // si solo vas a tener este tema de "paliativos_general".
 });
 
 console.log(todosLosNombresArchivosExamenes);
@@ -132,6 +112,12 @@ console.log(todosLosNombresArchivosExamenes);
              return;
         }
 
+        function extraerNumeroExamen(idExamen) {
+            if (!idExamen) return 0; // Fallback
+            const match = idExamen.match(/\d+$/); // Extrae el número al final del string
+            return match ? parseInt(match[0], 10) : 0; // Convierte a número, o 0 si no hay número
+        }
+
         temasData.forEach(tema => {
             const temaContainer = document.createElement('div');
             temaContainer.className = 'tema-container';
@@ -143,6 +129,23 @@ console.log(todosLosNombresArchivosExamenes);
             examenesListaDiv.className = 'examenes-lista';
 
             const examenesDelTema = Object.values(examenesData).filter(ex => ex && ex.idTema === tema.id);
+
+           examenesDelTema.sort((a, b) => {
+                const numA = extraerNumeroExamen(a.idExamen);
+                const numB = extraerNumeroExamen(b.idExamen);
+                
+                // Primero, comparar la parte no numérica (prefijo) para agrupar correctamente
+                // si hubiera diferentes prefijos (ej. 'paliativos_general_examen' vs 'otro_tema_examen')
+                // Aunque en tu caso actual, todos los exámenes bajo un tema parecen tener el mismo prefijo.
+                const prefijoA = (a.idExamen || '').replace(/\d+$/, '');
+                const prefijoB = (b.idExamen || '').replace(/\d+$/, '');
+
+                if (prefijoA.localeCompare(prefijoB) !== 0) {
+                    return prefijoA.localeCompare(prefijoB);
+                }
+                // Si los prefijos son iguales, ordenar por número
+                return numA - numB;
+            });
 
             if (tema.id === "casos_clinicos") {
                 temaContainer.classList.add('seccion-casos-clinicos'); // ¡Esta es la clase clave!

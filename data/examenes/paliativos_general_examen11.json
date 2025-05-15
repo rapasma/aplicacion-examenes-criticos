@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen11",
+  "nombreExamen": "Paliativos General - Examen BONUS (Muy Dificil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Un paciente con cáncer avanzado y múltiples comorbilidades presenta un delirium mixto con predominio hipoactivo, fluctuante, y una infección urinaria tratada. A pesar de la corrección de factores metabólicos y la optimización de opioides, persiste un deterioro cognitivo significativo que dificulta la comunicación. La familia, muy angustiada, pregunta si 'se está volviendo loco'. ¿Cuál sería la aproximación más adecuada del equipo paliativo, integrando aspectos del manejo del delirium y la comunicación?",
+      "opciones": [
+        {"id": "a", "texto": "Iniciar inmediatamente sedación paliativa profunda para aliviar la angustia familiar, asumiendo que el delirium es irreversible."},
+        {"id": "b", "texto": "Explicar a la familia que el delirium es una manifestación común de la progresión de la enfermedad, validar su angustia, continuar buscando y tratando causas reversibles (incluso farmacológicas), y enfocarse en medidas ambientales y de comunicación no verbal para el confort del paciente, considerando neurolépticos a dosis bajas si hay agitación o sufrimiento evidente."},
+        {"id": "c", "texto": "Recomendar el traslado urgente a una unidad de psiquiatría para manejo especializado del trastorno cognitivo, suspendiendo temporalmente los cuidados paliativos."},
+        {"id": "d", "texto": "Informar a la familia que el deterioro es exclusivamente psicológico y que el paciente necesita principalmente terapia de reorientación intensiva."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La 'Teoría del final tranquilo de la vida' de Ruland y Moore propone cinco conceptos prioritarios. Si un paciente terminal, a pesar de un adecuado control del dolor físico, expresa un profundo sentimiento de inutilidad y falta de propósito en sus últimos días, ¿cuál de los conceptos de esta teoría se ve MÁS directamente comprometido y requeriría una intervención específica (ej. escucha, validación, apoyo espiritual/existencial)?",
+      "opciones": [
+        {"id": "a", "texto": "Ausencia de dolor, ya que el malestar existencial se considera una forma de dolor."},
+        {"id": "b", "texto": "Experiencia de bienestar, entendida como la ausencia de sufrimiento global, incluyendo el existencial."},
+        {"id": "c", "texto": "Experiencia de dignidad y respeto, al no sentirse valorado como persona."},
+        {"id": "d", "texto": "Estado de tranquilidad, que se ve alterado por la angustia existencial."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "En el contexto de la 'muerte doméstica' versus la 'muerte prohibida', ¿cómo ha influido la medicalización excesiva del final de la vida en la percepción social de la muerte y en la aplicabilidad de los principios de los hospices modernos fundados por Cicely Saunders?",
+      "opciones": [
+        {"id": "a", "texto": "Ha reforzado la idea de la muerte como un evento natural y familiar, facilitando la implementación de los principios hospice en todos los entornos sanitarios."},
+        {"id": "b", "texto": "Ha contribuido a ver la muerte como un fracaso técnico, dificultando la aceptación del proceso natural de morir y haciendo más necesaria, pero a la vez más contracultural, la filosofía hospice de atención integral al sufrimiento."},
+        {"id": "c", "texto": "No ha tenido ningún impacto significativo, ya que los principios hospice se aplican independientemente del contexto social o médico."},
+        {"id": "d", "texto": "Ha llevado a una desvalorización del control sintomático, priorizando únicamente el soporte emocional que ofrecían los hospices originales."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Un paciente con enfermedad pulmonar obstructiva crónica (EPOC) en fase terminal presenta disnea intensa y crisis de pánico respiratorio. El uso de morfina a dosis bajas es una opción terapéutica. ¿Cuál es el mecanismo de acción principal de la morfina que justifica su uso en esta situación, más allá de la analgesia?",
+      "opciones": [
+        {"id": "a", "texto": "Su potente efecto broncodilatador directo sobre la musculatura lisa bronquial."},
+        {"id": "b", "texto": "La disminución de la sensibilidad del centro respiratorio a la hipercapnia y la hipoxia, y la reducción de la percepción de la disnea, disminuyendo así el trabajo respiratorio y la ansiedad asociada."},
+        {"id": "c", "texto": "Su capacidad para aumentar la saturación de oxígeno arterial de forma significativa."},
+        {"id": "d", "texto": "Su efecto antiinflamatorio a nivel pulmonar, similar al de los corticoides."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "En el manejo del dolor irruptivo en un paciente que ya recibe opioides potentes de base, se considera una dosis de rescate. Si la dosis de rescate calculada (ej. 10-15% de la dosis total diaria del opioide basal) se vuelve ineficaz o se necesitan más de 2-3 rescates al día de forma consistente, ¿cuál sería la conducta terapéutica más adecuada según los principios de manejo del dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Mantener la dosis de rescate y añadir un AINE a dosis altas para potenciar el efecto."},
+        {"id": "b", "texto": "Aumentar la dosis del opioide basal para cubrir mejor el dolor de fondo, y reajustar la dosis de rescate en consecuencia."},
+        {"id": "c", "texto": "Suspender el opioide basal y el de rescate, y probar con un opioide de un grupo farmacológico distinto."},
+        {"id": "d", "texto": "Disminuir la frecuencia de administración del opioide basal para evitar la tolerancia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La 'sensibilización central' es un mecanismo implicado en la cronificación del dolor. ¿Cómo puede este fenómeno explicar que un paciente con dolor crónico experimente alodinia (dolor ante estímulos normalmente no dolorosos)?",
+      "opciones": [
+        {"id": "a", "texto": "La sensibilización central disminuye la transmisión de señales dolorosas en la médula espinal."},
+        {"id": "b", "texto": "Se produce un daño estructural permanente en los nociceptores periféricos que los vuelve hipersensibles."},
+        {"id": "c", "texto": "Hay una hiperexcitabilidad y un aumento de la respuesta de las neuronas del sistema nervioso central a las aferencias, de modo que estímulos de bajo umbral son procesados e interpretados como dolorosos."},
+        {"id": "d", "texto": "Es un fenómeno puramente psicológico relacionado con la catastrofización del dolor por parte del paciente."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Un paciente con cáncer gástrico avanzado presenta obstrucción intestinal maligna (OIM) con vómitos persistentes y dolor cólico. La cirugía se desestima por su mal estado general y pronóstico. Además de opioides para el dolor y antieméticos, ¿qué tipo de fármaco puede ser crucial para reducir el volumen de secreciones gastrointestinales y la frecuencia de los vómitos?",
+      "opciones": [
+        {"id": "a", "texto": "Un procinético potente como la metoclopramida a dosis altas para estimular el vaciamiento gástrico."},
+        {"id": "b", "texto": "Un análogo de la somatostatina como el octreótido, por su efecto antisecretor gastrointestinal."},
+        {"id": "c", "texto": "Laxantes osmóticos para intentar permeabilizar la obstrucción."},
+        {"id": "d", "texto": "Altas dosis de inhibidores de la bomba de protones para neutralizar el ácido gástrico."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "En el contexto de la quimioterapia, la extravasación de un fármaco citostático vesicante puede causar daño tisular severo. Si ocurre una extravasación, además de detener la infusión y aplicar medidas locales según protocolo (frío/calor, antídoto si existe), ¿qué seguimiento a largo plazo es crucial para el paciente?",
+      "opciones": [
+        {"id": "a", "texto": "No se requiere seguimiento específico ya que el daño suele ser autolimitado y superficial."},
+        {"id": "b", "texto": "Vigilancia de la zona para detectar signos de necrosis, infección o dolor crónico, y posible necesidad de desbridamiento quirúrgico o cirugía reparadora en casos graves."},
+        {"id": "c", "texto": "Administración profiláctica de antibióticos orales durante un mes para prevenir infecciones."},
+        {"id": "d", "texto": "Aplicación de corticoides tópicos de alta potencia de forma indefinida para evitar la hiperpigmentación."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La 'conspiración del silencio' es un fenómeno complejo. Si un equipo de cuidados paliativos detecta que una familia insiste en ocultar al paciente su diagnóstico y pronóstico real, a pesar de que el paciente muestra deseos implícitos de saber, ¿cuál sería la aproximación más ética y terapéutica del equipo?",
+      "opciones": [
+        {"id": "a", "texto": "Respetar la decisión de la familia sin cuestionarla, ya que son los principales cuidadores."},
+        {"id": "b", "texto": "Informar directamente al paciente de toda la verdad en contra de los deseos explícitos de la familia."},
+        {"id": "c", "texto": "Explorar con la familia los motivos de su actitud, sus miedos y preocupaciones, explicar las posibles consecuencias negativas de la conspiración para el paciente y la familia, y buscar estrategias graduales para facilitar una comunicación más abierta, respetando siempre la autonomía del paciente."},
+        {"id": "d", "texto": "Derivar el caso a un comité de ética para que decida si se debe informar o no al paciente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "En la atención al duelo complicado, el temario menciona que una intervención terapéutica puede ser 'ayudar a recolocar emocionalmente al fallecido'. ¿Qué implica esta tarea para el doliente?",
+      "opciones": [
+        {"id": "a", "texto": "Olvidar completamente a la persona fallecida para poder seguir adelante sin dolor."},
+        {"id": "b", "texto": "Mantener una conexión con el fallecido que sea predominantemente dolorosa y paralizante."},
+        {"id": "c", "texto": "Encontrar una manera de integrar el recuerdo del ser querido de forma que permita continuar con la propia vida, manteniendo un vínculo sano y significativo, pero sin que la pérdida impida el funcionamiento y el bienestar futuro."},
+        {"id": "d", "texto": "Sustituir la relación con el fallecido por nuevas relaciones de forma inmediata para evitar el vacío."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "Un paciente presenta un dolor basal de 7/10 (EVA) y dolor irruptivo frecuente. Se decide iniciar tratamiento con un opioide potente. ¿Cuál de los siguientes regímenes se ajusta mejor a los principios de la titulación de opioides y manejo del dolor irruptivo?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar solo dosis altas de un opioide de acción rápida a demanda, sin pauta fija."},
+        {"id": "b", "texto": "Pautar un opioide de liberación prolongada a dosis fijas para el dolor basal y un opioide de acción rápida para rescate, ajustando la dosis basal según el número de rescates necesarios."},
+        {"id": "c", "texto": "Utilizar únicamente coadyuvantes como antidepresivos, evitando los opioides por su riesgo de adicción."},
+        {"id": "d", "texto": "Administrar un opioide de liberación prolongada a dosis muy altas desde el inicio para asegurar un control rápido y completo."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "El concepto de 'futilidad terapéutica' es relevante en la toma de decisiones al final de la vida. ¿Cuándo se considera que un tratamiento es fútil?",
+      "opciones": [
+        {"id": "a", "texto": "Cuando el paciente o la familia rechazan el tratamiento propuesto por el equipo médico."},
+        {"id": "b", "texto": "Cuando un tratamiento, aunque técnicamente posible, no ofrece una esperanza razonable de beneficio para el paciente en términos de sus objetivos globales de cuidado, o la carga del tratamiento supera con creces cualquier posible beneficio."},
+        {"id": "c", "texto": "Siempre que un tratamiento tenga efectos secundarios, independientemente de su eficacia."},
+        {"id": "d", "texto": "Únicamente cuando el coste económico del tratamiento es demasiado elevado para el sistema sanitario."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "Un paciente anciano con demencia avanzada y múltiples úlceras por presión dolorosas presenta agitación y gemidos, especialmente durante los cambios posturales y las curas. No puede verbalizar su dolor. ¿Cuál sería el enfoque MÁS adecuado para valorar y manejar su dolor, según los principios de cuidados paliativos?",
+      "opciones": [
+        {"id": "a", "texto": "Asumir que la agitación se debe exclusivamente a la demencia y administrar sedantes sin considerar el dolor."},
+        {"id": "b", "texto": "Utilizar una escala de valoración del dolor validada para pacientes no comunicativos (ej. PAINAD), observar conductas indicativas de dolor, considerar una prueba analgésica con opioides y AINEs, y pautar analgesia preventiva antes de procedimientos dolorosos."},
+        {"id": "c", "texto": "Limitar las curas y los cambios posturales para evitar la agitación, aunque las úlceras empeoren."},
+        {"id": "d", "texto": "Preguntar a la familia si creen que el paciente tiene dolor y basar el tratamiento analgésico únicamente en su percepción."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "La vía subcutánea es preferida en muchas situaciones en cuidados paliativos cuando la vía oral no es viable. Sin embargo, existen limitaciones. ¿Cuál de las siguientes situaciones podría dificultar o contraindicar el uso prolongado o de grandes volúmenes por vía subcutánea?",
+      "opciones": [
+        {"id": "a", "texto": "Un buen estado de hidratación y turgencia de la piel."},
+        {"id": "b", "texto": "La necesidad de administrar fármacos compatibles en pequeñas dosis intermitentes."},
+        {"id": "c", "texto": "Presencia de anasarca (edema generalizado masivo) o muy mala perfusión periférica, que pueden comprometer la absorción y aumentar el riesgo de complicaciones locales."},
+        {"id": "d", "texto": "La preferencia del paciente por evitar múltiples punciones venosas."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "En la 'Teoría del Duelo como Reconstrucción de Significado' de Neimeyer, a diferencia de los modelos de etapas, el duelo se concibe como:",
+      "opciones": [
+        {"id": "a", "texto": "Un proceso pasivo que el doliente debe simplemente soportar hasta que pase el tiempo."},
+        {"id": "b", "texto": "Un conjunto fijo de emociones que deben experimentarse en un orden predeterminado para una resolución exitosa."},
+        {"id": "c", "texto": "Un proceso activo de transformación donde el doliente busca dar sentido a la pérdida y reconstruir su mundo de significados en ausencia del ser querido."},
+        {"id": "d", "texto": "Una patología que siempre requiere intervención psiquiátrica intensiva."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Un paciente con cáncer de cabeza y cuello tiene un alto riesgo de hemorragia masiva por erosión tumoral de un vaso importante. El equipo paliativo debe anticiparse a esta crisis. Además de optimizar el control de síntomas y preparar un 'kit de emergencia' (ej. sedantes, paños oscuros), ¿qué aspecto de la comunicación con el paciente (si está consciente y es capaz) y la familia es crucial ante esta posibilidad?",
+      "opciones": [
+        {"id": "a", "texto": "Evitar mencionar la posibilidad de sangrado para no alarmarlos innecesariamente."},
+        {"id": "b", "texto": "Informar de manera general sobre el pronóstico sin detallar complicaciones específicas."},
+        {"id": "c", "texto": "Discutir de forma sensible y honesta la posibilidad de una hemorragia, explicar el plan de actuación para el confort y la sedación si ocurriera, y explorar sus deseos y miedos, asegurando que no se sentirán abandonados."},
+        {"id": "d", "texto": "Centrarse exclusivamente en los aspectos técnicos del manejo de la hemorragia si se produce, sin abordar el impacto emocional."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Si un paciente con enfermedad terminal avanzada y competente legalmente expresa de forma reiterada y clara su deseo de no recibir maniobras de reanimación cardiopulmonar en caso de una parada cardiorrespiratoria, ¿cuál es la actuación éticamente correcta del equipo sanitario?",
+      "opciones": [
+        {"id": "a", "texto": "Ignorar el deseo del paciente y realizar la RCP igualmente, ya que la preservación de la vida es el máximo deber."},
+        {"id": "b", "texto": "Intentar convencer al paciente de que cambie de opinión, argumentando los posibles beneficios de la RCP."},
+        {"id": "c", "texto": "Respetar la autonomía del paciente, documentar adecuadamente su decisión (orden de no reanimar - ONR) y comunicarla a todo el equipo implicado en su cuidado."},
+        {"id": "d", "texto": "Consultar únicamente a la familia para que decidan si se debe realizar o no la RCP, independientemente de la voluntad del paciente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "En el contexto del manejo del dolor, la rotación de opioides se considera cuando:",
+      "opciones": [
+        {"id": "a", "texto": "El paciente desarrolla tolerancia al efecto analgésico de un opioide, o experimenta efectos secundarios intolerables a pesar de un buen control del dolor, y se busca un mejor balance entre analgesia y toxicidad cambiando a otro opioide."},
+        {"id": "b", "texto": "Se quiere disminuir progresivamente la dosis total de opioides para evitar la dependencia física."},
+        {"id": "c", "texto": "El paciente prefiere cambiar de fármaco por motivos personales, aunque el control del dolor y los efectos secundarios sean óptimos."},
+        {"id": "d", "texto": "Como primera medida ante cualquier tipo de dolor, antes de intentar optimizar la dosis del opioide actual."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Un paciente con metástasis óseas múltiples refiere dolor que empeora significativamente con el movimiento (dolor incidental). Además de la analgesia farmacológica sistémica, ¿qué otra estrategia terapéutica específica puede ser muy efectiva para este tipo de dolor localizado y relacionado con las metástasis óseas?",
+      "opciones": [
+        {"id": "a", "texto": "Aumentar la dosis de sedantes para limitar el movimiento del paciente."},
+        {"id": "b", "texto": "Radioterapia paliativa antiálgica sobre las lesiones óseas más dolorosas."},
+        {"id": "c", "texto": "Administración de antibióticos de amplio espectro para descartar osteomielitis."},
+        {"id": "d", "texto": "Fisioterapia con ejercicios de alto impacto para fortalecer los huesos."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La 'objeción de conciencia' por parte de un profesional sanitario en el contexto de la aplicación de una ley que regule la eutanasia o el suicidio asistido (temas no tratados explícitamente en el temario pero relacionados con decisiones al final de la vida) implica:",
+      "opciones": [
+        {"id": "a", "texto": "El derecho del profesional a negarse a proporcionar cualquier tipo de cuidado paliativo si entra en conflicto con sus valores."},
+        {"id": "b", "texto": "La obligación del profesional de convencer al paciente para que desista de su solicitud, imponiendo sus propias creencias morales."},
+        {"id": "c", "texto": "El derecho individual del profesional a no participar directamente en el procedimiento específico al que objeta por motivos de conciencia, debiendo asegurar la continuidad de la atención del paciente por otros profesionales no objetores, sin que esto suponga un abandono del paciente."},
+        {"id": "d", "texto": "La posibilidad de que una institución sanitaria completa se declare objetora, impidiendo el acceso de los pacientes a dicha prestación en ese centro."}
+      ],
+      "respuestaCorrecta": "b"
+    }
+  ]
+}

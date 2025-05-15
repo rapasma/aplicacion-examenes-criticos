@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen8",
+  "nombreExamen": "Paliativos General - Examen 8 (Dificil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Al considerar los errores frecuentes al valorar una situación terminal, el temario advierte sobre 'tratar a un enfermo terminal como recuperable'. ¿Cuál es la principal consecuencia negativa de este error?",
+      "opciones": [
+        {"id": "a", "texto": "Puede llevar al abandono terapéutico del paciente por considerarlo un caso perdido."},
+        {"id": "b", "texto": "Conduce a una comunicación excesivamente pesimista con la familia, afectando su esperanza."},
+        {"id": "c", "texto": "Se corre el riesgo de caer en el encarnizamiento terapéutico, aplicando medidas desproporcionadas que pueden causar más sufrimiento que la propia enfermedad."},
+        {"id": "d", "texto": "Impide la derivación del paciente a unidades de cuidados agudos donde podría recibir tratamientos innovadores."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "El instrumento NECPAL CCOMS-ICOO se utiliza para la detección precoz de necesidades paliativas. ¿Cuál es una característica distintiva de su metodología de evaluación?",
+      "opciones": [
+        {"id": "a", "texto": "Se basa exclusivamente en la 'pregunta sorpresa' como único criterio diagnóstico."},
+        {"id": "b", "texto": "Es una evaluación puramente cuantitativa basada en parámetros de laboratorio."},
+        {"id": "c", "texto": "Combina evaluaciones de percepción subjetiva (como la pregunta sorpresa) con parámetros de severidad, progresión, síndromes geriátricos y uso de recursos."},
+        {"id": "d", "texto": "Solo es aplicable a pacientes con enfermedades oncológicas en fase muy avanzada."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "En el manejo del dolor, la escalera analgésica de la OMS ha sido un referente. Sin embargo, el temario también menciona un 'cuarto escalón'. ¿Qué tipo de intervenciones comprende principalmente este cuarto escalón?",
+      "opciones": [
+        {"id": "a", "texto": "El uso de AINEs a dosis muy elevadas junto con paracetamol."},
+        {"id": "b", "texto": "Terapias alternativas como la homeopatía y la acupresión exclusivamente."},
+        {"id": "c", "texto": "Medidas analgésicas invasivas como bloqueos nerviosos, infusiones subcutáneas/intravenosas continuas o analgesia intratecal/epidural."},
+        {"id": "d", "texto": "La rotación sistemática de opioides débiles para evitar la tolerancia."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Un paciente con cáncer avanzado presenta disnea progresiva. Tras la valoración, se sospecha una linfangitis carcinomatosa. ¿Qué grupo farmacológico, además de los opioides, podría ser particularmente útil para aliviar la disnea en esta situación específica?",
+      "opciones": [
+        {"id": "a", "texto": "Antibióticos de amplio espectro."},
+        {"id": "b", "texto": "Antihistamínicos sedantes."},
+        {"id": "c", "texto": "Corticoides, por su efecto antiinflamatorio."},
+        {"id": "d", "texto": "Broncodilatadores inhalados de acción corta como única medida."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "La mucositis oral es una complicación frecuente de algunos tratamientos oncológicos. Si un paciente desarrolla mucositis grado 3 según la OMS (ulceración con limitación para comer), ¿cuál de las siguientes intervenciones sería prioritaria además del manejo del dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Insistir en una dieta rica en alimentos ácidos y picantes para estimular la salivación."},
+        {"id": "b", "texto": "Realizar enjuagues bucales exclusivamente con soluciones alcohólicas potentes."},
+        {"id": "c", "texto": "Adaptar la dieta a texturas blandas o líquidas, asegurar una adecuada hidratación y valorar el soporte nutricional si es necesario."},
+        {"id": "d", "texto": "Suspender toda higiene oral hasta que las úlceras cicatricen completamente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "En un paciente con delirium hiperactivo que presenta agitación severa y riesgo para su seguridad, y que no responde adecuadamente a haloperidol, ¿qué alternativa farmacológica podría considerarse para un control más rápido y sedante de la agitación?",
+      "opciones": [
+        {"id": "a", "texto": "Aumentar la dosis de cafeína para contrarrestar la somnolencia."},
+        {"id": "b", "texto": "Administrar un psicoestimulante como el metilfenidato."},
+        {"id": "c", "texto": "Neurolépticos más sedantes como la levomepromazina, o benzodiacepinas como el midazolam en situaciones específicas."},
+        {"id": "d", "texto": "Suspender todos los psicofármacos y optar solo por medidas de contención física."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "La obstrucción intestinal maligna (OIM) es una complicación en pacientes oncológicos. Si la cirugía no es una opción, el tratamiento médico se enfoca en el alivio sintomático. ¿Qué fármaco se utiliza para reducir las secreciones intestinales y puede ayudar a controlar los vómitos y la distensión?",
+      "opciones": [
+        {"id": "a", "texto": "Laxantes estimulantes a dosis altas."},
+        {"id": "b", "texto": "Procinéticos potentes como la cisaprida."},
+        {"id": "c", "texto": "Octreótido (un análogo de la somatostatina)."},
+        {"id": "d", "texto": "Suplementos de fibra insoluble en grandes cantidades."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "En el abordaje de la ansiedad en un paciente terminal, la comunicación terapéutica es esencial. 'Normalizar' la reacción ansiosa del paciente implica:",
+      "opciones": [
+        {"id": "a", "texto": "Restarle importancia a sus miedos diciéndole que no tiene motivos para estar ansioso."},
+        {"id": "b", "texto": "Ayudarle a comprender que su ansiedad es una reacción esperable y comprensible ante los cambios y amenazas que enfrenta, lo que puede aliviar la sensación de estar perdiendo el control."},
+        {"id": "c", "texto": "Centrarse únicamente en los síntomas físicos de la ansiedad, como las palpitaciones, sin abordar el componente emocional."},
+        {"id": "d", "texto": "Sugerirle que la ansiedad es un signo de falta de fe o fortaleza personal."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La caquexia en el paciente oncológico avanzado es un síndrome complejo. Además de la pérdida de peso y masa muscular, ¿qué otra manifestación clínica es característica y contribuye al deterioro funcional?",
+      "opciones": [
+        {"id": "a", "texto": "Aumento significativo del apetito (hiperfagia)."},
+        {"id": "b", "texto": "Debilitamiento muscular generalizado, letargia y torpeza de movimientos."},
+        {"id": "c", "texto": "Mejora progresiva de la capacidad para realizar ejercicio."},
+        {"id": "d", "texto": "Ausencia de impacto en la imagen corporal y la autoestima."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "Un paciente con cáncer de pulmón presenta hemoptisis leve pero persistente. ¿Cuál de las siguientes medidas NO farmacológicas y de cuidados generales sería adecuada inicialmente?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar antitusígenos si la tos exacerba el sangrado y mantener una vigilancia estrecha."},
+        {"id": "b", "texto": "Fomentar ejercicios de tos vigorosa para limpiar las vías aéreas."},
+        {"id": "c", "texto": "Colocar al paciente en decúbito lateral sobre el lado del pulmón sano si se sospecha origen unilateral."},
+        {"id": "d", "texto": "Asegurar reposo y evitar esfuerzos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "El síndrome de la vena cava superior (SVCS) puede ser una urgencia oncológica. Si un paciente presenta edema facial matutino, distensión venosa yugular y disnea, y se confirma un SVCS por compresión tumoral, ¿qué medida farmacológica inicial es crucial para reducir el edema y la inflamación?",
+      "opciones": [
+        {"id": "a", "texto": "Administración de anticoagulantes orales como única medida."},
+        {"id": "b", "texto": "Inicio de quimioterapia citotóxica de forma inmediata sin otras medidas."},
+        {"id": "c", "texto": "Corticoides a dosis altas (ej. dexametasona) para disminuir la compresión y el edema."},
+        {"id": "d", "texto": "Analgésicos opioides para controlar el dolor torácico exclusivamente."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Un paciente en situación de últimos días experimenta un aumento de la disnea y agitación. La familia está muy angustiada. Se considera la sedación paliativa. ¿Cuál es el requisito ético y procedimental MÁS importante antes de iniciarla?",
+      "opciones": [
+        {"id": "a", "texto": "Asegurar que el paciente haya completado todos sus asuntos legales."},
+        {"id": "b", "texto": "Obtener el consentimiento explícito, implícito o delegado del paciente, tras una información clara sobre el objetivo y el proceso, y registrarlo adecuadamente."},
+        {"id": "c", "texto": "Comprobar que la familia está de acuerdo en acelerar el fallecimiento."},
+        {"id": "d", "texto": "Realizar una analítica completa para descartar causas reversibles de la agitación."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "En el proceso de duelo, según el modelo de Kübler-Ross, la etapa de 'Negociación' se caracteriza porque el individuo:",
+      "opciones": [
+        {"id": "a", "texto": "Acepta plenamente la pérdida y encuentra paz."},
+        {"id": "b", "texto": "Niega rotundamente la realidad de la situación y busca segundas opiniones constantemente."},
+        {"id": "c", "texto": "Intenta llegar a un acuerdo o pacto (a menudo con un poder superior) para posponer o cambiar el desenlace a cambio de algo."},
+        {"id": "d", "texto": "Expresa ira y resentimiento hacia los demás o hacia la situación."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "El 'duelo desautorizado' es aquel que la persona vive ante una pérdida que no es abiertamente reconocida o socialmente apoyada. ¿Cuál sería un ejemplo de este tipo de duelo?",
+      "opciones": [
+        {"id": "a", "texto": "El duelo de un cónyuge tras el fallecimiento de su pareja después de una larga enfermedad, con amplio apoyo familiar."},
+        {"id": "b", "texto": "El duelo de una persona por la muerte de una mascota muy querida, que su entorno no considera una pérdida significativa."},
+        {"id": "c", "texto": "El duelo de un hijo adulto por la muerte de un padre anciano, vivido con rituales sociales aceptados."},
+        {"id": "d", "texto": "El duelo de una comunidad tras un desastre natural, donde el apoyo mutuo es explícito."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Un paciente con enfermedad terminal avanzada, previamente comunicativo, presenta un deterioro agudo del nivel de conciencia, desorientación y fluctuaciones en su estado mental. Se sospecha un delirium. ¿Qué factor podría ser una causa orgánica subyacente y reversible a investigar?",
+      "opciones": [
+        {"id": "a", "texto": "El proceso natural de aceptación de la muerte."},
+        {"id": "b", "texto": "Una infección no diagnosticada (urinaria, respiratoria) o una alteración metabólica como la hipercalcemia."},
+        {"id": "c", "texto": "El deseo del paciente de no comunicarse más con su familia."},
+        {"id": "d", "texto": "La tristeza profunda asociada a la etapa de depresión del duelo."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La 'atención integral e integrada' en cuidados paliativos implica una coordinación entre diferentes niveles asistenciales y profesionales. ¿Cuál de los siguientes aspectos refleja MEJOR esta integración?",
+      "opciones": [
+        {"id": "a", "texto": "Cada profesional trata al paciente de forma independiente sin compartir información."},
+        {"id": "b", "texto": "El paciente es derivado secuencialmente de un especialista a otro hasta encontrar el tratamiento adecuado."},
+        {"id": "c", "texto": "Un equipo multidisciplinar colabora estrechamente, compartiendo valoraciones y planes de cuidado, y asegurando la continuidad asistencial entre el hospital, el domicilio y otros recursos."},
+        {"id": "d", "texto": "El médico de atención primaria es el único responsable de todos los aspectos del cuidado paliativo."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "En el manejo de la toxicidad de la quimioterapia, si un paciente experimenta neutropenia febril, ¿cuál es la implicación clínica más seria y que requiere acción urgente?",
+      "opciones": [
+        {"id": "a", "texto": "Un mayor riesgo de desarrollar alopecia de forma permanente."},
+        {"id": "b", "texto": "Una alta probabilidad de sufrir náuseas y vómitos incoercibles."},
+        {"id": "c", "texto": "Un riesgo elevado de infecciones graves y potencialmente mortales debido a la baja de defensas."},
+        {"id": "d", "texto": "La necesidad inmediata de suspender permanentemente todo tratamiento oncológico."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "Un paciente en tratamiento con morfina de liberación prolongada para el dolor crónico refiere que, a pesar de un buen control basal, experimenta episodios de dolor intenso varias veces al día ('dolor irruptivo'). ¿Qué ajuste terapéutico es el más indicado inicialmente?",
+      "opciones": [
+        {"id": "a", "texto": "Disminuir la dosis de morfina de liberación prolongada para evitar la toxicidad."},
+        {"id": "b", "texto": "Prescribir dosis de rescate de un opioide de acción rápida para tomar según necesidad durante los episodios de dolor irruptivo, manteniendo la pauta basal."},
+        {"id": "c", "texto": "Cambiar inmediatamente la morfina por un AINE, ya que la morfina no está siendo efectiva."},
+        {"id": "d", "texto": "Añadir un antidepresivo tricíclico como única medida para el dolor irruptivo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Al abordar las necesidades espirituales de un paciente al final de la vida, ¿qué diferencia fundamental existe entre 'espiritualidad' y 'religiosidad'?",
+      "opciones": [
+        {"id": "a", "texto": "No hay ninguna diferencia, son términos intercambiables."},
+        {"id": "b", "texto": "La espiritualidad se refiere exclusivamente a la práctica de rituales religiosos organizados."},
+        {"id": "c", "texto": "La espiritualidad es un concepto más amplio que incluye la búsqueda de sentido, propósito y conexión, mientras que la religiosidad implica la adhesión a un sistema específico de creencias y prácticas de una fe organizada; una persona puede ser espiritual sin ser religiosa."},
+        {"id": "d", "texto": "La religiosidad es una necesidad universal, mientras que la espiritualidad solo es relevante para personas con formación filosófica."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "Si un paciente con una enfermedad terminal expresa su deseo de 'no ser una carga' para su familia y muestra preocupación por el impacto económico de su enfermedad en ellos, ¿a qué dimensión del 'Dolor Total' corresponden principalmente estas preocupaciones?",
+      "opciones": [
+        {"id": "a", "texto": "A la dimensión física, relacionada con la debilidad."},
+        {"id": "b", "texto": "A la dimensión espiritual, relacionada con la búsqueda de trascendencia."},
+        {"id": "c", "texto": "A la dimensión social, que incluye preocupaciones familiares y económicas."},
+        {"id": "d", "texto": "A la dimensión emocional, exclusivamente como manifestación de ansiedad."}
+      ],
+      "respuestaCorrecta": "a"
+    }
+  ]
+}

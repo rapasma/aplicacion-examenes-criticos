@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen3",
+  "nombreExamen": "Paliativos General - Examen 3 (Fácil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Según el Bloque 1, el 'Memento Mori' hace referencia a la idea de que la muerte ha sido considerada históricamente como:",
+      "opciones": [
+        {"id": "a", "texto": "Un tabú que nunca se debía mencionar."},
+        {"id": "b", "texto": "Un acto natural sobre el que el propio sujeto tenía cierto control en muchas culturas."},
+        {"id": "c", "texto": "Un castigo divino inevitable."},
+        {"id": "d", "texto": "Un evento que solo afectaba a los ancianos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La Sociedad Española de Cuidados Paliativos (SECPAL) se constituyó en Madrid en el año:",
+      "opciones": [
+        {"id": "a", "texto": "1984"},
+        {"id": "b", "texto": "1967"},
+        {"id": "c", "texto": "1992"},
+        {"id": "d", "texto": "2002"}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "¿Cuál de estos NO es un criterio para definir a un paciente como 'terminal' según la SECPAL?",
+      "opciones": [
+        {"id": "a", "texto": "Enfermedad avanzada, progresiva e incurable."},
+        {"id": "b", "texto": "Falta de posibilidades razonables de respuesta al tratamiento específico."},
+        {"id": "c", "texto": "Pronóstico de vida inferior a seis meses."},
+        {"id": "d", "texto": "Edad superior a 80 años."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "La quimioterapia radical se utiliza principalmente en:",
+      "opciones": [
+        {"id": "a", "texto": "Tumores que solo requieren tratamiento paliativo."},
+        {"id": "b", "texto": "Como preparación para una cirugía mayor."},
+        {"id": "c", "texto": "Tumores muy sensibles donde se busca la curación, incluso en etapas avanzadas (ej. leucemias, linfomas)."},
+        {"id": "d", "texto": "Después de la cirugía para evitar recaídas, en todos los tipos de cáncer."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "Uno de los efectos secundarios más comunes de la quimioterapia son las náuseas y vómitos. ¿Qué tipo de fármacos se administran para prevenirlos o reducirlos?",
+      "opciones": [
+        {"id": "a", "texto": "Analgésicos opioides."},
+        {"id": "b", "texto": "Antieméticos (ej. ondansetrón, granisetrón)."},
+        {"id": "c", "texto": "Antibióticos de amplio espectro."},
+        {"id": "d", "texto": "Laxantes osmóticos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La eritropoyetina (EPO) es un medicamento que se utiliza a veces durante la quimioterapia para:",
+      "opciones": [
+        {"id": "a", "texto": "Estimular el crecimiento de los glóbulos blancos."},
+        {"id": "b", "texto": "Prevenir las náuseas y vómitos."},
+        {"id": "c", "texto": "Estimular la producción de glóbulos rojos y combatir la anemia."},
+        {"id": "d", "texto": "Reducir la caída del pelo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Al valorar a la persona en cuidados paliativos, se debe considerar al ser humano como bio-psico-socio-espiritual. ¿Qué implica la dimensión 'social'?",
+      "opciones": [
+        {"id": "a", "texto": "Únicamente las creencias religiosas del paciente."},
+        {"id": "b", "texto": "Las relaciones familiares, la red de apoyo, el rol social y los aspectos económicos."},
+        {"id": "c", "texto": "Solo los síntomas físicos que presenta el paciente."},
+        {"id": "d", "texto": "La capacidad cognitiva y la memoria."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Un síntoma muy frecuente y a menudo olvidado en su detección y tratamiento en pacientes paliativos, que genera mucho disconfort, es:",
+      "opciones": [
+        {"id": "a", "texto": "La hipertensión arterial."},
+        {"id": "b", "texto": "La pérdida de cabello."},
+        {"id": "c", "texto": "El estreñimiento y la boca seca."},
+        {"id": "d", "texto": "La euforia excesiva."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Según la SECPAL, la monitorización de los síntomas en cuidados paliativos se puede realizar mediante:",
+      "opciones": [
+        {"id": "a", "texto": "La intuición del profesional exclusivamente."},
+        {"id": "b", "texto": "Solo preguntando a la familia, nunca al paciente."},
+        {"id": "c", "texto": "El uso de instrumentos de medida estandarizados como la escala EVA o el esquema corporal del dolor."},
+        {"id": "d", "texto": "Realizando analíticas de sangre diarias."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "El dolor visceral, según el PDF 'Tema 7' (Dolor y Síntomas Neuropsicológicos), se caracteriza por ser:",
+      "opciones": [
+        {"id": "a", "texto": "Agudo, bien localizado y punzante."},
+        {"id": "b", "texto": "Siempre de origen neuropático."},
+        {"id": "c", "texto": "Sordo, difuso, mal localizado, y a menudo referido a un área de la superficie corporal."},
+        {"id": "d", "texto": "Un dolor que solo se alivia con opioides potentes."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "¿Qué es el dolor irruptivo?",
+      "opciones": [
+        {"id": "a", "texto": "Un dolor leve y constante que no varía en intensidad."},
+        {"id": "b", "texto": "Episodios de crisis aguda de dolor, de aparición rápida, alta intensidad y corta duración, sobre un dolor basal controlado."},
+        {"id": "c", "texto": "El dolor que solo aparece durante la noche."},
+        {"id": "d", "texto": "Un tipo de dolor que no responde a ningún analgésico."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "En la valoración del dolor en un niño que no puede verbalizarlo bien, ¿qué tipo de escala es apropiada?",
+      "opciones": [
+        {"id": "a", "texto": "Preguntarle exclusivamente a los padres cuánto creen que le duele."},
+        {"id": "b", "texto": "Escalas de signos conductuales o escalas de caras (ej. Wong-Baker)."},
+        {"id": "c", "texto": "Realizar una resonancia magnética para objetivar el dolor."},
+        {"id": "d", "texto": "Asumir que los niños no sienten el dolor con la misma intensidad que los adultos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "El delirium en un paciente terminal puede clasificarse como hiperactivo, hipoactivo o mixto. ¿Cuál es el tipo más frecuente?",
+      "opciones": [
+        {"id": "a", "texto": "Hiperactivo exclusivamente."},
+        {"id": "b", "texto": "Hipoactivo exclusivamente."},
+        {"id": "c", "texto": "Mixto (alterna momentos de agitación con letargia)."},
+        {"id": "d", "texto": "No existe el tipo mixto, solo hiperactivo o hipoactivo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "En el manejo del delirium, una intervención farmacológica común es el uso de Haloperidol. ¿Cuál es una característica de este fármaco en este contexto?",
+      "opciones": [
+        {"id": "a", "texto": "Es muy sedante y siempre produce sueño profundo."},
+        {"id": "b", "texto": "Es poco sedante pero reduce los signos y síntomas de agitación."},
+        {"id": "c", "texto": "Solo se puede administrar por vía oral."},
+        {"id": "d", "texto": "Está contraindicado en pacientes ancianos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Al abordar el insomnio en un paciente paliativo, además de los fármacos, ¿qué cuidado enfermero es fundamental?",
+      "opciones": [
+        {"id": "a", "texto": "Asegurar que el paciente duerma la mayor parte del día para compensar."},
+        {"id": "b", "texto": "Mantener la habitación muy iluminada y con ruido para evitar que se duerma durante el día."},
+        {"id": "c", "texto": "Colocar al paciente en postura cómoda, facilitar un entorno de descanso y prestar apoyo psicológico."},
+        {"id": "d", "texto": "Limitar la ingesta de líquidos por la noche."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La comunicación terapéutica es clave en el manejo de la ansiedad del paciente terminal. Esto incluye:",
+      "opciones": [
+        {"id": "a", "texto": "Evitar hablar sobre la muerte o el pronóstico para no generar más ansiedad."},
+        {"id": "b", "texto": "Dar consejos continuamente sobre cómo debe sentirse el paciente."},
+        {"id": "c", "texto": "La escucha activa, la empatía y la validación de los sentimientos del paciente."},
+        {"id": "d", "texto": "Limitar el tiempo de conversación para ser más eficientes."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "El estreñimiento es un efecto secundario muy común de los analgésicos opioides. ¿Cuál es la medida preventiva y de manejo más recomendada junto con el inicio de opioides?",
+      "opciones": [
+        {"id": "a", "texto": "Aumentar la dosis de opioides para contrarrestar el efecto."},
+        {"id": "b", "texto": "Recomendar una dieta muy baja en fibra."},
+        {"id": "c", "texto": "Pautar laxantes de forma regular y asegurar una adecuada hidratación."},
+        {"id": "d", "texto": "Esperar a que aparezca el estreñimiento antes de tratarlo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La vía de administración de elección para los fármacos en cuidados paliativos, siempre que sea posible, es:",
+      "opciones": [
+        {"id": "a", "texto": "La vía intravenosa, por su rapidez."},
+        {"id": "b", "texto": "La vía intramuscular, por su comodidad."},
+        {"id": "c", "texto": "La vía oral, por ser cómoda, fácil y permitir autonomía."},
+        {"id": "d", "texto": "La vía rectal, por su buena absorción."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "La analgesia controlada por el paciente (PCA) es un método de administración de analgésicos que:",
+      "opciones": [
+        {"id": "a", "texto": "Solo puede ser manejada por personal de enfermería."},
+        {"id": "b", "texto": "Permite al propio paciente administrarse dosis de analgésico según sus necesidades, dentro de unos límites de seguridad programados."},
+        {"id": "c", "texto": "Se utiliza exclusivamente para el dolor agudo postoperatorio."},
+        {"id": "d", "texto": "Consiste en la aplicación de parches transdérmicos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "Además del tratamiento farmacológico, ¿qué tipo de intervención NO farmacológica puede ayudar a aliviar el dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Aumentar la actividad física intensa en todos los pacientes."},
+        {"id": "b", "texto": "La estimulación cutánea (masajes), la aplicación de frío/calor, o la distracción."},
+        {"id": "c", "texto": "El aislamiento social completo para evitar estímulos."},
+        {"id": "d", "texto": "La administración de placebos sin informar al paciente."}
+      ],
+      "respuestaCorrecta": "b"
+    }
+  ]
+}

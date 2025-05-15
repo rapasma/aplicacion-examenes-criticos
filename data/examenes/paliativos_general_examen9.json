@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen9",
+  "nombreExamen": "Paliativos General - Examen 9 (Dificil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "El manejo de la disnea en un paciente en fase terminal con EPOC avanzada puede incluir oxigenoterapia. Según las revisiones sistemáticas mencionadas en el temario, ¿cuál es la principal conclusión sobre su beneficio?",
+      "opciones": [
+        {"id": "a", "texto": "La oxigenoterapia siempre mejora significativamente la disnea, independientemente de la presencia de hipoxemia."},
+        {"id": "b", "texto": "No mejora la disnea en pacientes sin hipoxemia, aunque las guías pueden recomendar una prueba individual y mantenerlo si hay alivio sintomático."},
+        {"id": "c", "texto": "Está contraindicada en pacientes con EPOC debido al riesgo de depresión respiratoria en todos los casos."},
+        {"id": "d", "texto": "Su principal beneficio es la corrección de la acidosis respiratoria, más que el alivio de la disnea."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "En el tratamiento de la candidiasis oral en pacientes inmunosuprimidos, ¿cuál es la aproximación terapéutica más respaldada por la evidencia según el temario?",
+      "opciones": [
+        {"id": "a", "texto": "El uso exclusivo de enjuagues con soluciones salinas hipertónicas."},
+        {"id": "b", "texto": "La aplicación tópica de corticoides para reducir la inflamación."},
+        {"id": "c", "texto": "El tratamiento precoz con antifúngicos (ej. Nistatina, Fluconazol), considerando la profilaxis en pacientes de alto riesgo que recibirán quimioterapia."},
+        {"id": "d", "texto": "Esperar la resolución espontánea, ya que suele ser autolimitada."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "La 'fatiga por compasión' es un riesgo para los profesionales de cuidados paliativos. ¿Qué factor contribuye principalmente a este fenómeno?",
+      "opciones": [
+        {"id": "a", "texto": "La falta de conocimientos técnicos sobre el manejo de síntomas complejos."},
+        {"id": "b", "texto": "El exceso de tiempo libre y la poca carga de trabajo asistencial."},
+        {"id": "c", "texto": "La exposición continua al sufrimiento del paciente y sus familiares, y la preparación para la muerte del enfermo."},
+        {"id": "d", "texto": "La escasa colaboración entre los diferentes miembros del equipo interdisciplinar."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Al valorar a un paciente con dolor crónico no oncológico (DCNO) utilizando la escala ESAS, el paciente puntúa su 'cansancio' en 8/10 y su 'dificultad para dormir' en 7/10. ¿Cómo influyen estos síntomas en la percepción y manejo del dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Estos síntomas son irrelevantes para el manejo del dolor y deben tratarse por separado."},
+        {"id": "b", "texto": "El cansancio y la falta de sueño suelen mejorar la tolerancia al dolor, facilitando su control."},
+        {"id": "c", "texto": "Pueden exacerbar la percepción del dolor y disminuir el umbral de tolerancia, lo que requiere un abordaje integral que incluya estos síntomas."},
+        {"id": "d", "texto": "Indican que el paciente está exagerando su sintomatología general."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "Un paciente con cáncer de páncreas avanzado presenta ictericia obstructiva, prurito intenso y dolor. Desde la perspectiva de los cuidados paliativos, si las opciones curativas se han agotado, ¿cuál sería un objetivo prioritario en el manejo del prurito?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar sedantes potentes para que el paciente no perciba el picor."},
+        {"id": "b", "texto": "Realizar una biopsia hepática para confirmar la causa exacta de la obstrucción."},
+        {"id": "c", "texto": "Implementar medidas para aliviar el prurito (ej. colestiramina si está indicada, antihistamínicos, emolientes, evitar irritantes) para mejorar el confort y la calidad de vida."},
+        {"id": "d", "texto": "Indicar al paciente que el prurito es un síntoma inevitable y no tratable en esta fase."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "En el contexto de la 'muerte prohibida' descrito en el temario, ¿cómo afectó este cambio sociocultural a la vivencia del final de la vida?",
+      "opciones": [
+        {"id": "a", "texto": "Promovió una mayor apertura y naturalidad al hablar sobre la muerte en la sociedad."},
+        {"id": "b", "texto": "Llevó a que la muerte dejara de ser un evento acompañado y aceptado, convirtiéndose en algo lejano y vergonzoso."},
+        {"id": "c", "texto": "Incrementó la participación activa del moribundo en la planificación de sus ritos funerarios."},
+        {"id": "d", "texto": "Fortaleció los lazos comunitarios en torno al cuidado de los enfermos terminales en el hogar."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Si un paciente en cuidados paliativos con una enfermedad neurodegenerativa avanzada presenta disfagia progresiva a sólidos y luego a líquidos, ¿qué consideración es primordial al planificar su alimentación e hidratación?",
+      "opciones": [
+        {"id": "a", "texto": "Insistir en la alimentación oral forzada para mantener el estado nutricional a toda costa."},
+        {"id": "b", "texto": "Priorizar la seguridad (evitar aspiraciones) y el confort, adaptando texturas, considerando vías alternativas si son coherentes con los objetivos de cuidado y los deseos del paciente, y valorando los beneficios frente a las cargas."},
+        {"id": "c", "texto": "Insertar una sonda nasogástrica de forma rutinaria en todos los pacientes con disfagia."},
+        {"id": "d", "texto": "Suspender toda ingesta oral y administrar únicamente fluidoterapia intravenosa masiva."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "El principio de 'no maleficencia' en bioética, aplicado a los cuidados paliativos, implica fundamentalmente:",
+      "opciones": [
+        {"id": "a", "texto": "La obligación de intentar todas las medidas curativas disponibles, incluso si son fútiles."},
+        {"id": "b", "texto": "Evitar acciones que causen daño innecesario o desproporcionado al paciente, sopesando los beneficios y las cargas de las intervenciones."},
+        {"id": "c", "texto": "Informar al paciente de todos los detalles técnicos de su enfermedad, independientemente de su deseo de saber."},
+        {"id": "d", "texto": "Respetar la autonomía del paciente solo si sus decisiones coinciden con las del equipo médico."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Un paciente está recibiendo fentanilo transdérmico para el dolor crónico. Si es necesario cambiar a morfina subcutánea, ¿qué precaución importante se debe tomar respecto al inicio de la morfina tras retirar el parche?",
+      "opciones": [
+        {"id": "a", "texto": "Iniciar la morfina subcutánea inmediatamente después de retirar el parche a la dosis equianalgésica completa."},
+        {"id": "b", "texto": "Esperar al menos 24 horas tras retirar el parche antes de iniciar la morfina debido a la vida media larga del fentanilo parche."},
+        {"id": "c", "texto": "Debido al reservorio cutáneo de fentanilo, la morfina debe iniciarse varias horas después (ej. 8-12h) de retirar el parche, y la dosis inicial de morfina podría necesitar un ajuste (ej. administrar un porcentaje de la dosis equianalgésica calculada en las primeras 24h)."},
+        {"id": "d", "texto": "Solapar la administración del parche de fentanilo con la morfina subcutánea durante al menos 48 horas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "En el manejo de la neutropenia febril en un paciente oncológico, el 'MASCC score' se utiliza para:",
+      "opciones": [
+        {"id": "a", "texto": "Determinar el tipo de antibiótico más adecuado según el germen causal."},
+        {"id": "b", "texto": "Evaluar el grado de dolor asociado a la fiebre."},
+        {"id": "c", "texto": "Estratificar el riesgo del paciente y decidir si el tratamiento puede ser ambulatorio o requiere ingreso hospitalario."},
+        {"id": "d", "texto": "Medir la eficacia de los factores estimulantes de colonias de granulocitos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "La 'Teoría del final tranquilo de la vida' de Ruland y Moore enfatiza la importancia de la 'proximidad de los allegados'. ¿Cómo se traduce esto en la práctica de los cuidados paliativos, especialmente en un entorno hospitalario?",
+      "opciones": [
+        {"id": "a", "texto": "Limitando estrictamente las visitas para asegurar el descanso absoluto del paciente."},
+        {"id": "b", "texto": "Fomentando un entorno que permita y facilite la presencia y participación de la familia y seres queridos, según los deseos del paciente, reconociendo su importancia para el bienestar emocional."},
+        {"id": "c", "texto": "Delegando toda la comunicación con la familia a un único portavoz del equipo médico."},
+        {"id": "d", "texto": "Priorizando la eficiencia de las rutinas hospitalarias sobre las necesidades de acompañamiento del paciente."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Cicely Saunders introdujo el término 'Dolor Total'. ¿Qué implicación práctica fundamental tiene este concepto para el equipo de cuidados paliativos?",
+      "opciones": [
+        {"id": "a", "texto": "Que el tratamiento del dolor debe centrarse exclusivamente en la prescripción de analgésicos cada vez más potentes."},
+        {"id": "b", "texto": "Que se deben abordar únicamente los síntomas físicos, ya que los demás aspectos son responsabilidad de otros profesionales no sanitarios."},
+        {"id": "c", "texto": "La necesidad de una valoración y un abordaje multidimensional del sufrimiento, que considere los componentes físicos, psicológicos, sociales y espirituales del paciente y su familia."},
+        {"id": "d", "texto": "Que el dolor espiritual es el componente más importante y debe tratarse antes que el dolor físico."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "La quimioterapia adyuvante tiene como objetivo principal:",
+      "opciones": [
+        {"id": "a", "texto": "Reducir el tamaño de un tumor grande para facilitar una cirugía posterior."},
+        {"id": "b", "texto": "Tratar un cáncer que ya ha desarrollado metástasis extendidas con fines paliativos."},
+        {"id": "c", "texto": "Eliminar posibles células cancerosas microscópicas residuales tras un tratamiento local primario (cirugía o radioterapia) y reducir el riesgo de recurrencia."},
+        {"id": "d", "texto": "Ser el único tratamiento curativo en leucemias y linfomas."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "Un paciente con cáncer avanzado presenta un síndrome de compresión medular con paraparesia de instauración rápida. Además de la administración urgente de corticoides a dosis altas, ¿cuál es la consideración terapéutica más importante para intentar preservar la función neurológica?",
+      "opciones": [
+        {"id": "a", "texto": "Iniciar fisioterapia intensiva de forma inmediata como única medida."},
+        {"id": "b", "texto": "Esperar 24-48 horas para ver la evolución espontánea antes de tomar otras decisiones."},
+        {"id": "c", "texto": "Valorar urgentemente tratamientos descompresivos como la radioterapia o la cirugía, según la situación clínica y el pronóstico."},
+        {"id": "d", "texto": "Administrar analgésicos no opioides y mantener reposo absoluto."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "En el manejo de los estertores premortem, el temario indica que la aspiración orofaríngea:",
+      "opciones": [
+        {"id": "a", "texto": "Debe realizarse de forma continua y profunda para garantizar la permeabilidad de la vía aérea."},
+        {"id": "b", "texto": "Es la medida más eficaz y confortable para el paciente en esta situación."},
+        {"id": "c", "texto": "Debe reservarse para pacientes inconscientes y puede ser molesta, siendo a veces realizada con fines espurios para tranquilizar a la familia más que por beneficio real al paciente; se prefiere el manejo farmacológico de las secreciones."},
+        {"id": "d", "texto": "Está completamente contraindicada en todos los casos de pacientes en agonía."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La 'conspiración del silencio' puede tener consecuencias negativas para el paciente terminal porque:",
+      "opciones": [
+        {"id": "a", "texto": "Asegura que el paciente no sufra ansiedad al desconocer la gravedad de su situación."},
+        {"id": "b", "texto": "Facilita la toma de decisiones por parte de la familia sin la interferencia del paciente."},
+        {"id": "c", "texto": "Puede privar al paciente de la oportunidad de tomar decisiones importantes sobre su vida, despedirse o abordar asuntos pendientes, generando aislamiento y desconfianza."},
+        {"id": "d", "texto": "Es una estrategia recomendada para proteger emocionalmente a todos los pacientes en cuidados paliativos."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "Al evaluar el delirio con el Confusion Assessment Method (CAM), para establecer el diagnóstico se requiere la presencia de 'inicio agudo y curso fluctuante' Y 'alteración de la atención', además de al menos uno de los siguientes:",
+      "opciones": [
+        {"id": "a", "texto": "Fiebre alta o presencia de dolor intenso."},
+        {"id": "b", "texto": "Pensamiento desorganizado O alteración del nivel de conciencia."},
+        {"id": "c", "texto": "Agitación psicomotriz O alucinaciones visuales exclusivamente."},
+        {"id": "d", "texto": "Antecedentes de demencia O depresión mayor."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "Un paciente presenta dolor somático profundo, originado en estructuras como ligamentos y huesos, que es constante y bien localizado. ¿Qué tipo de analgésico sería una opción razonable de inicio según la escalera de la OMS si el dolor es leve a moderado?",
+      "opciones": [
+        {"id": "a", "texto": "Morfina intravenosa en infusión continua."},
+        {"id": "b", "texto": "Un antiinflamatorio no esteroideo (AINE) o paracetamol."},
+        {"id": "c", "texto": "Un antidepresivo tricíclico como la amitriptilina exclusivamente."},
+        {"id": "d", "texto": "Un anticonvulsivante como la gabapentina."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "En la comunicación de malas noticias, un principio fundamental es:",
+      "opciones": [
+        {"id": "a", "texto": "Dar toda la información de golpe sin permitir preguntas para ser eficiente."},
+        {"id": "b", "texto": "Utilizar un lenguaje muy técnico para demostrar conocimiento y autoridad."},
+        {"id": "c", "texto": "Adaptar la cantidad y el ritmo de la información a las necesidades y deseos del paciente, verificar la comprensión y ofrecer apoyo emocional continuado."},
+        {"id": "d", "texto": "Delegar siempre la comunicación de malas noticias a los familiares del paciente."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La transición de cuidados curativos a paliativos, según el modelo ideal presentado en el temario, debería ser:",
+      "opciones": [
+        {"id": "a", "texto": "Un cambio abrupto que ocurre únicamente cuando todos los tratamientos curativos han fracasado y el paciente está en sus últimas horas de vida."},
+        {"id": "b", "texto": "Una decisión tomada exclusivamente por el equipo médico sin consultar al paciente o la familia."},
+        {"id": "c", "texto": "Un proceso gradual donde las medidas paliativas se introducen progresivamente según las necesidades del paciente, pudiendo coexistir con tratamientos dirigidos a la enfermedad durante un tiempo."},
+        {"id": "d", "texto": "La suspensión inmediata de todos los fármacos y la instauración de sedación terminal."}
+      ],
+      "respuestaCorrecta": "a"
+    }
+  ]
+}

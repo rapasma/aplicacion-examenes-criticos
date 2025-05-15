@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen5",
+  "nombreExamen": "Paliativos General - Examen 5 (Intermedio)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "La 'atención integral e integrada' en cuidados paliativos, mencionada en el Bloque 1, se refiere a:",
+      "opciones": [
+        {"id": "a", "texto": "Un enfoque que solo considera los aspectos físicos de la enfermedad."},
+        {"id": "b", "texto": "Una atención que cubre las necesidades físicas, psicológicas, sociales y espirituales del paciente y su familia, coordinada entre los diferentes niveles asistenciales."},
+        {"id": "c", "texto": "La integración de terapias alternativas exclusivamente, como la musicoterapia."},
+        {"id": "d", "texto": "La atención proporcionada únicamente por médicos especialistas en paliativos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "Uno de los principios de los cuidados paliativos según la OMS es 'no acelerar la llegada de la muerte ni tampoco prorrogarla'. ¿Cómo se traduce esto en la práctica clínica?",
+      "opciones": [
+        {"id": "a", "texto": "Se deben aplicar todas las medidas de soporte vital avanzado indefinidamente."},
+        {"id": "b", "texto": "Implica la sedación terminal en todos los pacientes para acortar el sufrimiento."},
+        {"id": "c", "texto": "Se enfoca en el alivio de síntomas y el confort, evitando tanto la eutanasia como el encarnizamiento terapéutico."},
+        {"id": "d", "texto": "Significa que solo se pueden usar analgésicos no opioides."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Los criterios de la SECPAL para definir a un paciente como 'terminal' incluyen 'numerosos problemas o síntomas intensos, múltiples y cambiantes'. Esto implica que el manejo del paciente requerirá:",
+      "opciones": [
+        {"id": "a", "texto": "Un único fármaco polivalente para todos los síntomas."},
+        {"id": "b", "texto": "Una evaluación continua y un plan terapéutico dinámico y flexible, ajustado a las necesidades cambiantes."},
+        {"id": "c", "texto": "Derivación inmediata a una unidad de agudos para tratamiento intensivo de cada síntoma."},
+        {"id": "d", "texto": "Centrarse solo en el síntoma más molesto e ignorar los demás."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "En el contexto de la quimioterapia, ¿cuál es la diferencia principal entre un tratamiento con intención 'radical' y uno con intención 'paliativa'?",
+      "opciones": [
+        {"id": "a", "texto": "La quimioterapia radical siempre es menos tóxica que la paliativa."},
+        {"id": "b", "texto": "La radical busca la curación o la erradicación completa del tumor, mientras que la paliativa busca controlar síntomas, reducir el tamaño tumoral para aliviar molestias o frenar la progresión, aun sabiendo que la curación es improbable."},
+        {"id": "c", "texto": "La quimioterapia paliativa solo se administra por vía oral."},
+        {"id": "d", "texto": "No hay diferencia en la intención, solo en los fármacos utilizados."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "Si un paciente bajo quimioterapia presenta 'neutropenia febril', ¿cuál es la actuación prioritaria según 'Nociones de quimioterapia'?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar inmediatamente un estimulante de colonias de granulocitos (G-CSF) y esperar 24 horas."},
+        {"id": "b", "texto": "Considerarlo una urgencia, buscar el origen de la infección e instaurar tratamiento antibiótico adecuado con rapidez."},
+        {"id": "c", "texto": "Aislar al paciente y administrar únicamente antitérmicos."},
+        {"id": "d", "texto": "Realizar una transfusión de concentrados de hematíes."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La alteración cutánea es un efecto secundario de la quimioterapia. Si un paciente desarrolla hiperpigmentación en una zona donde hubo extravasación de un citostático, ¿qué cuidado de enfermería es relevante a largo plazo?",
+      "opciones": [
+        {"id": "a", "texto": "Aplicar cremas blanqueadoras potentes de inmediato."},
+        {"id": "b", "texto": "Informar al paciente sobre la posible persistencia de la mancha y la importancia de la protección solar en esa área para evitar mayor pigmentación o daño."},
+        {"id": "c", "texto": "Realizar masajes vigorosos en la zona para dispersar el pigmento."},
+        {"id": "d", "texto": "Indicar que la hiperpigmentación desaparecerá completamente en pocos días."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "El Bloque 2, Tema 3, enfatiza que en cuidados paliativos se mezclan 'ciencia y humanismo'. ¿Cómo se refleja esto en el control de síntomas?",
+      "opciones": [
+        {"id": "a", "texto": "Priorizando siempre los tratamientos farmacológicos basados en la evidencia sobre cualquier aspecto humano."},
+        {"id": "b", "texto": "Utilizando la mejor evidencia científica para el manejo farmacológico y no farmacológico, junto con una atención empática y centrada en la persona y su sufrimiento global."},
+        {"id": "c", "texto": "Aplicando exclusivamente terapias alternativas y apoyo emocional."},
+        {"id": "d", "texto": "Delegando todos los aspectos humanísticos al voluntariado."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Al valorar el dolor de un paciente, este refiere 'un dolor como quemazón que sigue el trayecto de un nervio'. ¿Qué tipo de dolor según su fisiopatología es más probable?",
+      "opciones": [
+        {"id": "a", "texto": "Dolor somático superficial."},
+        {"id": "b", "texto": "Dolor visceral difuso."},
+        {"id": "c", "texto": "Dolor neuropático."},
+        {"id": "d", "texto": "Dolor psicógeno puro."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La Escala ECOG (Eastern Cooperative Oncology Group) valora la capacidad funcional del paciente oncológico. Un paciente con ECOG 3:",
+      "opciones": [
+        {"id": "a", "texto": "Está totalmente asintomático y realiza actividad normal."},
+        {"id": "b", "texto": "Presenta síntomas leves pero se desempeña normalmente en actividades cotidianas."},
+        {"id": "c", "texto": "Necesita estar encamado más de la mitad del día y requiere ayuda para la mayoría de las actividades de la vida diaria."},
+        {"id": "d", "texto": "Permanece encamado el 100% del día y necesita ayuda para todas las actividades."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "En el tratamiento del dolor crónico, la 'sensibilización central' es un fenómeno que explica:",
+      "opciones": [
+        {"id": "a", "texto": "La disminución progresiva de la percepción del dolor con el tiempo."},
+        {"id": "b", "texto": "Por qué el dolor crónico siempre se localiza en un único punto."},
+        {"id": "c", "texto": "Una amplificación y mantenimiento del dolor en el sistema nervioso central, incluso con estímulos periféricos leves o ausentes, contribuyendo a características como la alodinia o la hiperalgesia."},
+        {"id": "d", "texto": "Que el dolor crónico es exclusivamente un problema psicológico."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "Un paciente con cáncer avanzado y metástasis óseas refiere un dolor basal continuo de 7/10 (EVA) y varios episodios al día de dolor intenso 9/10 al moverse. ¿Cómo debería abordarse farmacológicamente este dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Solo con AINEs a demanda para el dolor irruptivo."},
+        {"id": "b", "texto": "Con una pauta regular de un opioide potente para el dolor basal, más dosis de rescate de un opioide de acción rápida para el dolor irruptivo, y considerar coadyuvantes (ej. corticoides, bifosfonatos)."},
+        {"id": "c", "texto": "Únicamente con paracetamol cada 8 horas."},
+        {"id": "d", "texto": "Esperar a que el dolor basal desaparezca antes de tratar el dolor irruptivo."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "La 'tolerancia' a los opioides se define como:",
+      "opciones": [
+        {"id": "a", "texto": "La aparición de síntomas de abstinencia al suspender el fármaco."},
+        {"id": "b", "texto": "La necesidad de incrementar la dosis del opioide para lograr el mismo efecto analgésico que se obtenía inicialmente con dosis menores."},
+        {"id": "c", "texto": "Una reacción alérgica al opioide."},
+        {"id": "d", "texto": "La compulsión a ingerir opioides para experimentar sus efectos psíquicos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "En un paciente con delirium hipoactivo, ¿cuál de las siguientes manifestaciones sería la más característica?",
+      "opciones": [
+        {"id": "a", "texto": "Agresividad verbal y física constante."},
+        {"id": "b", "texto": "Alucinaciones visuales terroríficas con intentos de huida."},
+        {"id": "c", "texto": "Letargia, somnolencia diurna excesiva, disminución de la interacción y respuestas lentas."},
+        {"id": "d", "texto": "Habla rápida e incoherente con fuga de ideas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "Una medida para prevenir el delirium en pacientes de riesgo en cuidados paliativos es 'evitar la utilización excesiva e inadecuada de sedantes y analgésicos'. ¿Por qué esta medida es importante?",
+      "opciones": [
+        {"id": "a", "texto": "Porque estos fármacos no son efectivos para el control de síntomas en paliativos."},
+        {"id": "b", "texto": "Porque muchos sedantes y analgésicos (especialmente opioides y benzodiacepinas) pueden precipitar o empeorar el delirium, sobre todo en pacientes vulnerables."},
+        {"id": "c", "texto": "Para reducir los costes del tratamiento farmacológico."},
+        {"id": "d", "texto": "Porque la familia prefiere que el paciente esté siempre completamente alerta."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Un paciente terminal con insomnio refiere 'miedo a dormirse y no despertar'. Este es un ejemplo de un factor que contribuye al insomnio de tipo:",
+      "opciones": [
+        {"id": "a", "texto": "Ambiental (ej. ruido en la habitación)."},
+        {"id": "b", "texto": "Relacionado con síntomas físicos mal controlados (ej. dolor)."},
+        {"id": "c", "texto": "Existencial o espiritual, que requiere un abordaje que va más allá de los hipnóticos."},
+        {"id": "d", "texto": "Secundario a un efecto adverso de un diurético."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "El tratamiento de la ansiedad en el enfermo terminal es multimodal. ¿Qué papel juega la 'normalización' de ciertas reacciones ansiosas o depresivas?",
+      "opciones": [
+        {"id": "a", "texto": "Minimizar la importancia de los sentimientos del paciente."},
+        {"id": "b", "texto": "Ayudar al paciente a entender que algunas de sus reacciones son comprensibles y esperables ante su situación, lo que puede reducir la sensación de 'estar volviéndose loco' y facilitar el afrontamiento."},
+        {"id": "c", "texto": "Convencer al paciente de que no tiene motivos para estar ansioso."},
+        {"id": "d", "texto": "Justificar la no intervención farmacológica en todos los casos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "La depresión en el paciente paliativo a menudo se presenta con síntomas somáticos. ¿Por qué es importante aprender a captar los síntomas no somáticos como la anhedonia o los sentimientos de culpa?",
+      "opciones": [
+        {"id": "a", "texto": "Porque los síntomas somáticos no son relevantes en la depresión."},
+        {"id": "b", "texto": "Porque los síntomas no somáticos son más fáciles de tratar con fármacos."},
+        {"id": "c", "texto": "Porque en un paciente con múltiples síntomas físicos, estos pueden enmascarar una depresión subyacente si no se exploran activamente los aspectos afectivos y cognitivos."},
+        {"id": "d", "texto": "Porque solo los síntomas no somáticos responden a la psicoterapia."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "En la quimioterapia paliativa, ¿cuál es el factor determinante para decidir continuar o interrumpir el tratamiento?",
+      "opciones": [
+        {"id": "a", "texto": "La desaparición completa del tumor en las pruebas de imagen."},
+        {"id": "b", "texto": "El deseo de la familia de seguir intentándolo todo."},
+        {"id": "c", "texto": "El balance entre el beneficio obtenido (control de síntomas, calidad de vida) y la toxicidad o efectos secundarios que produce el tratamiento en el paciente."},
+        {"id": "d", "texto": "Haber completado un número preestablecido de ciclos, independientemente de la respuesta."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Los opioides son la base del tratamiento del dolor moderado a severo. ¿Qué significa que un opioide como la morfina 'carece de techo terapéutico' para su efecto analgésico?",
+      "opciones": [
+        {"id": "a", "texto": "Que se puede aumentar la dosis indefinidamente sin riesgo de efectos secundarios."},
+        {"id": "b", "texto": "Que a partir de cierta dosis ya no produce más analgesia."},
+        {"id": "c", "texto": "Que al aumentar la dosis se sigue obteniendo mayor efecto analgésico, aunque limitado por la aparición de efectos secundarios intolerables."},
+        {"id": "d", "texto": "Que solo es efectivo para el dolor oncológico."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "Un paciente con dolor crónico oncológico está bien controlado con morfina de liberación prolongada, pero presenta estreñimiento severo. ¿Cuál sería la primera medida a considerar?",
+      "opciones": [
+        {"id": "a", "texto": "Disminuir la dosis de morfina aunque el dolor reaparezca."},
+        {"id": "b", "texto": "Suspender la morfina y cambiar a un AINE."},
+        {"id": "c", "texto": "Asegurar una pauta laxante optimizada y adecuada, ya que el estreñimiento es un efecto secundario muy frecuente y previsible de los opioides."},
+        {"id": "d", "texto": "Indicar al paciente que el estreñimiento es normal y no requiere tratamiento."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}

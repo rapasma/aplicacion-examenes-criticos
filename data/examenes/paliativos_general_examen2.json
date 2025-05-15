@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen2",
+  "nombreExamen": "Paliativos General - Examen 2 (Fácil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "¿Cuál es uno de los cinco conceptos prioritarios de la 'Teoría del final tranquilo de la vida' de Ruland y Moore?",
+      "opciones": [
+        {"id": "a", "texto": "Ausencia de dolor."},
+        {"id": "b", "texto": "Realización de todos los deseos materiales del paciente."},
+        {"id": "c", "texto": "Aislamiento completo para asegurar la paz."},
+        {"id": "d", "texto": "Administración continua de sedantes potentes."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La etimología de 'paliar' (del latín 'palliare') se relaciona con la acción de:",
+      "opciones": [
+        {"id": "a", "texto": "Curar completamente una enfermedad."},
+        {"id": "b", "texto": "Encubrir, disimular, mitigar la violencia de la enfermedad o suavizar una pena."},
+        {"id": "c", "texto": "Fortalecer el sistema inmunológico del paciente."},
+        {"id": "d", "texto": "Diagnosticar enfermedades en sus etapas iniciales."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "Según el Bloque 1, ¿cuál es la función singular de la enfermería según la definición de V. Henderson, aplicable también a los cuidados paliativos?",
+      "opciones": [
+        {"id": "a", "texto": "Realizar diagnósticos médicos complejos."},
+        {"id": "b", "texto": "Administrar exclusivamente tratamientos farmacológicos."},
+        {"id": "c", "texto": "Asistir al individuo (enfermo o sano) en actividades que contribuyen a la salud, recuperación o una muerte placentera."},
+        {"id": "d", "texto": "Dirigir el equipo multidisciplinar de cuidados paliativos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "La quimioterapia neoadyuvante se administra:",
+      "opciones": [
+        {"id": "a", "texto": "Después de la cirugía para eliminar células residuales."},
+        {"id": "b", "texto": "Junto con la radioterapia exclusivamente."},
+        {"id": "c", "texto": "Solo en pacientes que no son candidatos a cirugía."},
+        {"id": "d", "texto": "Antes de un tratamiento quirúrgico o de radioterapia para disminuir el estadio tumoral."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "Un 'Hospital de Día' en oncología se creó principalmente para:",
+      "opciones": [
+        {"id": "a", "texto": "Administrar quimioterapia y cuidados de soporte en un entorno ambulatorio de unas horas, mejorando la calidad de vida."},
+        {"id": "b", "texto": "Pacientes que requieren hospitalización prolongada para quimioterapia."},
+        {"id": "c", "texto": "Realizar únicamente cirugías menores oncológicas."},
+        {"id": "d", "texto": "Ofrecer cuidados paliativos exclusivos a domicilio."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "Uno de los efectos secundarios de la quimioterapia es la mucositis. ¿Qué es la mucositis?",
+      "opciones": [
+        {"id": "a", "texto": "Una alteración en la sensibilidad de manos y pies."},
+        {"id": "b", "texto": "Una reacción inflamatoria de las mucosas (ej. boca, tracto digestivo) que puede causar eritema o ulceraciones."},
+        {"id": "c", "texto": "La caída del cabello."},
+        {"id": "d", "texto": "Un descenso en el número de glóbulos blancos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "En el manejo de síntomas en cuidados paliativos (Bloque 2, Tema 3), ¿qué se debe hacer si un paciente presenta un síntoma constante como el dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Dar los medicamentos de forma pautada y regular para evitar la aparición del síntoma."},
+        {"id": "b", "texto": "Administrar analgésicos solo cuando el paciente refiera dolor muy intenso (a demanda)."},
+        {"id": "c", "texto": "Utilizar principalmente medidas no farmacológicas, reservando los fármacos para crisis."},
+        {"id": "d", "texto": "Aumentar la dosis de sedantes para que el paciente no perciba el dolor."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "¿Cuál es un criterio importante para el uso de medicamentos en Cuidados Paliativos, según el Bloque 2, Tema 3?",
+      "opciones": [
+        {"id": "a", "texto": "Utilizar siempre la vía intramuscular por su rápida absorción."},
+        {"id": "b", "texto": "Priorizar fármacos con muchos efectos secundarios si son muy potentes."},
+        {"id": "c", "texto": "Aumentar al máximo el número de fármacos para cubrir todos los posibles síntomas."},
+        {"id": "d", "texto": "Procurar la vía oral siempre que sea posible y una administración sencilla."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "La escala ESAS (Edmonton Symptom Assessment System) es una herramienta que permite al paciente valorar la intensidad de varios síntomas comunes en cuidados paliativos. ¿Cómo se realiza esta valoración?",
+      "opciones": [
+        {"id": "a", "texto": "Mediante una exploración física detallada por parte de la enfermera."},
+        {"id": "b", "texto": "El paciente otorga un valor numérico (generalmente de 0 a 10) a la intensidad de cada síntoma listado."},
+        {"id": "c", "texto": "A través de un análisis de sangre específico."},
+        {"id": "d", "texto": "Observando únicamente los signos no verbales del paciente."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "El dolor neuropático, según la clasificación fisiopatológica del dolor (Tema 4 del PDF 'Tema 7'), se produce como consecuencia de:",
+      "opciones": [
+        {"id": "a", "texto": "Un estímulo que daña órganos somáticos o viscerales."},
+        {"id": "b", "texto": "Una lesión o enfermedad que afecta al sistema somatosensorial (nervios periféricos o sistema nervioso central)."},
+        {"id": "c", "texto": "Factores exclusivamente psicológicos."},
+        {"id": "d", "texto": "La activación normal de los nociceptores cutáneos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "En la valoración integral del dolor, el acrónimo ALICIA se utiliza para recordar los aspectos a preguntar. ¿Qué significa la 'A' en ALICIA?",
+      "opciones": [
+        {"id": "a", "texto": "Agravantes (factores que empeoran el dolor)."},
+        {"id": "b", "texto": "Autonomía (cómo afecta la independencia del paciente)."},
+        {"id": "c", "texto": "Ansiedad (nivel de ansiedad asociado al dolor)."},
+        {"id": "d", "texto": "Aparición (cuándo y cómo comenzó el dolor)."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "Para el tratamiento del dolor leve, el primer escalón de la escalera analgésica de la OMS incluye fármacos como:",
+      "opciones": [
+        {"id": "a", "texto": "Paracetamol o AINEs (Antiinflamatorios No Esteroideos)."},
+        {"id": "b", "texto": "Morfina y Fentanilo."},
+        {"id": "c", "texto": "Codeína o Tramadol."},
+        {"id": "d", "texto": "Antidepresivos y anticonvulsivantes."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "¿Cuál de los siguientes es un factor de riesgo NO modificable para el delirio en pacientes en cuidados paliativos?",
+      "opciones": [
+        {"id": "a", "texto": "Edad avanzada y demencia preexistente."},
+        {"id": "b", "texto": "Polifarmacia."},
+        {"id": "c", "texto": "Deshidratación."},
+        {"id": "d", "texto": "Tratamiento analgésico insuficiente."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "Para la evaluación del delirio en UCI o en pacientes críticos, se menciona el uso de la herramienta:",
+      "opciones": [
+        {"id": "a", "texto": "Escala de Glasgow."},
+        {"id": "b", "texto": "CAM-ICU (Confusion Assessment Method for the ICU)."},
+        {"id": "c", "texto": "Escala EVA."},
+        {"id": "d", "texto": "Índice de Karnofsky."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "Una medida no farmacológica importante para prevenir o manejar el delirio en un paciente hospitalizado es:",
+      "opciones": [
+        {"id": "a", "texto": "Mantener al paciente en aislamiento sensorial total."},
+        {"id": "b", "texto": "Restringir las visitas familiares para evitar sobreestimulación."},
+        {"id": "c", "texto": "Cambiar al paciente de habitación diariamente para ofrecer nuevos estímulos."},
+        {"id": "d", "texto": "Orientar frecuentemente en tiempo y espacio, y asegurar el uso de gafas o audífonos si los precisa."}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "El tratamiento farmacológico de elección para el delirium, especialmente si hay agitación, suele ser:",
+      "opciones": [
+        {"id": "a", "texto": "Benzodiacepinas de acción corta como primera línea en todos los casos."},
+        {"id": "b", "texto": "Neurolépticos como el Haloperidol (fármaco poco sedante que reduce la agitación)."},
+        {"id": "c", "texto": "Opioides a dosis altas."},
+        {"id": "d", "texto": "Estimulantes del sistema nervioso central."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "¿Qué factor relacionado con la propia enfermedad o sus tratamientos puede contribuir al insomnio en pacientes terminales?",
+      "opciones": [
+        {"id": "a", "texto": "La actividad física excesiva durante el día."},
+        {"id": "b", "texto": "La ausencia total de medicación."},
+        {"id": "c", "texto": "Un control inadecuado del dolor, o efectos de fármacos como corticoides."},
+        {"id": "d", "texto": "Una dieta muy rica en triptófano."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La ansiedad en el enfermo terminal, ¿se considera siempre una reacción patológica que requiere tratamiento farmacológico intensivo?",
+      "opciones": [
+        {"id": "a", "texto": "Sí, cualquier signo de ansiedad debe ser tratado inmediatamente con ansiolíticos potentes."},
+        {"id": "b", "texto": "No, la ansiedad en estos pacientes es un signo de que no aceptan su situación y debe ser ignorada."},
+        {"id": "c", "texto": "La ansiedad puede ser una reacción normal y fisiológica ante una situación de amenaza; el abordaje debe ser multimodal, combinando escucha, apoyo y, si es necesario, fármacos."},
+        {"id": "d", "texto": "Solo se trata farmacológicamente si el paciente lo solicita explícitamente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "En el tratamiento farmacológico de la ansiedad en cuidados paliativos, ¿qué tipo de benzodiacepinas se suelen preferir?",
+      "opciones": [
+        {"id": "a", "texto": "Benzodiacepinas de vida media muy larga para asegurar un efecto continuo."},
+        {"id": "b", "texto": "Nunca se usan benzodiacepinas, se prefieren los barbitúricos."},
+        {"id": "c", "texto": "Benzodiacepinas de vida media corta (ej. lorazepam), por ser más seguras en cuanto a metabolitos activos y tener menor sedación diurna."},
+        {"id": "d", "texto": "Cualquier benzodiacepina es igual de efectiva y segura."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "La depresión en un paciente terminal puede manifestarse con síntomas somáticos como dolor o astenia, pero también con síntomas no somáticos como:",
+      "opciones": [
+        {"id": "a", "texto": "Aumento del apetito y ganancia de peso."},
+        {"id": "b", "texto": "Euforia y energía desbordante."},
+        {"id": "c", "texto": "Mejora de la concentración y la memoria."},
+        {"id": "d", "texto": "Anhedonia (incapacidad para disfrutar), sentimientos de culpa y desesperanza."}
+      ],
+      "respuestaCorrecta": "d"
+    }
+  ]
+}

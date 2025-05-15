@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen6",
+  "nombreExamen": "Paliativos General - Examen 6 (Intermedio)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "Según la filosofía de los cuidados paliativos, ¿cuál es uno de los objetivos principales al atender a un paciente cuya enfermedad no responde al tratamiento curativo?",
+      "opciones": [
+         {"id": "a", "texto": "Conseguir la mejor calidad de vida posible para el paciente y su familia. "},
+        {"id": "b", "texto": "Limitar la información al paciente para evitarle angustia."},
+        {"id": "c", "texto": "Priorizar la prolongación de la vida por encima de cualquier otra consideración."},
+        {"id": "d", "texto": "Centrarse únicamente en los aspectos físicos del sufrimiento."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "La 'Teoría del final tranquilo de la vida' de Ruland y Moore incluye cinco conceptos prioritarios. ¿Cuál de los siguientes NO forma parte de estos conceptos?",
+      "opciones": [
+         {"id": "a", "texto": "Ausencia de dolor. "},
+        {"id": "b", "texto": "Asegurar la curación de la enfermedad subyacente."},
+         {"id": "c", "texto": "Experiencia de dignidad y respeto. "},
+         {"id": "d", "texto": "Proximidad de los allegados. "}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "El concepto de 'Dolor Total', introducido por Cicely Saunders, reconoce que el dolor tiene múltiples dimensiones. ¿Cuál de las siguientes dimensiones se considera parte del Dolor Total?",
+      "opciones": [
+        {"id": "a", "texto": "Únicamente la intensidad del dolor físico referida por el paciente."},
+        {"id": "b", "texto": "Solo los aspectos económicos derivados de la enfermedad."},
+         {"id": "c", "texto": "Las dimensiones físicas, emocionales, sociales y espirituales del sufrimiento. "},
+        {"id": "d", "texto": "La respuesta del paciente a los analgésicos opiáceos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "Al valorar la disnea en un paciente en cuidados paliativos, una medida no farmacológica que puede ayudar a disminuir la sensación de falta de aire es:",
+      "opciones": [
+        {"id": "a", "texto": "Mantener al paciente en decúbito supino estricto."},
+        {"id": "b", "texto": "Aumentar la temperatura de la habitación significativamente."},
+        {"id": "c", "texto": "Restringir la ingesta de líquidos por completo."},
+         {"id": "d", "texto": "Dirigir corrientes de aire frío hacia la cara del enfermo (abanico, ventilador). "}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "En el manejo del estreñimiento inducido por opioides en un paciente paliativo, además de asegurar una hidratación adecuada, ¿qué medida es fundamental?",
+      "opciones": [
+         {"id": "a", "texto": "Pautar laxantes de forma regular y anticipada. "},
+        {"id": "b", "texto": "Recomendar una dieta exclusiva de líquidos claros."},
+        {"id": "c", "texto": "Suspender el opioide inmediatamente."},
+        {"id": "d", "texto": "Limitar la movilidad del paciente al máximo."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "La xerostomía, o sensación de boca seca, es un síntoma frecuente. ¿Cuál de las siguientes NO es una causa común de xerostomía en pacientes paliativos?",
+      "opciones": [
+         {"id": "a", "texto": "Medicación (ej. opioides, antidepresivos). "},
+        {"id": "b", "texto": "Una hidratación oral excesiva."},
+         {"id": "c", "texto": "Radioterapia en cabeza y cuello. "},
+         {"id": "d", "texto": "Deshidratación. "}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "En el contexto del delirio en un paciente terminal, ¿cuál es una característica clave de su presentación clínica?",
+      "opciones": [
+        {"id": "a", "texto": "Siempre se presenta con agitación y agresividad."},
+        {"id": "b", "texto": "El nivel de conciencia y atención se mantiene estable."},
+         {"id": "c", "texto": "Los síntomas tienden a fluctuar a lo largo del día, a menudo empeorando por la noche. "},
+        {"id": "d", "texto": "Es un proceso crónico que se desarrolla lentamente durante meses."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "Una de las estrategias terapéuticas en el manejo de síntomas, según la SECPAL, debe ser mixta. Esto implica:",
+      "opciones": [
+        {"id": "a", "texto": "Utilizar solo tratamientos farmacológicos."},
+        {"id": "b", "texto": "Aplicar únicamente medidas no farmacológicas."},
+        {"id": "c", "texto": "Alternar tratamientos farmacológicos y no farmacológicos cada semana."},
+         {"id": "d", "texto": "Combinar medidas generales de la situación terminal y específicas para cada síntoma, incluyendo tanto farmacológicas como no farmacológicas. "}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "En la comunicación con el paciente y la familia sobre el tratamiento, ¿qué se recomienda respecto a la información sobre los medicamentos?",
+      "opciones": [
+         {"id": "a", "texto": "Detallar el nombre del medicamento, intervalo, vía y para qué sirve, usando un lenguaje comprensible. "},
+        {"id": "b", "texto": "Limitar la información al nombre del fármaco para no confundirlos."},
+        {"id": "c", "texto": "Usar exclusivamente terminología técnica para asegurar la precisión."},
+        {"id": "d", "texto": "Indicar que los efectos secundarios son muy raros y no es necesario mencionarlos."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "Cuando se valoran los síntomas de un paciente utilizando la escala ESAS (Edmonton Symptom Assessment System), ¿quién es el principal encargado de puntuar la intensidad de los síntomas?",
+      "opciones": [
+        {"id": "a", "texto": "El médico especialista."},
+         {"id": "b", "texto": "El propio paciente, en la medida de sus posibilidades. "},
+        {"id": "c", "texto": "El familiar cuidador principal exclusivamente."},
+        {"id": "d", "texto": "El personal de enfermería basándose en la observación."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "Según la clasificación fisiopatológica del dolor, el dolor somático es aquel que procede de:",
+      "opciones": [
+        {"id": "a", "texto": "Lesiones en el sistema nervioso central o periférico."},
+        {"id": "b", "texto": "Órganos internos y vísceras."},
+         {"id": "c", "texto": "Estructuras no viscerales como piel, huesos, articulaciones, músculos. "},
+        {"id": "d", "texto": "Factores puramente emocionales o psicológicos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "En la escalera analgésica de la OMS, si un dolor leve (escalón 1) no se controla adecuadamente, ¿cuál sería el siguiente paso general a considerar?",
+      "opciones": [
+        {"id": "a", "texto": "Pasar directamente a opioides potentes intravenosos."},
+         {"id": "b", "texto": "Introducir un opioide débil (escalón 2), pudiendo mantener el analgésico no opioide. "},
+        {"id": "c", "texto": "Aplicar sedación paliativa."},
+        {"id": "d", "texto": "Añadir un coadyuvante como un corticoide, sin modificar el analgésico de base."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "Una intervención enfermera clave en el manejo del delirio es asegurar un ambiente adecuado. ¿Qué característica tendría este ambiente?",
+      "opciones": [
+         {"id": "a", "texto": "Tranquilo, con luz tenue por la noche, y rodeado de personas y objetos familiares si es posible. "},
+        {"id": "b", "texto": "Con múltiples estímulos visuales y auditivos para mantener al paciente alerta."},
+        {"id": "c", "texto": "Cambiando frecuentemente de habitación para evitar la monotonía."},
+        {"id": "d", "texto": "Limitando al máximo la presencia de familiares."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "¿Cuál es el objetivo principal de la quimioterapia paliativa?",
+      "opciones": [
+        {"id": "a", "texto": "Lograr la curación completa del cáncer avanzado."},
+         {"id": "b", "texto": "Reducir el tumor y/o controlar síntomas para mejorar la calidad de vida, aun sabiendo que la curación es improbable. "},
+        {"id": "c", "texto": "Prevenir la aparición de metástasis en un tumor ya curado."},
+        {"id": "d", "texto": "Sustituir la necesidad de analgésicos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "La 'claudicación familiar' en el contexto de los cuidados paliativos se refiere a:",
+      "opciones": [
+        {"id": "a", "texto": "La decisión familiar de optar por tratamientos curativos agresivos."},
+        {"id": "b", "texto": "La negación persistente de la gravedad de la enfermedad por parte de la familia."},
+         {"id": "c", "texto": "La pérdida de capacidad de la familia para ofrecer una respuesta adecuada a las demandas del enfermo debido al agotamiento. "},
+        {"id": "d", "texto": "Cuando la familia decide no participar en absoluto en los cuidados del paciente."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "Para aliviar la disnea en un paciente paliativo, además de tratar la causa si es posible, ¿qué tipo de fármacos se utilizan comúnmente para reducir la sensación de ahogo y la ansiedad asociada?",
+      "opciones": [
+        {"id": "a", "texto": "Antibióticos de amplio espectro de forma sistemática."},
+        {"id": "b", "texto": "Estimulantes respiratorios potentes."},
+        {"id": "c", "texto": "Dosis altas de diuréticos en todos los casos."},
+         {"id": "d", "texto": "Opioides (ej. morfina a dosis bajas) y/o ansiolíticos (ej. benzodiacepinas). "}
+      ],
+      "respuestaCorrecta": "d"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "El objetivo principal de la sedación paliativa es:",
+      "opciones": [
+         {"id": "a", "texto": "Aliviar un sufrimiento físico o psicológico refractario e inalcanzable con otras medidas, mediante la disminución de la conciencia. "},
+        {"id": "b", "texto": "Acelerar el proceso de la muerte a petición de la familia."},
+        {"id": "c", "texto": "Reducir los costes de los tratamientos analgésicos."},
+        {"id": "d", "texto": "Facilitar el descanso del equipo de cuidados paliativos."}
+      ],
+      "respuestaCorrecta": "a"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "En la atención al moribundo, si el paciente presenta estertores premortem debido a la acumulación de secreciones, ¿cuál es la actitud recomendada respecto a la aspiración orofaríngea?",
+      "opciones": [
+        {"id": "a", "texto": "Aspirar frecuente y vigorosamente para eliminar todas las secreciones."},
+        {"b": "b", "texto": "Valorar la aspiración con cautela, ya que puede ser molesta y poco efectiva, explicando la situación a la familia. "},
+        {"id": "c", "texto": "Aumentar la hidratación intravenosa para fluidificar las secreciones."},
+        {"id": "d", "texto": "Administrar broncodilatadores potentes para eliminar los estertores."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "Un principio ético fundamental en la administración de la sedación paliativa es:",
+      "opciones": [
+        {"id": "a", "texto": "Administrarla siempre de forma profunda e irreversible desde el inicio."},
+        {"id": "b", "texto": "No requerir el consentimiento del paciente o su representante."},
+         {"id": "c", "texto": "El principio de proporcionalidad: reducir el nivel de conciencia solo lo necesario para aliviar el sufrimiento. "},
+        {"id": "d", "texto": "Utilizarla como primera opción ante cualquier síntoma molesto."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "El fenómeno de la 'conspiración del silencio' en el entorno de un paciente terminal se produce cuando:",
+      "opciones": [
+        {"id": "a", "texto": "El paciente decide no comunicar sus síntomas al equipo médico."},
+        {"id": "b", "texto": "El equipo médico oculta información relevante al paciente por sistema."},
+         {"id": "c", "texto": "Se evita hablar abiertamente sobre la enfermedad, el pronóstico o la muerte entre el paciente, la familia y/o los profesionales, a menudo con la intención de proteger. "},
+        {"id": "d", "texto": "El paciente y la familia acuerdan conjuntamente no recibir más información."}
+      ],
+      "respuestaCorrecta": "d"
+    }
+  ]
+}

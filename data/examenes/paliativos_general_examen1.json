@@ -1,0 +1,227 @@
+{
+  "idExamen": "paliativos_general_examen1",
+  "nombreExamen": "Paliativos General - Examen 1 (Fácil)",
+  "idTema": "paliativos_general",
+  "preguntas": [
+    {
+      "idPregunta": 1,
+      "texto": "¿Cuál es la filosofía principal de los cuidados paliativos según el Bloque 1?",
+      "opciones": [
+        {"id": "a", "texto": "Prolongar la vida del paciente a toda costa utilizando la tecnología más avanzada."},
+        {"id": "b", "texto": "Proporcionar calidad de vida y alivio del sufrimiento cuando la curación no es el objetivo principal."},
+        {"id": "c", "texto": "Centrarse exclusivamente en el tratamiento farmacológico del dolor."},
+        {"id": "d", "texto": "Acelerar el proceso de la muerte para evitar el sufrimiento prolongado."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 2,
+      "texto": "Según la Teoría General del Déficit de Autocuidado de D. Orem, ¿cuándo se considera que un paciente necesita cuidados paliativos?",
+      "opciones": [
+        {"id": "a", "texto": "Cuando el paciente rechaza el tratamiento curativo."},
+        {"id": "b", "texto": "Al inicio de cualquier enfermedad crónica, como medida preventiva."},
+        {"id": "c", "texto": "Cuando existe una situación de salud de la que no se espera mejoría y que irrevocablemente desencadena la muerte."},
+        {"id": "d", "texto": "Únicamente cuando el paciente presenta dolor severo."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 3,
+      "texto": "¿Quién fue Cicely Saunders y cuál fue su contribución principal al movimiento de los cuidados paliativos?",
+      "opciones": [
+        {"id": "a", "texto": "Una teórica de enfermería que desarrolló el modelo de las 14 necesidades."},
+        {"id": "b", "texto": "La fundadora del primer hospital general en Londres."},
+        {"id": "c", "texto": "Una enfermera, asistente social y médico que fue pionera en el desarrollo de los modernos hospices y el concepto de 'Dolor Total'."},
+        {"id": "d", "texto": "La creadora de la escala analgésica de la OMS."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 4,
+      "texto": "¿Qué significa la quimioterapia antineoplásica según el PDF 'Nociones de quimioterapia'?",
+      "opciones": [
+        {"id": "a", "texto": "Un tratamiento que utiliza radiación para destruir células cancerosas."},
+        {"id": "b", "texto": "Un tratamiento con medicamentos que evitan la proliferación celular, sea por daño directo o inhibición del crecimiento."},
+        {"id": "c", "texto": "Un tipo de cirugía para extirpar tumores."},
+        {"id": "d", "texto": "Una terapia que únicamente estimula el sistema inmunológico."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 5,
+      "texto": "La quimioterapia adyuvante se administra:",
+      "opciones": [
+        {"id": "a", "texto": "Antes de un tratamiento principal como la cirugía, para reducir el tamaño del tumor."},
+        {"id": "b", "texto": "Como tratamiento único en tumores muy sensibles."},
+        {"id": "c", "texto": "Después de un tratamiento principal (ej. cirugía) para evitar la aparición de metástasis o enfermedad residual."},
+        {"id": "d", "texto": "Solo con intención paliativa para controlar síntomas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 6,
+      "texto": "Uno de los efectos secundarios más temidos de la quimioterapia es la caída del pelo o alopecia. ¿Se recupera el pelo tras finalizar el tratamiento?",
+      "opciones": [
+        {"id": "a", "texto": "No, la pérdida de pelo es siempre permanente."},
+        {"id": "b", "texto": "Solo se recupera si se utilizan tratamientos capilares especiales durante la quimioterapia."},
+        {"id": "c", "texto": "Sí, el pelo se recupera por completo comenzando a crecer en las semanas siguientes a la finalización del tratamiento."},
+        {"id": "d", "texto": "Depende del tipo de cáncer, pero no del fármaco utilizado."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 7,
+      "texto": "Según el Bloque 2, Tema 3, al valorar a una persona con necesidad de cuidados paliativos, se observa que presenta muchos síntomas que son:",
+      "opciones": [
+        {"id": "a", "texto": "Siempre aislados y fáciles de tratar individualmente."},
+        {"id": "b", "texto": "Cambiantes y multifactoriales."},
+        {"id": "c", "texto": "Exclusivamente de origen físico."},
+        {"id": "d", "texto": "Poco preocupantes para el enfermo y la familia."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 8,
+      "texto": "La Sociedad Española de Cuidados Paliativos (SECPAL) propone 'Valorar antes de tratar' los síntomas. ¿Qué implica esto principalmente?",
+      "opciones": [
+        {"id": "a", "texto": "Administrar un tratamiento estándar para cada síntoma sin más consideraciones."},
+        {"id": "b", "texto": "Evitar atribuir todos los síntomas al cáncer y buscar el mecanismo fisiopatológico concreto de cada uno."},
+        {"id": "c", "texto": "Tratar solo los síntomas que el paciente considera más importantes."},
+        {"id": "d", "texto": "Esperar a que los síntomas sean muy intensos antes de iniciar el tratamiento."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 9,
+      "texto": "Al dar instrucciones sobre el tratamiento a un paciente en cuidados paliativos y su familia, es importante:",
+      "opciones": [
+        {"id": "a", "texto": "Usar terminología médica compleja para demostrar profesionalismo."},
+        {"id": "b", "texto": "Limitar la información para no abrumarles."},
+        {"id": "c", "texto": "Utilizar letra clara y legible, detallar los medicamentos, intervalos, vías, y para qué sirve cada uno."},
+        {"id": "d", "texto": "Indicar que todos los medicamentos deben tomarse estrictamente a demanda."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 10,
+      "texto": "El concepto de 'Dolor Total' de Cicely Saunders hace referencia a que el dolor tiene múltiples dimensiones. ¿Cuál de las siguientes NO es una dimensión del Dolor Total?",
+      "opciones": [
+        {"id": "a", "texto": "Dimensión Física."},
+        {"id": "b", "texto": "Dimensión Dietética."},
+        {"id": "c", "texto": "Dimensión Emocional."},
+        {"id": "d", "texto": "Dimensión Espiritual."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 11,
+      "texto": "Según el PDF 'Tema 7' (Dolor y Síntomas Neuropsicológicos), ¿cuál es el indicador más importante de la existencia e intensidad del dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Los signos vitales del paciente (FC, TA)."},
+        {"id": "b", "texto": "La expresión facial observada por la enfermera."},
+        {"id": "c", "texto": "El autoinforme del paciente (lo que el paciente comunica)."},
+        {"id": "d", "texto": "Los resultados de pruebas de imagen."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 12,
+      "texto": "La Escala Visual Analógica (EVA) se utiliza para medir la intensidad del dolor. Generalmente, ¿qué rango numérico utiliza?",
+      "opciones": [
+        {"id": "a", "texto": "De 0 a 5."},
+        {"id": "b", "texto": "De 1 a 100."},
+        {"id": "c", "texto": "De 0 a 10."},
+        {"id": "d", "texto": "No utiliza números, solo caras."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 13,
+      "texto": "¿Para qué grupo de edad es especialmente útil la escala de caras de Wong-Baker para valorar el dolor?",
+      "opciones": [
+        {"id": "a", "texto": "Adultos mayores con deterioro cognitivo."},
+        {"id": "b", "texto": "Adolescentes."},
+        {"id": "c", "texto": "Niños de 3 a 7 años (colaboradores)."},
+        {"id": "d", "texto": "Neonatos."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 14,
+      "texto": "El delirio o síndrome confusional agudo (SCA) es una complicación grave en el paciente crítico y paliativo. Una de sus características principales es:",
+      "opciones": [
+        {"id": "a", "texto": "Un inicio siempre lento y progresivo a lo largo de semanas."},
+        {"id": "b", "texto": "La ausencia de fluctuaciones en los síntomas durante el día."},
+        {"id": "c", "texto": "Una alteración de la conciencia y la atención, con un curso fluctuante y de inicio agudo."},
+        {"id": "d", "texto": "Que siempre se manifiesta con agitación e hiperactividad."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 15,
+      "texto": "En el tratamiento del insomnio en pacientes terminales, ¿qué grupo de fármacos se considera de elección para el tratamiento transitorio y a corto plazo por su seguridad y eficacia?",
+      "opciones": [
+        {"id": "a", "texto": "Opioides potentes."},
+        {"id": "b", "texto": "Antidepresivos tricíclicos."},
+        {"id": "c", "texto": "Benzodiacepinas (ej. lorazepam) y el zolpidem."},
+        {"id": "d", "texto": "Corticoides a dosis altas."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 16,
+      "texto": "La ansiedad en el enfermo terminal puede estar relacionada con:",
+      "opciones": [
+        {"id": "a", "texto": "La certeza absoluta sobre el futuro."},
+        {"id": "b", "texto": "La incertidumbre, el miedo al proceso de morir y la separación de seres queridos."},
+        {"id": "c", "texto": "Un control excelente de todos los síntomas físicos."},
+        {"id": "d", "texto": "La ausencia de dolor."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 17,
+      "texto": "La 'quimioterapia paliativa' se utiliza en situaciones de enfermedad avanzada con el objetivo principal de:",
+      "opciones": [
+        {"id": "a", "texto": "Curar completamente la enfermedad."},
+        {"id": "b", "texto": "Reducir el tumor para permitir una cirugía radical posterior."},
+        {"id": "c", "texto": "Reducir el tumor y/o controlar síntomas (ej. dolor por compresión), mejorando la calidad de vida, aun sabiendo que la curación es improbable."},
+        {"id": "d", "texto": "Evitar la aparición de metástasis en un tumor ya extirpado."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 18,
+      "texto": "La vía de administración más frecuente de la quimioterapia es:",
+      "opciones": [
+        {"id": "a", "texto": "Oral."},
+        {"id": "b", "texto": "Intramuscular."},
+        {"id": "c", "texto": "Intravenosa."},
+        {"id": "d", "texto": "Subcutánea."}
+      ],
+      "respuestaCorrecta": "c"
+    },
+    {
+      "idPregunta": 19,
+      "texto": "¿Cuál es uno de los objetivos al administrar suero fisiológico junto con algunos fármacos citotóxicos muy irritantes?",
+      "opciones": [
+        {"id": "a", "texto": "Disminuir la eficacia del citotóxico para reducir efectos secundarios."},
+        {"id": "b", "texto": "Hidratar bien el organismo y forzar la eliminación rápida del fármaco por la orina tras su efecto."},
+        {"id": "c", "texto": "Aumentar la concentración del fármaco en sangre."},
+        {"id": "d", "texto": "Evitar la necesidad de antieméticos."}
+      ],
+      "respuestaCorrecta": "b"
+    },
+    {
+      "idPregunta": 20,
+      "texto": "El primer escalón de la escalera analgésica de la OMS para el dolor leve utiliza:",
+      "opciones": [
+        {"id": "a", "texto": "Opioides potentes como la morfina."},
+        {"id": "b", "texto": "Opioides débiles como la codeína o el tramadol."},
+        {"id": "c", "texto": "Analgésicos no opioides (AINE, Paracetamol, Metamizol)."},
+        {"id": "d", "texto": "Medidas analgésicas invasivas."}
+      ],
+      "respuestaCorrecta": "c"
+    }
+  ]
+}
